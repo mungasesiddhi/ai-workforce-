@@ -1,0 +1,5001 @@
+AI_Skill,Coding_Skill,Communication_Skill,Career
+8.2,8.9,8.0,Data Scientist
+9.2,8.3,5.8,Machine Learning Engineer
+4.1,5.7,5.2,AI Research Analyst
+6.9,5.5,9.9,Business Intelligence Analyst
+5.7,4.4,4.4,Data Engineer
+4.4,4.6,5.0,AI Cloud Engineer
+4.9,4.6,5.2,Cloud DevOps Engineer
+4.3,4.6,4.7,Site Reliability Engineer
+4.9,5.6,4.4,Cloud Security Engineer
+5.5,9.2,6.1,Platform Engineer
+5.2,4.3,4.1,Software Developer
+5.9,10.0,8.1,Full Stack Developer
+4.1,8.7,6.4,Backend Developer
+3.9,8.2,7.5,Frontend Developer
+4.1,5.8,4.5,Mobile App Developer
+6.3,8.6,7.0,Game Developer
+5.1,4.4,5.9,Cybersecurity Analyst
+5.6,5.9,5.8,SOC Engineer
+5.2,5.8,4.2,Security Automation Engineer
+4.9,7.6,6.2,Penetration Tester
+7.8,5.5,10.0,AI Product Manager
+4.7,4.6,5.1,AI Business Analyst
+4.3,5.6,4.1,AI Solutions Consultant
+6.0,5.5,4.4,Digital Transformation Analyst
+4.0,5.6,5.4,AI Governance Specialist
+10.0,6.5,7.6,Prompt Engineer
+4.7,4.2,5.7,AI Operations Manager
+5.2,4.7,4.1,Robotics Software Engineer
+8.6,8.2,6.5,Computer Vision Engineer
+9.3,9.3,6.9,NLP Engineer
+4.2,5.4,5.5,MLOps Engineer
+5.1,5.5,5.0,Data Governance Analyst
+5.0,4.9,4.1,ERP Functional Consultant
+4.2,4.1,5.3,AI UX Designer
+4.6,5.0,5.8,Technical Program Manager
+4.5,8.8,6.5,Blockchain Developer
+4.5,4.2,4.6,AR/VR Developer
+4.3,5.9,5.6,IoT Engineer
+5.3,5.7,5.6,Smart Manufacturing Analyst
+4.4,5.8,5.1,AI Quality Assurance Engineer
+5.6,5.8,4.6,Sustainability Data Analyst
+4.2,4.5,4.9,Healthcare AI Analyst
+5.6,5.7,4.0,FinTech Software Engineer
+5.0,4.8,4.4,EdTech Product Analyst
+4.2,4.7,5.9,AI Ethics Researcher
+4.6,5.0,5.4,Supply Chain AI Analyst
+4.7,5.9,5.9,Digital Marketing Analyst (AI)
+4.5,5.0,4.6,SOC Engineer
+4.6,4.1,5.2,Sustainability Data Analyst
+5.0,4.1,4.6,AI Solutions Consultant
+5.8,4.5,4.3,Digital Marketing Analyst (AI)
+4.0,10.0,7.0,Frontend Developer
+5.3,5.5,4.5,Technical Program Manager
+5.5,4.7,5.3,AI Ethics Researcher
+5.3,5.1,4.2,Site Reliability Engineer
+5.7,4.6,4.4,AI Cloud Engineer
+8.6,6.2,8.9,Prompt Engineer
+4.0,5.0,4.5,ERP Functional Consultant
+5.3,4.3,5.4,Software Developer
+8.8,9.4,5.3,Computer Vision Engineer
+4.7,4.2,5.8,Mobile App Developer
+5.8,4.5,5.3,AI UX Designer
+5.6,5.1,5.1,FinTech Software Engineer
+4.5,4.2,5.8,Digital Marketing Analyst (AI)
+5.8,5.3,4.7,Healthcare AI Analyst
+4.7,10.0,8.3,Full Stack Developer
+5.8,5.6,5.3,ERP Functional Consultant
+4.2,4.3,5.8,Cloud DevOps Engineer
+5.7,8.0,6.2,Platform Engineer
+5.3,4.0,4.3,FinTech Software Engineer
+5.1,5.4,5.3,MLOps Engineer
+4.4,5.4,4.5,Technical Program Manager
+4.7,5.5,5.3,SOC Engineer
+5.7,5.3,5.1,Data Engineer
+4.2,4.7,4.5,Cloud DevOps Engineer
+4.5,5.9,4.8,Cloud Security Engineer
+5.8,5.3,5.6,AI Solutions Consultant
+5.0,5.2,5.0,Supply Chain AI Analyst
+4.4,5.4,4.6,Healthcare AI Analyst
+4.0,5.3,4.4,AI Business Analyst
+5.4,10.0,6.8,Backend Developer
+4.7,8.5,8.4,Full Stack Developer
+5.4,9.4,7.4,Penetration Tester
+5.7,4.6,4.8,Security Automation Engineer
+5.7,4.6,4.3,AI Operations Manager
+5.1,5.9,5.4,Software Developer
+5.6,8.2,7.2,Platform Engineer
+6.0,4.3,5.0,Software Developer
+5.8,5.5,5.4,Site Reliability Engineer
+5.4,4.7,4.6,MLOps Engineer
+5.6,5.6,5.7,Data Governance Analyst
+5.8,5.0,5.0,SOC Engineer
+6.1,8.8,6.9,Penetration Tester
+6.1,9.3,6.2,Penetration Tester
+4.8,4.2,5.2,Smart Manufacturing Analyst
+4.1,8.9,6.1,Blockchain Developer
+4.6,5.2,4.1,MLOps Engineer
+7.1,6.6,9.2,AI Product Manager
+4.3,5.0,5.5,FinTech Software Engineer
+4.4,5.2,4.2,Site Reliability Engineer
+8.6,6.1,8.6,Prompt Engineer
+5.3,5.5,6.0,Supply Chain AI Analyst
+8.5,7.6,8.1,Data Scientist
+4.5,4.9,4.2,ERP Functional Consultant
+4.1,5.9,5.7,IoT Engineer
+9.4,8.3,6.3,NLP Engineer
+4.3,4.5,5.1,Site Reliability Engineer
+9.4,8.8,6.6,NLP Engineer
+5.9,9.5,6.1,Blockchain Developer
+5.2,4.8,4.5,Cloud DevOps Engineer
+4.7,5.5,4.0,Cloud Security Engineer
+4.2,4.1,4.1,AI UX Designer
+5.7,5.4,4.9,Data Governance Analyst
+4.2,5.0,4.9,Digital Marketing Analyst (AI)
+4.3,4.9,4.8,EdTech Product Analyst
+5.7,8.8,5.6,Penetration Tester
+4.7,9.3,6.0,Blockchain Developer
+6.2,8.8,5.8,Penetration Tester
+4.1,5.3,4.1,Technical Program Manager
+5.2,5.9,5.2,Smart Manufacturing Analyst
+4.8,5.3,4.9,Cybersecurity Analyst
+5.1,5.9,4.8,AI Governance Specialist
+10.0,6.8,7.9,Prompt Engineer
+4.1,4.2,4.0,Data Governance Analyst
+4.2,5.4,4.1,Digital Transformation Analyst
+4.6,5.7,4.0,AI Operations Manager
+9.6,8.1,5.2,Computer Vision Engineer
+5.4,5.3,5.8,EdTech Product Analyst
+9.0,8.6,7.1,Data Scientist
+7.4,6.5,10.0,AI Product Manager
+6.0,4.8,4.7,Digital Transformation Analyst
+5.6,4.7,5.9,Sustainability Data Analyst
+5.2,9.4,6.5,Backend Developer
+5.5,4.2,5.8,Sustainability Data Analyst
+5.0,5.7,4.6,AI Research Analyst
+10.0,5.8,7.5,Prompt Engineer
+5.8,4.2,4.6,IoT Engineer
+5.9,5.9,5.1,Cloud Security Engineer
+5.3,4.9,4.6,SOC Engineer
+4.7,5.3,5.5,AR/VR Developer
+5.6,5.6,4.2,AI Ethics Researcher
+5.0,4.1,5.1,ERP Functional Consultant
+4.9,10.0,7.2,Full Stack Developer
+4.2,4.3,5.5,Site Reliability Engineer
+5.2,4.2,4.2,MLOps Engineer
+5.4,4.1,5.6,AI Operations Manager
+5.9,8.2,6.2,Platform Engineer
+10.0,8.7,6.2,Machine Learning Engineer
+7.1,7.4,10.0,Business Intelligence Analyst
+6.0,8.8,6.2,Platform Engineer
+5.6,5.1,4.8,AI Business Analyst
+9.8,8.2,6.5,Machine Learning Engineer
+4.0,4.9,4.1,ERP Functional Consultant
+4.2,4.2,5.3,AI Business Analyst
+5.5,5.2,5.9,AI Ethics Researcher
+4.7,4.6,5.7,Smart Manufacturing Analyst
+4.4,9.9,5.0,Blockchain Developer
+5.9,4.1,5.8,Site Reliability Engineer
+5.1,6.0,4.1,Mobile App Developer
+6.1,9.9,7.0,Game Developer
+5.3,5.4,4.9,SOC Engineer
+6.8,6.7,9.8,Business Intelligence Analyst
+4.1,4.6,5.9,IoT Engineer
+10.0,5.9,8.7,Prompt Engineer
+9.1,5.4,8.4,Prompt Engineer
+4.7,9.2,5.2,Blockchain Developer
+5.9,6.0,5.4,FinTech Software Engineer
+5.1,4.6,5.6,AI Quality Assurance Engineer
+5.4,4.3,5.8,AI Solutions Consultant
+5.6,5.9,5.5,AI Ethics Researcher
+5.2,4.8,5.9,AI UX Designer
+8.7,5.1,8.6,AI Product Manager
+4.8,5.6,6.0,Data Governance Analyst
+4.3,5.2,4.8,EdTech Product Analyst
+9.9,9.7,7.2,Machine Learning Engineer
+8.9,8.3,6.5,NLP Engineer
+4.1,5.7,5.6,Digital Marketing Analyst (AI)
+6.0,6.0,5.1,Technical Program Manager
+5.5,5.9,5.7,AI Governance Specialist
+4.5,4.9,4.3,Smart Manufacturing Analyst
+5.9,5.2,4.5,Sustainability Data Analyst
+5.3,5.2,4.7,Site Reliability Engineer
+8.2,8.8,7.0,NLP Engineer
+8.5,6.0,10.0,AI Product Manager
+5.1,5.1,5.8,AI Solutions Consultant
+4.8,4.3,4.1,Supply Chain AI Analyst
+5.5,5.2,5.4,AI Business Analyst
+4.4,4.3,4.0,FinTech Software Engineer
+4.7,5.2,4.8,ERP Functional Consultant
+4.9,5.8,4.7,Smart Manufacturing Analyst
+5.0,5.6,4.8,IoT Engineer
+5.2,5.7,5.9,Smart Manufacturing Analyst
+4.3,5.9,5.0,AI Governance Specialist
+4.0,9.4,7.0,Backend Developer
+5.0,4.7,5.3,AI Ethics Researcher
+4.5,4.2,4.3,SOC Engineer
+4.3,4.3,4.3,Security Automation Engineer
+5.3,4.4,4.7,AI Business Analyst
+5.8,4.9,5.3,AI Ethics Researcher
+4.3,4.4,4.1,Cloud Security Engineer
+4.3,4.6,4.4,FinTech Software Engineer
+4.2,4.2,4.9,AI Research Analyst
+8.9,5.7,8.5,Prompt Engineer
+4.4,8.1,8.1,Frontend Developer
+5.3,4.2,5.7,AI Operations Manager
+5.8,4.1,4.6,AI Research Analyst
+5.6,5.5,4.4,SOC Engineer
+4.4,4.7,5.0,Security Automation Engineer
+5.2,4.7,4.9,AI Operations Manager
+5.5,4.1,4.5,Digital Marketing Analyst (AI)
+5.4,5.8,5.0,Mobile App Developer
+5.1,4.2,4.9,AI Research Analyst
+5.1,4.5,4.5,AI Business Analyst
+8.8,7.5,5.6,Computer Vision Engineer
+4.4,4.7,4.2,Sustainability Data Analyst
+5.8,5.2,5.4,Cloud Security Engineer
+9.6,9.0,5.7,Machine Learning Engineer
+8.6,8.2,8.0,Data Scientist
+3.9,8.3,7.1,Frontend Developer
+4.7,5.3,5.1,AI Ethics Researcher
+4.7,6.0,5.2,Cloud Security Engineer
+4.5,4.2,4.3,AI Operations Manager
+4.5,4.3,4.4,AI Business Analyst
+4.6,4.3,5.8,Cybersecurity Analyst
+4.2,5.0,4.8,Mobile App Developer
+6.0,4.2,4.8,Cybersecurity Analyst
+5.9,5.7,5.6,Mobile App Developer
+8.5,8.3,6.8,Machine Learning Engineer
+5.9,5.1,5.1,AI Governance Specialist
+4.6,5.5,4.4,Software Developer
+4.6,4.9,5.0,SOC Engineer
+4.5,4.2,5.2,Technical Program Manager
+4.6,5.2,4.3,AI Quality Assurance Engineer
+5.0,9.1,5.1,Blockchain Developer
+3.7,8.3,6.6,Frontend Developer
+6.0,4.6,5.6,Data Engineer
+4.5,5.4,5.5,AI Research Analyst
+8.7,7.9,7.3,Data Scientist
+4.7,5.9,5.7,AI Business Analyst
+6.4,7.7,7.0,Penetration Tester
+5.9,4.4,4.1,Digital Transformation Analyst
+9.0,8.1,8.2,Data Scientist
+5.3,9.6,6.4,Game Developer
+4.3,4.3,5.6,Software Developer
+6.8,6.5,8.7,Business Intelligence Analyst
+5.8,4.8,5.6,Supply Chain AI Analyst
+4.9,8.8,5.9,Blockchain Developer
+6.1,7.0,9.0,Business Intelligence Analyst
+4.0,10.0,5.8,Backend Developer
+9.1,9.3,6.2,Computer Vision Engineer
+4.2,5.9,5.3,Robotics Software Engineer
+4.7,4.3,5.6,Cloud Security Engineer
+5.2,5.1,5.8,Supply Chain AI Analyst
+5.6,4.3,4.6,AI Research Analyst
+4.5,5.5,4.1,Healthcare AI Analyst
+5.1,5.5,5.8,Cloud Security Engineer
+4.7,5.6,4.2,EdTech Product Analyst
+5.7,4.3,4.8,AI Quality Assurance Engineer
+5.6,4.3,4.5,SOC Engineer
+9.4,8.9,7.3,NLP Engineer
+5.4,5.1,4.5,ERP Functional Consultant
+4.7,4.4,5.8,SOC Engineer
+5.2,4.8,4.9,ERP Functional Consultant
+5.9,4.3,5.2,AI Cloud Engineer
+5.0,5.2,4.0,Software Developer
+5.7,5.9,5.1,Healthcare AI Analyst
+5.4,5.8,5.4,AI Ethics Researcher
+4.3,5.2,5.2,Security Automation Engineer
+4.8,5.5,5.9,Cloud DevOps Engineer
+5.9,9.4,6.7,Full Stack Developer
+6.0,5.7,4.2,AI UX Designer
+5.8,5.7,5.0,FinTech Software Engineer
+5.2,4.8,4.1,Security Automation Engineer
+4.7,5.6,4.0,Mobile App Developer
+4.7,4.8,5.1,Supply Chain AI Analyst
+5.8,4.7,4.7,Robotics Software Engineer
+5.5,4.9,4.4,Data Governance Analyst
+8.9,7.8,6.4,NLP Engineer
+5.0,4.8,5.8,AI Quality Assurance Engineer
+4.7,5.2,5.3,AI Solutions Consultant
+4.5,9.3,6.4,Platform Engineer
+5.9,4.3,4.8,AI Business Analyst
+4.2,6.0,5.0,Software Developer
+9.2,7.6,6.5,Computer Vision Engineer
+4.9,9.3,5.9,Penetration Tester
+3.9,8.6,5.9,Backend Developer
+5.1,4.1,5.6,Mobile App Developer
+4.9,5.0,4.9,AI Governance Specialist
+4.8,5.1,4.3,FinTech Software Engineer
+4.4,5.7,5.9,AI Quality Assurance Engineer
+7.7,5.5,9.8,AI Product Manager
+4.8,4.1,4.3,Supply Chain AI Analyst
+5.4,5.3,4.1,Site Reliability Engineer
+4.4,4.5,5.3,Digital Marketing Analyst (AI)
+4.0,4.2,5.6,Supply Chain AI Analyst
+8.9,6.3,8.0,Prompt Engineer
+4.2,4.5,5.4,Cybersecurity Analyst
+5.7,5.7,4.8,EdTech Product Analyst
+5.3,4.4,4.6,Digital Transformation Analyst
+8.8,5.0,8.7,AI Product Manager
+4.4,4.1,4.4,Cloud DevOps Engineer
+5.7,8.8,7.8,Platform Engineer
+5.6,4.7,4.5,AI UX Designer
+6.3,6.7,8.5,Business Intelligence Analyst
+9.2,8.8,6.6,Machine Learning Engineer
+4.9,4.6,5.9,Digital Marketing Analyst (AI)
+5.5,4.3,5.7,AI Governance Specialist
+5.0,10.0,8.1,Full Stack Developer
+4.9,8.5,7.0,Full Stack Developer
+5.1,5.3,4.5,ERP Functional Consultant
+4.3,5.7,6.0,AI Governance Specialist
+5.1,4.3,4.5,AI Operations Manager
+4.0,5.8,4.2,Cloud DevOps Engineer
+5.2,9.0,7.6,Full Stack Developer
+5.3,5.7,4.4,SOC Engineer
+4.0,4.3,5.8,AI UX Designer
+5.7,5.2,5.2,Site Reliability Engineer
+9.3,7.9,7.8,NLP Engineer
+3.8,8.8,7.5,Frontend Developer
+4.1,4.3,5.5,ERP Functional Consultant
+8.2,9.2,6.0,Machine Learning Engineer
+9.3,5.6,8.2,Prompt Engineer
+5.4,4.6,5.1,Site Reliability Engineer
+5.0,5.3,5.9,Data Governance Analyst
+5.5,4.4,4.1,SOC Engineer
+4.5,5.2,4.1,AI Research Analyst
+5.0,5.2,4.7,AI Research Analyst
+5.5,4.2,4.2,IoT Engineer
+5.5,5.0,5.4,Cloud Security Engineer
+4.9,4.5,5.6,AI Research Analyst
+5.6,5.4,4.5,AI Cloud Engineer
+9.2,8.2,5.2,Computer Vision Engineer
+5.8,4.3,5.9,Digital Transformation Analyst
+8.9,7.9,7.1,NLP Engineer
+5.7,9.5,6.6,Blockchain Developer
+5.3,5.4,5.7,AI Ethics Researcher
+4.5,5.0,4.4,FinTech Software Engineer
+6.0,5.9,4.1,FinTech Software Engineer
+5.4,5.9,4.4,Data Governance Analyst
+9.1,9.8,5.6,Machine Learning Engineer
+5.4,4.6,5.8,AI Quality Assurance Engineer
+5.9,5.9,4.9,EdTech Product Analyst
+9.7,9.2,6.6,NLP Engineer
+5.7,4.1,5.2,AI Solutions Consultant
+8.0,7.2,6.7,Data Scientist
+5.4,4.7,5.4,MLOps Engineer
+4.1,4.6,5.1,AI Operations Manager
+4.6,8.6,7.8,Frontend Developer
+6.3,8.7,6.0,Penetration Tester
+3.5,10.0,5.0,Backend Developer
+5.7,5.1,5.9,IoT Engineer
+9.6,9.5,5.7,Computer Vision Engineer
+5.5,4.8,5.0,AI UX Designer
+5.3,5.7,6.0,AI Cloud Engineer
+5.5,4.8,4.8,AI Cloud Engineer
+5.5,4.5,4.2,AI Business Analyst
+4.7,4.6,4.6,AI UX Designer
+4.5,4.1,4.0,Digital Marketing Analyst (AI)
+10.0,8.9,6.3,Machine Learning Engineer
+5.4,4.4,5.9,AI Ethics Researcher
+5.6,4.2,4.8,Cloud Security Engineer
+5.8,5.9,4.9,Cybersecurity Analyst
+5.2,4.3,6.0,AI Business Analyst
+5.0,9.9,7.3,Platform Engineer
+5.2,5.0,4.5,FinTech Software Engineer
+4.4,4.4,4.4,AI Research Analyst
+10.0,5.7,7.6,Prompt Engineer
+5.9,5.8,5.9,AI Ethics Researcher
+6.0,4.3,4.8,IoT Engineer
+5.5,5.4,4.3,Mobile App Developer
+5.1,8.9,5.4,Backend Developer
+5.1,5.2,5.2,EdTech Product Analyst
+4.2,5.8,4.5,AI Quality Assurance Engineer
+4.3,5.8,5.9,FinTech Software Engineer
+5.7,5.6,5.3,ERP Functional Consultant
+5.6,8.2,6.8,Platform Engineer
+4.7,4.5,5.4,IoT Engineer
+5.0,4.2,4.4,Cloud DevOps Engineer
+5.4,4.2,5.7,IoT Engineer
+6.0,9.0,7.2,Game Developer
+5.6,4.7,5.4,Supply Chain AI Analyst
+6.6,6.0,9.8,Business Intelligence Analyst
+5.6,5.3,5.7,Digital Marketing Analyst (AI)
+5.7,5.4,5.7,SOC Engineer
+9.9,6.4,8.7,Prompt Engineer
+5.5,4.3,5.8,Security Automation Engineer
+5.7,4.1,5.7,Security Automation Engineer
+4.3,4.7,5.5,Data Governance Analyst
+4.8,9.1,7.2,Penetration Tester
+5.0,4.0,4.6,Software Developer
+5.2,6.0,5.3,Healthcare AI Analyst
+4.0,9.8,6.1,Backend Developer
+5.6,4.2,5.5,EdTech Product Analyst
+9.1,9.9,6.2,Machine Learning Engineer
+5.8,9.4,5.7,Penetration Tester
+5.9,5.4,4.1,AI Cloud Engineer
+8.6,9.4,5.6,Machine Learning Engineer
+5.2,4.7,5.2,Cloud DevOps Engineer
+5.1,9.7,7.9,Game Developer
+5.9,10.0,6.8,Full Stack Developer
+5.5,4.0,4.0,ERP Functional Consultant
+4.6,5.0,5.5,Robotics Software Engineer
+4.9,9.4,5.5,Backend Developer
+6.0,4.9,4.9,AI Solutions Consultant
+4.3,5.6,5.4,SOC Engineer
+7.4,5.2,9.9,AI Product Manager
+4.8,9.0,6.9,Backend Developer
+4.3,4.9,5.9,AI Research Analyst
+8.8,9.3,6.3,Machine Learning Engineer
+4.5,6.0,4.8,Smart Manufacturing Analyst
+5.8,4.5,4.4,Cybersecurity Analyst
+4.1,5.3,4.7,AI Ethics Researcher
+5.7,8.9,6.9,Blockchain Developer
+4.4,5.7,5.6,Supply Chain AI Analyst
+5.5,10.0,8.0,Full Stack Developer
+5.3,4.3,4.1,AR/VR Developer
+5.8,5.2,5.6,Healthcare AI Analyst
+5.0,4.2,4.3,Cybersecurity Analyst
+5.9,8.4,5.9,Penetration Tester
+5.0,4.1,5.2,AI Solutions Consultant
+4.5,5.6,4.6,Data Engineer
+8.4,7.0,6.6,Data Scientist
+4.8,9.5,7.7,Full Stack Developer
+4.6,5.4,5.7,AI Governance Specialist
+5.6,8.6,7.5,Full Stack Developer
+4.2,9.0,8.5,Full Stack Developer
+4.3,5.0,5.2,Security Automation Engineer
+5.4,5.1,4.0,Digital Transformation Analyst
+4.7,5.0,4.2,Cybersecurity Analyst
+4.7,4.1,4.2,Security Automation Engineer
+4.8,4.3,5.1,Security Automation Engineer
+5.4,5.6,4.4,Mobile App Developer
+4.8,7.7,6.8,Penetration Tester
+5.4,4.1,5.9,Technical Program Manager
+4.1,5.1,5.4,AI Ethics Researcher
+6.7,9.4,7.6,Game Developer
+3.7,9.6,6.7,Frontend Developer
+9.8,8.6,6.6,Computer Vision Engineer
+8.9,8.8,7.1,NLP Engineer
+5.5,4.2,4.1,ERP Functional Consultant
+4.5,8.8,8.2,Full Stack Developer
+4.4,6.0,4.7,Cloud DevOps Engineer
+8.9,6.6,8.8,Prompt Engineer
+5.0,5.1,5.4,Cybersecurity Analyst
+4.5,6.0,5.9,Cybersecurity Analyst
+5.3,4.4,5.4,Technical Program Manager
+4.1,8.1,5.5,Blockchain Developer
+4.9,5.7,5.5,AI Business Analyst
+9.5,8.9,6.2,Machine Learning Engineer
+4.7,6.0,4.1,IoT Engineer
+5.7,5.2,4.9,AI Solutions Consultant
+5.5,5.0,5.7,Software Developer
+5.8,4.8,4.6,ERP Functional Consultant
+5.2,5.8,4.4,Data Engineer
+5.2,5.3,5.5,Robotics Software Engineer
+4.3,5.4,5.8,AI UX Designer
+4.4,4.5,5.9,Technical Program Manager
+3.4,9.7,7.5,Frontend Developer
+4.5,5.7,4.9,EdTech Product Analyst
+5.0,4.7,5.2,AI Quality Assurance Engineer
+4.3,4.8,5.9,AI Cloud Engineer
+4.5,5.3,4.7,Robotics Software Engineer
+9.5,7.8,7.9,NLP Engineer
+4.9,4.5,4.1,AI Cloud Engineer
+7.8,8.0,7.2,Data Scientist
+5.7,4.9,4.5,AI Operations Manager
+5.2,5.4,4.3,MLOps Engineer
+4.3,4.1,5.5,AI Governance Specialist
+9.3,8.4,7.7,NLP Engineer
+5.6,5.2,5.7,AI Business Analyst
+4.4,4.2,4.5,AI Operations Manager
+3.6,9.6,6.9,Backend Developer
+4.1,4.2,4.9,Healthcare AI Analyst
+5.9,4.6,5.0,Robotics Software Engineer
+4.1,8.3,7.0,Blockchain Developer
+5.9,4.0,5.9,Supply Chain AI Analyst
+5.3,5.7,4.9,Mobile App Developer
+5.0,5.0,5.3,Security Automation Engineer
+4.3,4.1,4.6,Technical Program Manager
+5.4,4.4,5.3,Mobile App Developer
+5.9,4.2,5.3,AI Business Analyst
+4.9,5.7,4.4,Technical Program Manager
+5.9,9.2,7.4,Penetration Tester
+9.4,8.5,6.2,Computer Vision Engineer
+5.7,5.1,4.1,AI Solutions Consultant
+5.9,5.4,5.4,Digital Marketing Analyst (AI)
+4.4,5.3,4.8,Digital Transformation Analyst
+5.3,4.2,5.3,EdTech Product Analyst
+6.0,4.1,6.0,Technical Program Manager
+4.8,5.7,5.6,ERP Functional Consultant
+5.1,5.5,5.8,AI Solutions Consultant
+4.8,4.7,5.3,Software Developer
+5.6,5.5,5.6,Data Engineer
+4.9,10.0,6.7,Full Stack Developer
+5.1,4.0,4.6,AI Ethics Researcher
+4.7,4.8,5.4,AI Operations Manager
+9.3,5.9,8.0,Prompt Engineer
+5.7,8.5,6.1,Game Developer
+5.2,5.3,5.2,Software Developer
+4.9,4.8,5.7,Digital Marketing Analyst (AI)
+5.0,5.0,4.1,AI Business Analyst
+4.7,8.8,5.8,Blockchain Developer
+5.2,5.1,5.2,Sustainability Data Analyst
+5.5,5.6,5.4,AI Governance Specialist
+5.9,4.0,4.4,AI UX Designer
+4.0,5.3,5.8,Digital Marketing Analyst (AI)
+5.5,9.9,6.1,Game Developer
+5.9,4.7,4.2,Digital Transformation Analyst
+4.0,8.5,7.1,Frontend Developer
+4.6,5.6,5.1,AI Operations Manager
+8.6,9.2,6.9,Machine Learning Engineer
+7.5,5.8,8.7,AI Product Manager
+4.4,5.4,4.4,Software Developer
+9.1,8.9,6.2,NLP Engineer
+5.1,4.5,5.9,Smart Manufacturing Analyst
+5.5,9.1,6.6,Penetration Tester
+4.1,5.3,5.9,Cybersecurity Analyst
+5.2,5.6,5.8,AI Quality Assurance Engineer
+4.5,4.4,5.2,Digital Transformation Analyst
+4.8,5.7,5.8,AI Operations Manager
+4.7,4.5,5.6,Mobile App Developer
+4.5,5.6,4.8,Smart Manufacturing Analyst
+5.3,4.2,5.2,AR/VR Developer
+5.4,8.7,5.8,Penetration Tester
+5.5,5.7,4.4,AI Solutions Consultant
+4.2,4.0,5.3,AR/VR Developer
+5.2,5.1,4.5,Smart Manufacturing Analyst
+4.8,5.2,5.0,Digital Transformation Analyst
+6.0,8.8,7.9,Full Stack Developer
+4.8,4.9,5.4,AI Research Analyst
+5.4,6.0,4.3,Technical Program Manager
+4.2,5.4,5.2,Smart Manufacturing Analyst
+4.5,4.2,4.2,Security Automation Engineer
+9.8,7.9,6.6,NLP Engineer
+4.5,4.7,4.1,AI Ethics Researcher
+5.0,8.6,8.1,Full Stack Developer
+4.5,5.1,5.8,AI Business Analyst
+5.3,5.1,4.6,AI UX Designer
+5.2,9.3,8.0,Platform Engineer
+5.3,5.1,5.5,SOC Engineer
+4.9,4.1,5.1,Data Engineer
+5.9,4.4,5.4,Supply Chain AI Analyst
+4.4,5.1,4.2,AI Ethics Researcher
+4.9,5.5,4.7,Sustainability Data Analyst
+8.3,6.6,10.0,AI Product Manager
+3.5,8.8,6.8,Frontend Developer
+6.5,9.4,6.6,Penetration Tester
+6.7,9.0,7.2,Game Developer
+4.2,5.5,4.3,IoT Engineer
+5.7,5.6,5.4,Site Reliability Engineer
+8.6,5.6,8.0,Prompt Engineer
+4.7,4.2,5.9,AR/VR Developer
+4.1,8.6,7.3,Frontend Developer
+8.9,8.7,7.0,NLP Engineer
+5.8,5.0,6.0,Data Governance Analyst
+5.7,4.4,5.9,Digital Transformation Analyst
+5.7,7.1,8.8,Business Intelligence Analyst
+5.8,5.7,5.6,Sustainability Data Analyst
+5.6,4.6,4.2,Healthcare AI Analyst
+4.8,4.3,5.4,Cloud Security Engineer
+4.7,6.0,5.3,Cloud Security Engineer
+8.6,5.3,10.0,AI Product Manager
+5.8,5.0,5.2,AR/VR Developer
+5.5,4.3,5.0,Software Developer
+7.8,5.3,9.2,AI Product Manager
+4.1,4.1,4.3,Data Engineer
+5.9,5.1,5.9,Robotics Software Engineer
+5.9,8.6,7.0,Game Developer
+8.9,8.2,6.8,Machine Learning Engineer
+4.4,5.2,5.3,FinTech Software Engineer
+4.3,4.1,5.6,AI Operations Manager
+4.9,4.1,6.0,Mobile App Developer
+7.6,8.4,8.5,Data Scientist
+4.5,4.3,4.2,Cloud DevOps Engineer
+4.6,4.2,5.4,AI Operations Manager
+4.1,5.0,6.0,AI Quality Assurance Engineer
+5.6,5.2,4.6,ERP Functional Consultant
+5.2,5.1,4.9,AI Solutions Consultant
+4.3,5.8,4.9,Healthcare AI Analyst
+4.4,4.7,4.8,Sustainability Data Analyst
+9.7,9.0,7.5,NLP Engineer
+8.0,8.3,7.0,NLP Engineer
+4.0,4.5,5.5,Smart Manufacturing Analyst
+7.3,6.1,8.9,AI Product Manager
+4.0,4.5,6.0,Healthcare AI Analyst
+8.6,6.9,9.5,AI Product Manager
+4.2,5.1,4.9,EdTech Product Analyst
+5.7,4.2,5.0,AI Business Analyst
+4.3,4.6,5.5,FinTech Software Engineer
+5.0,4.8,4.8,Technical Program Manager
+4.9,5.6,5.8,Data Governance Analyst
+5.9,5.6,4.6,AI Governance Specialist
+5.4,4.9,4.5,Digital Transformation Analyst
+5.7,4.1,5.8,Healthcare AI Analyst
+4.9,5.3,5.3,Cloud Security Engineer
+5.8,5.3,5.2,AI Business Analyst
+4.1,5.0,4.3,AR/VR Developer
+5.5,5.0,5.4,AI UX Designer
+7.1,5.2,9.9,AI Product Manager
+4.1,4.1,4.0,Smart Manufacturing Analyst
+5.9,5.5,4.7,AI Ethics Researcher
+6.1,6.2,9.5,Business Intelligence Analyst
+5.3,4.4,4.3,EdTech Product Analyst
+4.2,5.3,5.5,EdTech Product Analyst
+4.5,4.0,4.2,AI UX Designer
+5.9,4.6,5.5,AI Business Analyst
+5.2,4.8,4.4,Digital Transformation Analyst
+4.2,9.2,6.5,Blockchain Developer
+5.3,5.1,4.1,Cybersecurity Analyst
+5.9,5.6,4.6,AI Quality Assurance Engineer
+6.0,5.2,5.2,AI Ethics Researcher
+5.5,5.6,5.3,Security Automation Engineer
+4.3,4.7,5.9,Data Engineer
+4.4,4.7,4.9,Digital Transformation Analyst
+4.9,5.2,5.9,Data Governance Analyst
+4.5,4.2,4.4,Mobile App Developer
+5.8,5.3,4.6,AI Ethics Researcher
+5.6,5.7,5.7,Cloud DevOps Engineer
+5.8,4.5,5.5,Cybersecurity Analyst
+4.9,5.7,5.5,SOC Engineer
+5.6,5.3,4.4,Site Reliability Engineer
+5.1,6.0,5.9,Digital Marketing Analyst (AI)
+4.1,4.3,4.3,Digital Transformation Analyst
+5.5,5.6,4.4,AI Ethics Researcher
+5.0,5.7,5.5,Security Automation Engineer
+5.1,5.2,5.0,Security Automation Engineer
+4.6,9.1,6.4,Blockchain Developer
+5.7,5.3,5.5,Mobile App Developer
+4.3,4.9,4.0,AI Governance Specialist
+4.5,5.5,6.0,AI Research Analyst
+4.2,4.8,5.6,AI Governance Specialist
+8.9,6.1,9.0,Prompt Engineer
+5.2,4.4,4.7,ERP Functional Consultant
+5.1,9.6,5.0,Backend Developer
+5.5,4.1,5.5,Cloud DevOps Engineer
+4.9,9.9,6.7,Platform Engineer
+7.7,5.3,9.1,AI Product Manager
+5.8,6.0,4.7,AI Cloud Engineer
+4.9,5.4,5.8,SOC Engineer
+5.2,4.8,4.8,SOC Engineer
+9.9,5.0,8.7,Prompt Engineer
+4.7,5.6,4.2,AI Solutions Consultant
+5.2,5.0,5.3,Data Governance Analyst
+4.1,5.2,5.1,AI Solutions Consultant
+5.1,5.2,5.4,EdTech Product Analyst
+5.6,4.5,5.7,AI Research Analyst
+5.0,4.2,4.1,MLOps Engineer
+4.7,5.6,5.4,Cloud DevOps Engineer
+5.6,5.0,4.9,AI Operations Manager
+8.3,8.7,6.4,Machine Learning Engineer
+4.2,4.4,5.2,AI Cloud Engineer
+5.5,6.0,5.9,AI Operations Manager
+5.3,4.8,5.3,IoT Engineer
+5.6,4.2,4.8,Robotics Software Engineer
+5.7,4.8,5.1,ERP Functional Consultant
+5.2,4.4,4.7,AR/VR Developer
+4.7,4.1,4.0,MLOps Engineer
+5.7,4.5,5.0,AI Solutions Consultant
+4.6,5.9,4.5,Cloud Security Engineer
+4.9,5.7,5.7,AI Operations Manager
+4.4,5.6,4.9,Security Automation Engineer
+5.0,4.3,4.2,ERP Functional Consultant
+5.5,5.0,4.9,Mobile App Developer
+5.5,5.5,4.3,Site Reliability Engineer
+5.2,4.3,5.5,AI Research Analyst
+5.3,5.9,4.1,Mobile App Developer
+5.6,6.1,8.5,Business Intelligence Analyst
+4.5,5.8,4.5,Data Governance Analyst
+4.5,5.5,4.9,Robotics Software Engineer
+5.6,4.1,5.0,Digital Transformation Analyst
+4.1,4.1,5.8,Supply Chain AI Analyst
+4.3,5.1,4.8,Data Governance Analyst
+4.7,5.8,4.0,Mobile App Developer
+5.3,5.9,5.1,EdTech Product Analyst
+9.9,8.1,6.3,Machine Learning Engineer
+4.5,5.5,6.0,Software Developer
+4.5,5.3,4.4,Mobile App Developer
+5.1,4.9,5.9,Digital Marketing Analyst (AI)
+5.2,4.7,4.2,AI Operations Manager
+4.8,8.5,6.5,Platform Engineer
+5.7,5.1,5.0,AI Operations Manager
+7.2,6.7,9.9,AI Product Manager
+4.1,5.4,5.1,Digital Marketing Analyst (AI)
+4.2,4.9,5.0,Data Engineer
+4.3,10.0,8.2,Full Stack Developer
+5.3,4.9,4.8,AI Solutions Consultant
+5.3,5.1,4.1,EdTech Product Analyst
+5.0,5.6,4.9,AI Business Analyst
+4.1,5.6,4.4,AI UX Designer
+4.5,4.3,4.7,Security Automation Engineer
+9.5,9.0,5.9,Machine Learning Engineer
+5.8,5.8,5.7,Cloud DevOps Engineer
+4.5,4.9,6.0,Security Automation Engineer
+5.5,4.1,4.1,Cloud DevOps Engineer
+4.9,5.8,5.1,Site Reliability Engineer
+4.5,8.7,6.3,Backend Developer
+5.6,4.8,5.6,Cybersecurity Analyst
+5.9,4.4,5.0,ERP Functional Consultant
+4.6,5.6,5.2,AI Business Analyst
+5.3,5.6,4.8,Digital Transformation Analyst
+9.3,8.1,6.8,Data Scientist
+5.4,5.6,4.6,Cloud Security Engineer
+5.7,5.8,4.6,AI Operations Manager
+9.5,7.3,6.9,Data Scientist
+4.4,5.8,5.3,IoT Engineer
+7.3,5.9,9.7,AI Product Manager
+3.2,9.8,8.1,Frontend Developer
+4.0,9.9,7.3,Frontend Developer
+10.0,6.3,8.8,Prompt Engineer
+3.8,10.0,5.9,Backend Developer
+4.3,4.0,5.1,Cloud DevOps Engineer
+5.1,5.4,5.8,Robotics Software Engineer
+4.2,5.5,4.4,AI Quality Assurance Engineer
+5.7,5.6,5.1,AI Research Analyst
+5.4,4.6,4.9,AI Cloud Engineer
+5.6,4.9,4.7,AI Quality Assurance Engineer
+5.0,5.7,4.7,Digital Transformation Analyst
+8.8,6.4,9.2,Prompt Engineer
+4.2,4.5,4.3,Digital Transformation Analyst
+4.7,4.9,5.5,IoT Engineer
+5.3,5.2,4.7,MLOps Engineer
+6.2,8.9,8.0,Platform Engineer
+5.3,4.3,5.4,AI Operations Manager
+4.7,5.4,4.1,EdTech Product Analyst
+4.3,5.7,4.5,Digital Marketing Analyst (AI)
+4.7,8.6,7.8,Frontend Developer
+9.4,8.5,6.6,NLP Engineer
+4.4,4.1,4.6,AI Governance Specialist
+9.3,9.4,6.7,Computer Vision Engineer
+7.0,7.1,9.3,Business Intelligence Analyst
+4.0,10.0,6.3,Backend Developer
+9.6,5.2,8.4,Prompt Engineer
+5.4,9.7,7.1,Platform Engineer
+6.3,7.5,8.2,Business Intelligence Analyst
+8.3,7.1,8.0,Data Scientist
+5.8,4.6,5.7,Supply Chain AI Analyst
+4.6,5.8,5.5,Site Reliability Engineer
+5.6,4.0,5.9,Digital Marketing Analyst (AI)
+5.5,8.6,6.7,Blockchain Developer
+4.6,5.7,4.2,Smart Manufacturing Analyst
+5.4,5.1,4.2,Digital Transformation Analyst
+4.5,4.0,4.9,Cloud Security Engineer
+4.6,5.2,4.6,AI Governance Specialist
+4.6,10.0,6.6,Full Stack Developer
+5.8,5.7,5.3,AI Business Analyst
+9.2,9.3,5.4,Computer Vision Engineer
+4.2,4.5,5.6,Technical Program Manager
+4.1,5.2,6.0,Sustainability Data Analyst
+10.0,6.0,7.6,Prompt Engineer
+4.7,9.2,6.7,Frontend Developer
+8.2,9.3,7.3,NLP Engineer
+8.7,6.8,9.6,AI Product Manager
+5.0,8.9,5.6,Blockchain Developer
+5.4,9.5,7.2,Platform Engineer
+5.8,4.9,5.2,ERP Functional Consultant
+5.3,5.2,5.4,Supply Chain AI Analyst
+5.5,9.0,6.2,Game Developer
+4.8,5.0,5.3,AR/VR Developer
+5.9,5.2,5.5,MLOps Engineer
+5.0,5.3,4.1,Supply Chain AI Analyst
+4.5,4.7,4.9,AI Business Analyst
+8.6,5.3,8.1,Prompt Engineer
+5.9,4.7,5.0,AI Research Analyst
+4.4,9.2,5.6,Blockchain Developer
+4.4,5.0,4.0,AI Quality Assurance Engineer
+4.0,4.4,4.1,SOC Engineer
+4.2,4.7,5.6,FinTech Software Engineer
+5.1,5.0,4.6,Site Reliability Engineer
+5.9,4.8,4.2,AR/VR Developer
+9.2,7.7,6.7,NLP Engineer
+5.0,5.7,5.0,AR/VR Developer
+5.4,6.0,4.3,Supply Chain AI Analyst
+4.5,4.8,4.8,AI UX Designer
+8.8,9.3,7.4,NLP Engineer
+5.2,4.6,5.6,MLOps Engineer
+8.9,6.6,8.5,AI Product Manager
+5.3,4.1,4.5,AI UX Designer
+4.1,5.2,5.4,FinTech Software Engineer
+3.7,9.3,5.9,Backend Developer
+4.7,4.2,4.8,Software Developer
+9.0,7.1,6.7,Data Scientist
+4.7,5.9,5.3,Cloud Security Engineer
+5.4,9.2,7.7,Full Stack Developer
+4.0,5.3,5.8,AI Quality Assurance Engineer
+6.7,7.2,9.4,Business Intelligence Analyst
+4.2,5.8,4.1,Cloud DevOps Engineer
+5.1,4.3,4.0,Cybersecurity Analyst
+4.8,8.6,6.0,Blockchain Developer
+5.2,4.1,4.2,FinTech Software Engineer
+5.1,4.7,5.5,AI Research Analyst
+5.3,5.7,5.4,AR/VR Developer
+4.9,5.3,4.6,EdTech Product Analyst
+4.6,9.6,5.9,Blockchain Developer
+5.6,5.6,5.7,Software Developer
+5.8,4.9,4.6,AI Solutions Consultant
+5.2,4.7,5.2,SOC Engineer
+5.4,5.4,4.7,Sustainability Data Analyst
+4.3,4.9,4.3,Data Governance Analyst
+5.8,4.7,4.3,Sustainability Data Analyst
+4.1,5.3,5.3,FinTech Software Engineer
+4.7,4.1,4.8,FinTech Software Engineer
+8.6,9.4,6.7,Machine Learning Engineer
+6.2,5.9,10.0,Business Intelligence Analyst
+4.9,5.4,4.3,Security Automation Engineer
+5.0,8.1,6.0,Blockchain Developer
+5.9,4.8,4.1,AI Governance Specialist
+4.1,4.8,4.3,Digital Marketing Analyst (AI)
+4.0,5.5,4.9,Cloud DevOps Engineer
+4.6,5.8,4.2,Software Developer
+5.9,4.6,5.8,AI Operations Manager
+5.2,9.7,7.0,Blockchain Developer
+4.6,5.9,4.8,SOC Engineer
+4.8,4.7,5.1,AI Operations Manager
+7.8,8.1,7.6,Data Scientist
+5.5,5.7,4.9,Cloud Security Engineer
+4.6,4.5,4.4,SOC Engineer
+5.1,8.7,6.5,Game Developer
+5.9,5.1,4.7,AI Business Analyst
+8.2,5.3,9.4,AI Product Manager
+4.3,9.0,7.3,Frontend Developer
+6.0,5.8,5.2,MLOps Engineer
+5.1,5.2,4.4,AI Quality Assurance Engineer
+4.8,4.1,5.0,AI Operations Manager
+5.6,8.5,7.9,Platform Engineer
+5.8,5.4,5.1,AI Business Analyst
+5.2,8.8,6.6,Backend Developer
+4.7,9.6,6.6,Platform Engineer
+5.8,5.9,4.3,ERP Functional Consultant
+9.4,7.0,8.5,Prompt Engineer
+5.7,5.2,4.8,Cloud DevOps Engineer
+5.1,8.4,7.5,Platform Engineer
+4.8,5.0,5.0,Software Developer
+5.2,5.7,6.0,Cloud DevOps Engineer
+4.8,5.7,5.5,AI Operations Manager
+5.1,5.9,4.4,Robotics Software Engineer
+8.2,9.7,6.4,Machine Learning Engineer
+5.7,5.8,4.1,Supply Chain AI Analyst
+5.8,4.9,5.0,AI Quality Assurance Engineer
+5.3,5.9,4.0,AI Ethics Researcher
+5.0,5.4,5.4,Data Governance Analyst
+4.9,8.8,5.6,Backend Developer
+4.7,5.6,4.6,Cybersecurity Analyst
+4.4,5.9,4.0,Supply Chain AI Analyst
+10.0,8.9,6.7,Computer Vision Engineer
+5.6,8.0,7.5,Game Developer
+5.7,5.5,4.3,FinTech Software Engineer
+5.5,5.5,5.3,SOC Engineer
+6.0,9.2,6.7,Penetration Tester
+4.2,5.0,4.2,AI Solutions Consultant
+4.8,4.8,4.1,EdTech Product Analyst
+4.7,4.2,5.6,Cloud Security Engineer
+5.9,4.1,5.9,IoT Engineer
+5.0,8.6,5.2,Blockchain Developer
+9.0,9.1,6.4,Computer Vision Engineer
+4.1,4.1,4.8,Digital Transformation Analyst
+4.6,4.5,4.6,AI Ethics Researcher
+5.6,5.9,4.8,AI Quality Assurance Engineer
+5.8,4.6,5.0,Technical Program Manager
+4.5,5.3,6.0,MLOps Engineer
+5.2,4.7,5.3,AI Ethics Researcher
+4.2,5.8,5.0,AR/VR Developer
+4.9,5.2,5.2,Cloud Security Engineer
+4.1,5.4,4.5,Data Engineer
+5.4,5.6,5.6,AI UX Designer
+5.1,5.0,4.3,Digital Transformation Analyst
+5.6,4.5,5.0,MLOps Engineer
+4.6,4.3,5.3,Cybersecurity Analyst
+4.1,5.5,4.6,Healthcare AI Analyst
+4.0,5.0,4.1,Software Developer
+4.6,5.4,4.1,Mobile App Developer
+9.7,7.5,5.5,Computer Vision Engineer
+5.5,4.6,4.2,AI Research Analyst
+4.7,9.0,8.2,Full Stack Developer
+4.6,5.6,5.8,AI Operations Manager
+4.9,5.8,4.8,ERP Functional Consultant
+5.9,4.2,5.4,AR/VR Developer
+9.0,8.3,6.3,Computer Vision Engineer
+5.4,8.0,5.3,Blockchain Developer
+5.4,5.3,5.9,Data Engineer
+4.5,9.9,7.9,Frontend Developer
+8.1,7.2,8.1,Data Scientist
+5.3,4.1,4.7,SOC Engineer
+6.4,8.5,6.4,Penetration Tester
+4.9,4.4,4.7,Mobile App Developer
+4.7,4.1,5.5,FinTech Software Engineer
+4.8,5.6,5.7,Cloud DevOps Engineer
+7.9,8.3,7.4,Data Scientist
+5.8,4.4,5.4,Data Governance Analyst
+5.2,4.6,4.3,Supply Chain AI Analyst
+5.3,5.5,4.6,FinTech Software Engineer
+5.3,4.8,5.4,Data Engineer
+8.4,9.3,6.6,NLP Engineer
+4.2,8.6,5.2,Backend Developer
+5.0,4.5,5.7,AR/VR Developer
+4.0,4.8,4.7,MLOps Engineer
+4.0,4.2,4.8,Digital Marketing Analyst (AI)
+4.5,9.3,6.1,Backend Developer
+5.2,4.0,4.9,AI Governance Specialist
+5.9,5.0,5.4,AI Ethics Researcher
+4.6,5.5,5.5,Digital Transformation Analyst
+9.5,7.0,7.8,Prompt Engineer
+7.5,8.5,8.1,Data Scientist
+4.2,4.5,4.0,Digital Transformation Analyst
+4.6,5.5,5.0,AR/VR Developer
+8.7,8.7,5.5,Machine Learning Engineer
+9.1,6.3,9.4,Prompt Engineer
+5.7,4.0,5.8,Technical Program Manager
+6.6,9.6,6.9,Game Developer
+8.3,7.6,6.6,Data Scientist
+5.0,8.0,6.5,Penetration Tester
+5.5,4.9,4.1,AI Cloud Engineer
+5.9,5.9,5.6,Cloud Security Engineer
+6.0,5.1,5.9,Cloud Security Engineer
+4.2,4.7,4.5,ERP Functional Consultant
+4.4,4.3,5.2,IoT Engineer
+5.6,5.2,4.3,ERP Functional Consultant
+10.0,6.3,8.3,Prompt Engineer
+5.3,4.5,4.7,Technical Program Manager
+6.8,8.6,6.9,Game Developer
+5.8,5.4,4.1,Digital Marketing Analyst (AI)
+4.3,4.0,5.3,Robotics Software Engineer
+4.9,4.3,5.9,AI Governance Specialist
+9.1,8.5,6.5,Machine Learning Engineer
+6.9,5.7,8.5,Business Intelligence Analyst
+5.6,9.4,7.6,Full Stack Developer
+4.9,4.1,4.3,Digital Transformation Analyst
+4.9,4.4,4.1,IoT Engineer
+5.2,10.0,6.6,Backend Developer
+5.7,4.5,5.9,Data Engineer
+4.4,5.9,6.0,SOC Engineer
+5.4,6.0,5.1,Mobile App Developer
+4.5,4.9,5.2,AI Solutions Consultant
+4.1,5.2,6.0,Healthcare AI Analyst
+4.4,5.6,5.8,AI Operations Manager
+5.9,5.9,5.0,AR/VR Developer
+6.0,5.5,4.3,Cloud Security Engineer
+9.0,9.4,6.0,Machine Learning Engineer
+4.3,9.3,6.8,Frontend Developer
+8.6,8.5,7.5,Data Scientist
+4.0,4.0,4.7,Healthcare AI Analyst
+9.9,8.0,6.3,Computer Vision Engineer
+4.4,4.6,5.7,Site Reliability Engineer
+6.0,8.2,6.9,Platform Engineer
+5.6,6.5,9.3,Business Intelligence Analyst
+4.2,4.6,4.8,AI Governance Specialist
+5.8,6.0,4.1,Cybersecurity Analyst
+5.5,4.7,4.8,AI Research Analyst
+5.5,5.8,5.9,AI UX Designer
+5.2,4.7,5.6,Supply Chain AI Analyst
+4.5,5.1,4.7,Data Engineer
+5.3,4.5,4.4,AI Solutions Consultant
+5.8,4.2,5.0,EdTech Product Analyst
+4.4,4.1,4.1,ERP Functional Consultant
+4.4,5.7,4.6,MLOps Engineer
+5.9,5.2,4.9,Cloud DevOps Engineer
+5.2,5.0,5.5,AR/VR Developer
+8.6,8.2,7.8,NLP Engineer
+6.9,9.8,6.8,Game Developer
+5.6,5.0,5.0,AI UX Designer
+4.4,5.2,4.4,IoT Engineer
+4.7,5.7,4.4,Supply Chain AI Analyst
+4.1,4.1,5.9,AI Cloud Engineer
+5.0,4.8,5.6,Cloud Security Engineer
+5.7,4.7,5.4,Healthcare AI Analyst
+9.5,9.3,5.8,Machine Learning Engineer
+5.8,5.1,4.6,AR/VR Developer
+6.4,5.6,8.3,Business Intelligence Analyst
+6.0,7.5,6.3,Penetration Tester
+5.0,4.1,5.9,ERP Functional Consultant
+8.5,8.1,6.6,NLP Engineer
+4.5,4.0,5.5,MLOps Engineer
+5.9,4.4,5.3,Smart Manufacturing Analyst
+5.5,5.7,4.8,Robotics Software Engineer
+4.6,4.7,5.4,AI Business Analyst
+5.6,4.4,4.7,Mobile App Developer
+9.3,8.6,8.5,Data Scientist
+5.5,4.8,5.2,Cloud DevOps Engineer
+9.8,5.2,8.6,Prompt Engineer
+5.4,4.3,5.6,Smart Manufacturing Analyst
+9.2,9.4,5.1,Computer Vision Engineer
+4.5,5.2,4.6,AI UX Designer
+5.4,5.5,4.2,Security Automation Engineer
+5.0,5.0,4.7,AI UX Designer
+5.9,5.7,5.4,AI Research Analyst
+9.4,8.4,6.8,Computer Vision Engineer
+5.4,5.5,5.7,AI Business Analyst
+4.5,5.6,4.4,Cloud Security Engineer
+4.7,4.7,6.0,AI Cloud Engineer
+5.7,5.4,5.5,MLOps Engineer
+9.1,9.4,6.0,Computer Vision Engineer
+4.8,4.3,5.6,Software Developer
+5.5,4.8,4.1,Robotics Software Engineer
+5.7,4.0,5.4,Site Reliability Engineer
+5.9,4.9,4.5,Digital Transformation Analyst
+5.4,5.6,5.1,AI Business Analyst
+5.9,4.1,5.0,SOC Engineer
+5.4,5.7,4.4,AI Quality Assurance Engineer
+5.6,5.1,4.8,Security Automation Engineer
+4.3,5.7,4.3,Data Engineer
+4.6,4.6,5.7,Technical Program Manager
+5.3,5.6,4.5,AR/VR Developer
+5.2,5.1,5.7,AI Cloud Engineer
+5.8,4.0,5.3,Software Developer
+8.1,9.1,6.1,Machine Learning Engineer
+4.6,4.7,5.2,Data Governance Analyst
+4.7,5.5,4.8,AI Ethics Researcher
+8.1,9.6,6.1,Machine Learning Engineer
+4.9,5.4,4.7,Mobile App Developer
+4.1,4.7,5.9,ERP Functional Consultant
+5.3,5.3,5.3,AI Governance Specialist
+4.9,8.3,7.0,Penetration Tester
+4.2,4.6,4.6,Cloud DevOps Engineer
+4.9,6.0,4.1,AI UX Designer
+5.0,4.4,5.9,FinTech Software Engineer
+4.2,4.8,5.5,Mobile App Developer
+5.4,4.8,4.7,AI Cloud Engineer
+4.8,4.5,4.4,ERP Functional Consultant
+5.0,4.5,4.6,AI Solutions Consultant
+5.3,5.9,5.2,Smart Manufacturing Analyst
+4.2,4.2,5.9,IoT Engineer
+8.6,7.7,7.2,NLP Engineer
+5.2,5.3,4.5,Digital Transformation Analyst
+4.0,5.9,4.5,AI UX Designer
+5.9,8.9,6.7,Penetration Tester
+4.6,4.5,5.2,AI Governance Specialist
+5.7,10.0,6.7,Full Stack Developer
+4.3,5.9,5.5,FinTech Software Engineer
+5.8,4.4,5.2,AI Business Analyst
+5.4,9.4,5.8,Blockchain Developer
+4.0,5.2,4.5,Cloud Security Engineer
+4.9,5.9,4.8,AR/VR Developer
+5.7,4.4,5.3,Healthcare AI Analyst
+10.0,5.2,7.5,Prompt Engineer
+4.9,4.2,5.5,Mobile App Developer
+5.8,4.9,4.5,FinTech Software Engineer
+4.9,5.4,4.0,Technical Program Manager
+5.2,5.2,5.3,AI Cloud Engineer
+4.5,5.4,4.2,Robotics Software Engineer
+4.4,5.8,5.5,FinTech Software Engineer
+4.0,4.5,4.4,Data Engineer
+4.5,4.5,4.1,Data Engineer
+4.9,5.5,5.2,Site Reliability Engineer
+5.3,4.2,5.9,Technical Program Manager
+5.7,9.6,6.6,Blockchain Developer
+5.9,5.1,4.4,Data Engineer
+5.2,5.5,5.5,ERP Functional Consultant
+8.0,5.1,9.2,AI Product Manager
+5.8,5.2,5.1,AR/VR Developer
+4.5,4.7,5.8,EdTech Product Analyst
+5.3,5.6,4.9,AI Operations Manager
+5.3,4.5,5.4,AI Solutions Consultant
+4.9,4.9,5.3,Robotics Software Engineer
+5.9,4.1,5.6,AR/VR Developer
+4.6,4.9,4.0,Smart Manufacturing Analyst
+7.6,6.0,8.6,AI Product Manager
+5.0,5.9,4.2,Robotics Software Engineer
+5.5,4.8,5.3,Data Engineer
+7.5,5.3,8.8,AI Product Manager
+5.1,8.4,7.3,Game Developer
+5.8,5.6,5.4,Site Reliability Engineer
+4.2,4.6,4.6,Data Governance Analyst
+4.5,5.0,5.1,FinTech Software Engineer
+4.7,4.7,5.7,AI Business Analyst
+6.6,8.6,7.8,Game Developer
+5.9,4.7,4.7,IoT Engineer
+6.0,9.9,7.8,Game Developer
+8.2,8.3,7.1,NLP Engineer
+5.0,4.4,5.7,Cloud Security Engineer
+5.4,5.7,5.7,AI Solutions Consultant
+5.5,4.9,5.2,Cloud DevOps Engineer
+4.3,5.3,4.4,Data Engineer
+5.4,4.5,4.2,AI Operations Manager
+8.3,7.5,6.4,Computer Vision Engineer
+5.5,5.0,4.3,Digital Transformation Analyst
+7.2,5.0,8.8,AI Product Manager
+5.8,4.5,4.7,AI UX Designer
+4.2,4.4,5.0,AI Business Analyst
+5.2,4.5,4.1,AI Cloud Engineer
+4.8,4.5,4.4,Robotics Software Engineer
+5.9,5.2,5.1,Mobile App Developer
+4.8,4.9,5.1,AI Quality Assurance Engineer
+5.4,5.4,4.3,Site Reliability Engineer
+5.0,4.8,5.7,AI Quality Assurance Engineer
+5.3,5.1,4.2,AI Business Analyst
+5.2,4.2,4.7,AI UX Designer
+4.3,5.4,4.4,MLOps Engineer
+8.3,8.8,6.9,Data Scientist
+5.0,4.8,4.0,AI Governance Specialist
+5.6,4.1,4.9,IoT Engineer
+5.1,5.3,5.4,Cybersecurity Analyst
+4.5,4.0,5.4,SOC Engineer
+5.1,5.7,5.6,MLOps Engineer
+5.7,5.0,4.7,AI Business Analyst
+5.6,8.9,5.4,Blockchain Developer
+5.7,5.8,4.9,Smart Manufacturing Analyst
+4.2,9.3,8.1,Full Stack Developer
+5.8,4.4,4.1,Digital Transformation Analyst
+4.8,8.8,7.6,Frontend Developer
+5.9,4.1,5.3,Digital Marketing Analyst (AI)
+8.6,5.8,9.1,Prompt Engineer
+4.9,6.0,5.1,AI Research Analyst
+5.6,8.4,6.7,Game Developer
+4.7,4.1,4.7,Digital Marketing Analyst (AI)
+4.9,5.4,5.3,Site Reliability Engineer
+5.4,4.0,4.4,AI Ethics Researcher
+5.3,9.5,6.5,Full Stack Developer
+5.6,5.5,5.1,Mobile App Developer
+8.1,9.0,6.2,Computer Vision Engineer
+6.1,9.5,7.6,Platform Engineer
+5.0,4.3,5.3,Cybersecurity Analyst
+5.2,5.5,4.3,Mobile App Developer
+5.4,9.8,7.5,Game Developer
+7.3,7.0,9.2,Business Intelligence Analyst
+5.3,5.8,5.2,SOC Engineer
+5.3,4.3,4.9,AI Operations Manager
+5.4,4.5,4.4,Cloud Security Engineer
+4.6,4.5,4.4,AI Business Analyst
+5.8,9.8,7.0,Game Developer
+4.4,4.2,5.4,AI Governance Specialist
+4.8,5.6,5.3,Site Reliability Engineer
+5.6,4.5,5.4,Software Developer
+4.5,5.9,5.3,Mobile App Developer
+8.6,8.0,5.4,Computer Vision Engineer
+5.4,4.4,5.2,AI Quality Assurance Engineer
+4.5,5.3,5.6,Smart Manufacturing Analyst
+5.6,9.5,5.4,Blockchain Developer
+4.2,5.4,4.7,Data Engineer
+8.9,7.6,5.5,Computer Vision Engineer
+4.1,9.8,5.5,Blockchain Developer
+5.1,4.1,5.3,AI Ethics Researcher
+7.6,6.8,10.0,AI Product Manager
+4.7,5.8,6.0,Cybersecurity Analyst
+5.7,5.7,4.5,AR/VR Developer
+5.2,4.1,4.2,Data Governance Analyst
+6.0,4.7,5.5,Cloud Security Engineer
+9.6,9.7,7.5,Machine Learning Engineer
+4.5,8.6,7.3,Full Stack Developer
+4.3,4.0,4.7,IoT Engineer
+5.1,9.6,5.6,Backend Developer
+5.3,4.5,4.0,Cybersecurity Analyst
+5.5,5.2,5.5,Security Automation Engineer
+5.6,7.2,9.2,Business Intelligence Analyst
+4.1,9.2,8.2,Frontend Developer
+5.2,9.2,7.0,Blockchain Developer
+5.0,9.4,6.4,Backend Developer
+4.8,4.5,5.2,ERP Functional Consultant
+5.9,9.9,5.7,Blockchain Developer
+9.1,8.4,7.5,Machine Learning Engineer
+6.0,5.3,5.6,Healthcare AI Analyst
+5.4,5.2,4.1,SOC Engineer
+5.4,8.8,6.9,Penetration Tester
+4.7,5.9,4.3,Site Reliability Engineer
+4.0,9.4,7.9,Frontend Developer
+5.3,4.6,4.3,Smart Manufacturing Analyst
+5.3,5.2,4.4,Smart Manufacturing Analyst
+5.4,4.9,5.3,AI Business Analyst
+5.7,4.3,4.0,AI Governance Specialist
+5.6,5.2,5.4,EdTech Product Analyst
+5.7,5.6,5.9,Technical Program Manager
+9.6,6.0,8.3,Prompt Engineer
+8.8,6.1,8.1,Prompt Engineer
+5.8,5.2,5.2,AI Cloud Engineer
+4.7,4.1,4.1,Smart Manufacturing Analyst
+4.8,4.2,5.2,AI UX Designer
+6.8,9.8,7.3,Game Developer
+4.4,5.7,5.8,AI UX Designer
+4.4,5.5,4.6,AI UX Designer
+5.6,6.0,4.1,Site Reliability Engineer
+5.3,9.7,6.9,Backend Developer
+4.9,5.7,4.1,Sustainability Data Analyst
+4.7,4.1,6.0,Robotics Software Engineer
+5.6,5.7,5.9,AI Business Analyst
+4.2,4.8,4.1,Digital Marketing Analyst (AI)
+4.4,4.5,4.9,Digital Marketing Analyst (AI)
+4.5,4.2,4.3,Digital Transformation Analyst
+8.3,9.9,7.0,Machine Learning Engineer
+5.9,4.9,4.6,Security Automation Engineer
+5.6,4.7,4.6,AR/VR Developer
+4.5,4.3,4.5,IoT Engineer
+4.7,9.8,6.6,Full Stack Developer
+3.4,9.6,6.8,Frontend Developer
+4.7,5.7,4.3,AI Business Analyst
+4.2,9.0,5.6,Blockchain Developer
+6.6,7.1,8.3,Business Intelligence Analyst
+5.2,5.0,4.3,Technical Program Manager
+5.2,4.5,5.0,AR/VR Developer
+4.2,4.9,4.6,Security Automation Engineer
+5.6,4.1,4.8,IoT Engineer
+4.9,5.5,5.1,Mobile App Developer
+5.3,5.6,5.7,AI Governance Specialist
+8.6,8.6,6.7,Computer Vision Engineer
+6.0,5.8,4.7,AI Research Analyst
+4.4,5.0,5.5,Security Automation Engineer
+5.0,5.0,5.7,AI Research Analyst
+8.7,9.2,5.8,Computer Vision Engineer
+8.7,8.4,6.5,Computer Vision Engineer
+4.3,4.4,5.9,Healthcare AI Analyst
+5.4,9.1,7.2,Game Developer
+5.0,5.3,4.5,Cloud DevOps Engineer
+5.1,9.2,7.8,Full Stack Developer
+4.3,5.1,4.4,Sustainability Data Analyst
+9.1,5.4,7.9,Prompt Engineer
+5.7,4.6,5.9,AI Research Analyst
+5.9,5.1,4.3,FinTech Software Engineer
+6.2,7.1,8.7,Business Intelligence Analyst
+7.7,8.1,8.2,Data Scientist
+5.6,4.4,5.3,Data Engineer
+4.4,4.4,5.7,Cybersecurity Analyst
+5.0,8.0,5.5,Penetration Tester
+5.7,5.6,5.3,Robotics Software Engineer
+5.5,4.3,4.9,Software Developer
+4.7,4.2,5.0,Cybersecurity Analyst
+5.8,4.1,4.6,Cloud Security Engineer
+3.4,8.5,8.3,Frontend Developer
+4.9,4.9,5.5,AI Quality Assurance Engineer
+4.3,5.0,4.9,AI Ethics Researcher
+5.7,10.0,7.5,Platform Engineer
+5.3,9.7,6.3,Platform Engineer
+4.1,4.4,4.7,ERP Functional Consultant
+5.5,8.7,7.3,Penetration Tester
+5.0,5.0,4.1,AI Ethics Researcher
+4.6,9.1,6.9,Platform Engineer
+5.7,4.3,4.0,Cloud Security Engineer
+8.4,7.5,6.6,Data Scientist
+5.4,4.2,5.2,AR/VR Developer
+4.6,4.3,4.8,Digital Transformation Analyst
+5.6,4.8,5.5,AI Cloud Engineer
+5.3,9.5,6.5,Game Developer
+4.9,9.6,6.9,Backend Developer
+4.8,4.1,4.0,Digital Marketing Analyst (AI)
+6.7,9.0,7.6,Game Developer
+4.5,4.7,4.1,Technical Program Manager
+5.9,5.3,5.9,AR/VR Developer
+4.5,5.2,5.4,AI Business Analyst
+4.6,10.0,8.4,Full Stack Developer
+5.8,5.5,4.6,ERP Functional Consultant
+4.6,5.9,4.0,AI Solutions Consultant
+5.4,9.4,6.2,Blockchain Developer
+6.0,4.6,4.7,AI Quality Assurance Engineer
+4.2,4.9,4.5,Data Governance Analyst
+9.2,6.7,9.4,Prompt Engineer
+4.4,4.7,5.9,Mobile App Developer
+4.1,4.2,4.3,AR/VR Developer
+5.2,4.3,5.9,FinTech Software Engineer
+4.9,5.0,4.5,ERP Functional Consultant
+8.4,8.3,8.0,Data Scientist
+6.5,9.2,7.8,Game Developer
+5.6,5.5,4.1,AI Operations Manager
+4.0,4.4,5.3,Sustainability Data Analyst
+4.8,4.8,5.8,MLOps Engineer
+6.8,9.8,6.6,Game Developer
+5.4,4.5,4.4,Healthcare AI Analyst
+7.9,7.7,7.4,Data Scientist
+5.7,4.2,5.5,MLOps Engineer
+5.1,4.6,5.0,AI UX Designer
+4.6,5.2,4.9,AI Governance Specialist
+4.3,4.2,5.1,Data Engineer
+5.8,4.7,5.5,EdTech Product Analyst
+5.3,5.9,5.6,Supply Chain AI Analyst
+9.6,6.3,9.3,Prompt Engineer
+4.8,4.7,4.0,Digital Marketing Analyst (AI)
+5.7,5.6,4.2,Site Reliability Engineer
+5.2,4.9,4.2,Security Automation Engineer
+10.0,7.9,5.1,Computer Vision Engineer
+5.2,5.5,4.1,Smart Manufacturing Analyst
+5.3,5.1,4.2,Cybersecurity Analyst
+4.3,5.1,4.6,MLOps Engineer
+6.9,9.6,8.0,Game Developer
+4.5,5.9,4.9,Digital Marketing Analyst (AI)
+4.7,4.1,4.1,AI Business Analyst
+5.4,4.9,4.5,Digital Transformation Analyst
+5.2,4.5,5.2,Data Governance Analyst
+4.7,5.6,5.6,Cybersecurity Analyst
+5.0,4.7,4.7,AI Research Analyst
+6.1,8.7,6.4,Platform Engineer
+4.2,4.9,5.0,Digital Transformation Analyst
+5.7,4.4,4.8,AI Ethics Researcher
+5.6,5.6,4.8,AI Quality Assurance Engineer
+4.9,4.6,5.9,AI Operations Manager
+4.2,5.9,5.4,Digital Marketing Analyst (AI)
+5.1,4.1,5.0,Smart Manufacturing Analyst
+4.8,4.3,5.3,Data Governance Analyst
+9.4,8.1,7.9,Data Scientist
+8.6,5.8,7.7,Prompt Engineer
+9.7,6.9,8.8,Prompt Engineer
+8.2,8.7,6.6,Machine Learning Engineer
+4.8,5.7,5.6,Security Automation Engineer
+5.2,4.7,4.5,AI Quality Assurance Engineer
+8.2,8.2,5.8,Computer Vision Engineer
+5.4,5.3,4.1,Digital Marketing Analyst (AI)
+4.8,4.4,4.3,FinTech Software Engineer
+5.7,4.1,4.8,AI Cloud Engineer
+4.3,5.8,5.1,AI Business Analyst
+4.5,5.0,5.5,Sustainability Data Analyst
+5.9,4.4,5.8,AI Research Analyst
+5.9,5.8,5.3,EdTech Product Analyst
+5.3,4.8,5.5,FinTech Software Engineer
+5.6,9.4,6.9,Platform Engineer
+5.5,5.6,4.3,Technical Program Manager
+5.7,5.1,5.7,Cloud Security Engineer
+4.9,4.8,5.8,AI Business Analyst
+4.5,5.7,5.0,AI Cloud Engineer
+8.5,7.6,7.6,Data Scientist
+4.7,8.6,7.0,Full Stack Developer
+4.5,10.0,7.9,Platform Engineer
+4.8,5.5,4.7,AI Quality Assurance Engineer
+5.3,5.6,5.9,EdTech Product Analyst
+4.8,5.6,4.5,ERP Functional Consultant
+5.5,8.6,6.2,Backend Developer
+5.3,5.4,4.2,AI Operations Manager
+6.4,8.4,7.2,Platform Engineer
+4.4,4.6,5.1,Software Developer
+4.8,4.3,4.3,ERP Functional Consultant
+4.8,5.5,5.8,AI UX Designer
+4.2,4.8,4.2,EdTech Product Analyst
+4.0,5.3,5.2,Technical Program Manager
+4.3,4.5,4.0,AI Quality Assurance Engineer
+5.7,5.9,4.3,AI Cloud Engineer
+4.5,5.7,5.9,Security Automation Engineer
+4.8,4.1,4.1,MLOps Engineer
+6.1,8.8,6.1,Game Developer
+5.2,4.0,5.6,Robotics Software Engineer
+4.6,4.1,5.2,FinTech Software Engineer
+4.8,5.9,5.1,Mobile App Developer
+4.6,5.4,4.5,AI Ethics Researcher
+10.0,5.7,8.6,Prompt Engineer
+4.1,4.9,5.7,SOC Engineer
+9.6,7.9,5.5,Computer Vision Engineer
+5.6,5.9,4.2,Software Developer
+4.9,4.7,5.7,AI Cloud Engineer
+5.2,8.4,7.5,Game Developer
+4.1,5.0,4.9,Healthcare AI Analyst
+4.7,9.3,7.6,Full Stack Developer
+4.3,5.1,5.6,IoT Engineer
+5.5,4.3,4.3,Cloud Security Engineer
+4.5,4.7,4.8,Digital Transformation Analyst
+6.4,8.1,6.1,Game Developer
+8.8,8.9,6.4,NLP Engineer
+5.3,4.5,5.8,Mobile App Developer
+10.0,5.6,8.0,Prompt Engineer
+4.8,4.5,5.3,Site Reliability Engineer
+7.2,6.8,9.6,Business Intelligence Analyst
+4.8,4.3,5.5,AI Research Analyst
+4.7,5.3,4.5,SOC Engineer
+4.2,6.0,4.3,FinTech Software Engineer
+6.0,6.0,5.6,Smart Manufacturing Analyst
+5.3,5.2,5.7,MLOps Engineer
+4.6,4.9,5.2,SOC Engineer
+4.3,9.4,5.7,Backend Developer
+8.6,8.7,6.9,Data Scientist
+5.9,5.4,5.6,Site Reliability Engineer
+5.1,5.6,4.0,AI Research Analyst
+5.6,4.1,5.8,AI Cloud Engineer
+10.0,8.6,5.9,Machine Learning Engineer
+5.5,4.5,5.7,Technical Program Manager
+4.2,4.3,6.0,Supply Chain AI Analyst
+9.3,9.7,6.1,Machine Learning Engineer
+5.4,5.2,5.2,Digital Marketing Analyst (AI)
+5.4,5.2,4.9,ERP Functional Consultant
+9.1,6.5,8.0,Prompt Engineer
+5.4,4.5,5.3,Digital Transformation Analyst
+9.5,7.9,6.1,NLP Engineer
+4.3,5.2,5.7,AI Operations Manager
+4.1,5.5,4.7,SOC Engineer
+5.0,5.9,4.7,AI Cloud Engineer
+4.9,4.0,4.2,Healthcare AI Analyst
+4.0,8.6,6.3,Backend Developer
+8.9,8.6,6.3,NLP Engineer
+4.6,5.3,5.9,Digital Transformation Analyst
+4.1,5.8,5.2,Digital Marketing Analyst (AI)
+4.1,9.0,6.6,Frontend Developer
+8.2,9.2,6.2,Machine Learning Engineer
+9.8,8.3,5.3,Computer Vision Engineer
+4.4,8.6,7.6,Frontend Developer
+8.4,6.8,10.0,AI Product Manager
+5.4,5.4,5.9,Security Automation Engineer
+5.1,8.0,6.5,Platform Engineer
+4.4,5.3,5.3,IoT Engineer
+9.2,8.0,7.0,Machine Learning Engineer
+8.6,9.3,6.6,Machine Learning Engineer
+4.7,4.3,4.2,EdTech Product Analyst
+8.7,6.8,9.8,AI Product Manager
+4.2,4.8,5.5,Technical Program Manager
+5.1,8.7,5.0,Backend Developer
+5.9,8.7,6.5,Platform Engineer
+4.0,5.1,5.7,Smart Manufacturing Analyst
+5.9,5.1,5.0,SOC Engineer
+4.2,5.1,4.8,SOC Engineer
+5.2,4.8,4.5,Cybersecurity Analyst
+4.2,4.6,4.2,Technical Program Manager
+4.4,6.0,4.9,AI Governance Specialist
+5.1,5.7,6.0,AI Solutions Consultant
+5.2,5.6,4.7,IoT Engineer
+4.6,4.8,5.3,Digital Transformation Analyst
+5.4,4.6,4.3,Healthcare AI Analyst
+5.3,8.8,7.7,Full Stack Developer
+5.4,5.4,5.5,Supply Chain AI Analyst
+8.7,6.0,10.0,AI Product Manager
+5.2,4.4,4.1,Cybersecurity Analyst
+4.1,9.4,6.2,Backend Developer
+7.2,5.9,8.3,Business Intelligence Analyst
+5.9,4.2,5.0,MLOps Engineer
+5.2,5.1,4.2,Cybersecurity Analyst
+4.1,4.2,5.2,AI UX Designer
+5.1,4.5,5.3,EdTech Product Analyst
+5.6,4.1,5.0,Data Governance Analyst
+5.4,4.5,4.6,AR/VR Developer
+5.2,5.8,5.6,AI Governance Specialist
+6.7,7.0,8.7,Business Intelligence Analyst
+9.3,8.4,5.4,Computer Vision Engineer
+5.4,5.1,4.7,SOC Engineer
+5.8,4.0,4.6,Technical Program Manager
+8.1,9.0,7.4,NLP Engineer
+5.7,9.4,6.8,Game Developer
+5.5,4.9,4.8,AI UX Designer
+5.9,4.5,4.2,Healthcare AI Analyst
+5.2,5.9,4.8,Data Engineer
+4.1,4.7,5.0,Security Automation Engineer
+4.3,5.3,6.0,AR/VR Developer
+8.9,8.7,6.3,Machine Learning Engineer
+8.2,9.3,6.8,NLP Engineer
+4.8,5.3,4.9,AI Operations Manager
+9.3,7.6,6.6,Computer Vision Engineer
+9.9,9.3,7.4,Machine Learning Engineer
+4.3,5.0,5.2,FinTech Software Engineer
+5.2,4.8,4.7,SOC Engineer
+4.3,4.8,4.3,Digital Marketing Analyst (AI)
+5.5,4.4,4.1,Cloud Security Engineer
+9.1,9.2,7.2,Machine Learning Engineer
+5.2,4.7,5.6,Cloud Security Engineer
+5.1,4.2,5.1,Smart Manufacturing Analyst
+5.8,4.8,4.6,AR/VR Developer
+4.3,4.3,4.9,Site Reliability Engineer
+5.2,4.2,5.9,Mobile App Developer
+5.5,5.2,5.7,AI UX Designer
+3.2,9.0,7.8,Frontend Developer
+5.7,5.6,4.6,IoT Engineer
+5.9,4.2,5.8,Security Automation Engineer
+5.9,4.4,5.4,EdTech Product Analyst
+4.1,4.8,5.0,AR/VR Developer
+5.2,5.9,5.3,Software Developer
+5.0,5.6,5.9,ERP Functional Consultant
+4.0,6.0,4.2,Healthcare AI Analyst
+8.6,5.6,8.8,AI Product Manager
+4.9,5.3,4.8,AI Business Analyst
+4.1,5.2,5.8,AI Quality Assurance Engineer
+4.8,4.4,4.9,AI UX Designer
+4.1,5.6,5.7,AI Operations Manager
+5.2,4.7,5.6,AI Quality Assurance Engineer
+5.1,5.7,5.3,Site Reliability Engineer
+5.6,5.2,4.8,Cybersecurity Analyst
+10.0,6.1,8.7,Prompt Engineer
+4.4,5.3,5.1,AI Governance Specialist
+4.9,7.6,6.7,Penetration Tester
+6.5,9.0,6.5,Game Developer
+5.3,4.2,4.9,Supply Chain AI Analyst
+4.3,4.4,4.4,AR/VR Developer
+4.8,4.1,4.8,AI Ethics Researcher
+5.0,5.0,4.8,AI Governance Specialist
+5.7,4.3,5.0,AI Operations Manager
+4.1,4.1,5.1,AI Quality Assurance Engineer
+5.1,5.8,5.1,AI Business Analyst
+5.9,4.1,4.2,Cybersecurity Analyst
+4.1,4.4,5.1,Security Automation Engineer
+5.3,4.1,5.9,AI Governance Specialist
+5.7,4.6,4.2,MLOps Engineer
+4.3,4.3,4.2,Cybersecurity Analyst
+5.0,4.5,4.7,Software Developer
+10.0,8.9,7.9,NLP Engineer
+4.3,4.8,5.1,AI Research Analyst
+4.2,4.0,5.3,Digital Marketing Analyst (AI)
+8.3,5.8,9.5,AI Product Manager
+4.8,4.0,4.7,AI Ethics Researcher
+4.4,4.2,5.9,MLOps Engineer
+8.2,6.5,9.1,AI Product Manager
+4.8,8.5,5.2,Blockchain Developer
+4.4,5.6,5.4,MLOps Engineer
+5.1,5.0,5.8,AI Cloud Engineer
+4.1,4.6,4.7,AI Business Analyst
+6.6,10.0,6.5,Game Developer
+5.7,5.7,4.4,Robotics Software Engineer
+3.8,8.8,8.5,Frontend Developer
+3.4,9.6,7.2,Frontend Developer
+5.5,4.8,5.2,AI UX Designer
+9.7,9.1,7.7,NLP Engineer
+4.1,5.4,4.3,AI Solutions Consultant
+5.3,8.6,6.3,Penetration Tester
+5.5,10.0,6.3,Platform Engineer
+9.4,8.8,5.8,Machine Learning Engineer
+4.3,9.9,6.8,Blockchain Developer
+5.8,6.0,4.4,EdTech Product Analyst
+4.7,5.3,5.0,AI Cloud Engineer
+4.8,4.7,5.2,Cloud DevOps Engineer
+5.2,4.3,4.9,Healthcare AI Analyst
+5.1,5.1,4.4,Cybersecurity Analyst
+5.5,4.1,4.7,ERP Functional Consultant
+5.6,5.1,4.5,AI Quality Assurance Engineer
+8.9,8.1,8.1,Data Scientist
+6.5,9.2,7.0,Game Developer
+4.3,4.5,4.8,AI Quality Assurance Engineer
+5.2,5.0,4.6,AR/VR Developer
+4.0,5.0,4.6,Sustainability Data Analyst
+5.5,4.0,5.2,Digital Marketing Analyst (AI)
+5.9,4.3,4.9,EdTech Product Analyst
+4.2,5.3,5.1,ERP Functional Consultant
+4.8,5.0,5.8,SOC Engineer
+4.4,4.0,5.7,Smart Manufacturing Analyst
+5.2,5.8,5.2,Smart Manufacturing Analyst
+9.6,8.4,7.5,NLP Engineer
+5.8,5.1,4.4,AI Research Analyst
+4.5,4.4,4.5,AI Governance Specialist
+3.6,9.1,7.7,Frontend Developer
+4.9,5.2,4.2,AI Governance Specialist
+4.2,4.3,5.0,Data Engineer
+3.4,8.6,7.3,Frontend Developer
+5.6,4.0,5.3,Healthcare AI Analyst
+9.3,9.6,7.4,Machine Learning Engineer
+7.5,7.3,8.3,Data Scientist
+8.9,9.1,6.8,Machine Learning Engineer
+5.4,5.9,6.0,ERP Functional Consultant
+5.4,4.6,5.8,EdTech Product Analyst
+4.1,4.5,5.8,Supply Chain AI Analyst
+4.5,4.4,4.3,AI Operations Manager
+5.7,5.0,5.3,Cloud Security Engineer
+4.5,5.5,5.5,Sustainability Data Analyst
+4.6,4.8,4.4,MLOps Engineer
+6.0,5.3,5.9,Security Automation Engineer
+4.6,5.6,5.5,MLOps Engineer
+6.4,9.9,6.8,Game Developer
+4.3,9.3,6.5,Blockchain Developer
+5.2,4.4,5.0,AI Ethics Researcher
+4.6,4.9,5.3,Security Automation Engineer
+5.5,4.5,4.8,Cloud Security Engineer
+4.5,4.4,5.6,Digital Marketing Analyst (AI)
+5.8,4.7,5.5,AI Quality Assurance Engineer
+5.8,5.7,4.4,AI Research Analyst
+5.9,4.8,4.7,Smart Manufacturing Analyst
+8.1,8.5,6.2,NLP Engineer
+6.0,6.1,9.6,Business Intelligence Analyst
+5.8,4.6,5.7,Cloud DevOps Engineer
+5.7,5.5,4.3,AI Ethics Researcher
+5.4,5.9,5.4,AR/VR Developer
+7.7,6.0,9.8,AI Product Manager
+5.0,4.2,4.6,AI Business Analyst
+9.6,9.7,5.8,Machine Learning Engineer
+5.9,4.7,5.3,Cloud DevOps Engineer
+10.0,6.6,9.4,Prompt Engineer
+4.6,10.0,6.8,Full Stack Developer
+5.4,9.5,6.4,Blockchain Developer
+4.5,5.7,4.3,Data Governance Analyst
+8.1,9.4,6.5,Machine Learning Engineer
+6.2,8.3,5.8,Penetration Tester
+6.2,9.1,6.4,Platform Engineer
+5.4,5.0,5.2,Cybersecurity Analyst
+4.9,5.7,5.7,Cybersecurity Analyst
+5.4,4.2,5.7,Site Reliability Engineer
+5.3,5.4,4.7,Site Reliability Engineer
+5.8,5.5,4.2,MLOps Engineer
+9.3,6.8,7.6,Prompt Engineer
+5.9,5.4,5.3,Cloud DevOps Engineer
+4.5,4.5,5.9,Data Engineer
+4.6,5.6,4.8,Mobile App Developer
+8.3,7.5,7.1,NLP Engineer
+5.5,9.2,5.7,Backend Developer
+4.7,5.0,4.9,Supply Chain AI Analyst
+5.8,9.5,7.5,Full Stack Developer
+4.3,6.0,4.5,AI Operations Manager
+5.6,6.8,9.2,Business Intelligence Analyst
+6.3,6.3,9.6,Business Intelligence Analyst
+4.4,5.6,5.3,Digital Marketing Analyst (AI)
+4.8,4.9,4.5,AI Governance Specialist
+6.0,8.5,6.1,Penetration Tester
+5.2,6.0,4.9,AI Operations Manager
+5.8,4.7,4.1,Cloud DevOps Engineer
+4.4,4.8,4.4,AI Ethics Researcher
+4.0,5.8,5.7,Smart Manufacturing Analyst
+5.5,4.3,4.2,Software Developer
+3.1,9.4,8.4,Frontend Developer
+4.9,4.2,5.0,Mobile App Developer
+5.2,8.2,6.7,Penetration Tester
+5.4,4.2,4.1,ERP Functional Consultant
+6.0,4.5,4.1,EdTech Product Analyst
+4.4,4.1,4.8,AR/VR Developer
+5.6,4.7,4.9,Site Reliability Engineer
+5.9,9.0,7.7,Platform Engineer
+9.2,7.0,8.1,Data Scientist
+4.9,6.0,5.0,MLOps Engineer
+6.0,5.5,4.5,Healthcare AI Analyst
+5.1,6.0,5.7,Supply Chain AI Analyst
+4.2,5.4,4.7,Data Governance Analyst
+4.0,4.8,4.5,Cloud Security Engineer
+5.6,4.7,5.7,Digital Marketing Analyst (AI)
+4.5,8.1,6.0,Penetration Tester
+4.5,4.1,4.4,AI Solutions Consultant
+5.1,4.6,4.8,AI Ethics Researcher
+4.8,5.8,5.8,AI Governance Specialist
+5.0,4.7,4.2,Cloud Security Engineer
+5.9,4.1,4.6,AR/VR Developer
+8.1,7.6,6.8,Data Scientist
+5.6,4.2,5.3,Security Automation Engineer
+4.2,4.1,5.8,AI UX Designer
+7.9,8.6,7.6,Data Scientist
+4.2,5.9,4.5,ERP Functional Consultant
+5.7,4.3,5.7,Cloud DevOps Engineer
+4.0,5.0,5.5,AI Cloud Engineer
+5.9,5.8,5.6,SOC Engineer
+9.8,7.9,5.6,Computer Vision Engineer
+4.6,4.8,4.8,Cybersecurity Analyst
+5.1,4.3,5.4,MLOps Engineer
+4.3,4.6,5.0,Cybersecurity Analyst
+5.6,5.5,5.3,Technical Program Manager
+8.8,6.1,7.7,Prompt Engineer
+5.3,8.8,6.1,Platform Engineer
+5.0,9.4,7.4,Penetration Tester
+4.7,4.1,4.4,AI Quality Assurance Engineer
+5.3,9.9,6.3,Platform Engineer
+5.5,4.2,6.0,Healthcare AI Analyst
+4.8,5.6,4.7,Mobile App Developer
+5.3,4.4,4.3,Cybersecurity Analyst
+5.9,5.8,5.8,AI Research Analyst
+5.3,5.6,4.1,EdTech Product Analyst
+6.2,6.1,9.3,Business Intelligence Analyst
+4.7,8.8,7.7,Full Stack Developer
+5.6,9.3,6.8,Full Stack Developer
+4.4,4.5,4.6,Technical Program Manager
+5.3,5.2,5.4,EdTech Product Analyst
+4.7,5.6,4.4,Cloud DevOps Engineer
+4.9,5.6,4.4,Cloud Security Engineer
+4.2,5.8,4.7,Cloud Security Engineer
+5.9,8.1,7.4,Platform Engineer
+4.6,4.1,5.2,Digital Marketing Analyst (AI)
+4.5,4.8,4.2,AI Cloud Engineer
+4.3,4.6,4.2,AI Ethics Researcher
+4.8,8.0,7.5,Frontend Developer
+4.2,4.6,5.9,Robotics Software Engineer
+4.3,5.9,4.4,AI Solutions Consultant
+5.5,5.1,5.8,IoT Engineer
+5.6,9.1,6.4,Platform Engineer
+4.3,5.8,4.7,Cloud DevOps Engineer
+4.7,5.5,4.7,AI UX Designer
+5.9,5.5,5.2,Robotics Software Engineer
+5.8,4.1,4.5,AI Solutions Consultant
+3.9,8.5,8.0,Frontend Developer
+6.3,8.3,6.2,Penetration Tester
+5.9,4.9,5.0,EdTech Product Analyst
+4.7,5.8,5.1,Software Developer
+5.5,5.6,4.7,EdTech Product Analyst
+4.9,5.7,4.7,Data Governance Analyst
+5.6,5.9,5.2,AI Quality Assurance Engineer
+5.5,5.6,5.7,Digital Marketing Analyst (AI)
+3.8,8.1,7.3,Frontend Developer
+5.3,4.9,5.5,EdTech Product Analyst
+4.7,5.3,4.4,Mobile App Developer
+5.5,5.1,4.4,AI Research Analyst
+4.6,5.5,5.0,Digital Transformation Analyst
+4.4,5.9,5.4,Smart Manufacturing Analyst
+5.9,4.9,5.0,Technical Program Manager
+5.8,5.1,5.4,EdTech Product Analyst
+4.5,4.9,4.2,Data Engineer
+4.4,4.0,4.1,MLOps Engineer
+6.0,4.5,5.3,Sustainability Data Analyst
+5.7,5.1,4.3,Software Developer
+5.5,5.2,5.5,AI Quality Assurance Engineer
+5.5,6.0,5.1,Digital Marketing Analyst (AI)
+4.7,5.3,4.1,AI Ethics Researcher
+4.8,8.2,7.2,Frontend Developer
+5.6,5.2,4.8,Software Developer
+4.9,5.7,4.7,Data Engineer
+9.7,7.7,6.6,Computer Vision Engineer
+5.7,4.4,4.9,Software Developer
+4.3,5.4,5.1,Data Governance Analyst
+5.3,4.4,4.4,Digital Marketing Analyst (AI)
+3.1,8.6,7.6,Frontend Developer
+5.7,5.3,4.9,AI Solutions Consultant
+5.9,5.4,5.9,Cloud Security Engineer
+5.6,8.5,6.1,Platform Engineer
+5.5,4.2,4.6,Smart Manufacturing Analyst
+5.1,5.1,5.2,MLOps Engineer
+4.3,4.8,5.2,SOC Engineer
+5.9,5.5,5.8,FinTech Software Engineer
+5.5,5.2,4.4,AI Operations Manager
+5.3,5.2,5.2,Smart Manufacturing Analyst
+5.0,5.1,4.7,IoT Engineer
+5.0,4.4,5.6,Smart Manufacturing Analyst
+5.9,5.7,8.9,Business Intelligence Analyst
+5.3,4.9,4.6,AI Operations Manager
+5.1,4.7,5.9,FinTech Software Engineer
+9.8,8.5,5.7,Computer Vision Engineer
+10.0,5.1,8.4,Prompt Engineer
+4.7,5.8,4.0,FinTech Software Engineer
+5.1,5.5,5.0,AI Operations Manager
+4.2,5.9,5.0,Data Engineer
+9.2,8.0,6.0,Computer Vision Engineer
+8.9,7.6,6.2,NLP Engineer
+5.7,4.5,4.4,Cybersecurity Analyst
+9.5,6.5,7.6,Prompt Engineer
+5.2,4.2,4.1,Data Engineer
+4.1,5.7,4.2,Cloud Security Engineer
+4.1,4.9,5.7,AI Cloud Engineer
+4.5,4.8,4.1,MLOps Engineer
+4.9,5.2,5.1,IoT Engineer
+4.7,4.6,4.2,Sustainability Data Analyst
+6.2,5.7,9.5,Business Intelligence Analyst
+5.9,5.9,5.7,Technical Program Manager
+9.7,6.4,8.1,Prompt Engineer
+5.3,4.9,5.0,Data Engineer
+5.5,4.6,4.6,Digital Marketing Analyst (AI)
+5.8,4.1,5.0,Software Developer
+9.8,9.2,6.6,Machine Learning Engineer
+4.5,4.7,5.7,Data Governance Analyst
+5.1,5.0,4.2,Security Automation Engineer
+4.0,5.9,4.8,Security Automation Engineer
+4.2,8.2,7.9,Frontend Developer
+9.9,8.7,5.3,Computer Vision Engineer
+5.2,9.5,5.8,Blockchain Developer
+5.8,5.3,5.8,FinTech Software Engineer
+5.2,4.3,4.6,AI Governance Specialist
+4.4,5.8,5.5,Digital Transformation Analyst
+5.4,4.6,4.4,Mobile App Developer
+10.0,5.9,8.0,Prompt Engineer
+5.2,4.1,4.7,Digital Transformation Analyst
+9.4,5.3,9.5,Prompt Engineer
+4.4,4.3,4.4,Cybersecurity Analyst
+5.5,4.9,5.1,Digital Marketing Analyst (AI)
+4.0,4.1,4.9,AI Research Analyst
+9.6,9.8,5.7,Machine Learning Engineer
+5.1,5.8,4.8,Supply Chain AI Analyst
+10.0,5.3,9.4,Prompt Engineer
+5.5,5.9,5.4,AI Governance Specialist
+4.7,5.9,4.6,AI Cloud Engineer
+4.7,5.4,5.5,AI Governance Specialist
+6.4,7.9,7.1,Penetration Tester
+5.5,4.1,4.8,AR/VR Developer
+4.6,4.6,6.0,Data Governance Analyst
+5.3,5.4,6.0,SOC Engineer
+4.8,5.6,4.9,EdTech Product Analyst
+5.7,4.4,5.9,Security Automation Engineer
+5.9,6.2,9.5,Business Intelligence Analyst
+4.8,5.2,4.9,Mobile App Developer
+5.5,4.5,4.1,AI Quality Assurance Engineer
+4.6,4.9,4.3,AI Research Analyst
+4.7,4.8,4.1,Security Automation Engineer
+5.2,9.8,5.3,Blockchain Developer
+5.7,8.8,6.3,Penetration Tester
+5.4,4.8,5.0,AI Cloud Engineer
+5.0,9.4,7.3,Game Developer
+4.1,4.7,6.0,Technical Program Manager
+4.8,5.0,5.8,AI Ethics Researcher
+5.4,5.2,5.6,Digital Marketing Analyst (AI)
+5.7,4.9,5.0,Site Reliability Engineer
+4.8,5.9,5.4,AI Solutions Consultant
+4.2,5.7,5.0,Security Automation Engineer
+4.1,5.1,4.8,AI Quality Assurance Engineer
+5.8,4.4,5.7,Cloud Security Engineer
+5.1,4.1,5.9,AI Quality Assurance Engineer
+5.5,8.6,6.9,Platform Engineer
+5.7,4.6,4.4,MLOps Engineer
+4.3,4.6,5.6,AI Quality Assurance Engineer
+4.9,4.5,4.3,AI Governance Specialist
+4.7,5.9,4.7,AI Cloud Engineer
+6.0,5.0,4.4,Cybersecurity Analyst
+9.8,8.9,6.9,Machine Learning Engineer
+6.0,4.1,4.2,AI UX Designer
+5.4,4.6,4.4,AI Ethics Researcher
+4.1,4.0,5.5,IoT Engineer
+4.3,4.9,5.2,SOC Engineer
+4.9,4.1,5.6,Sustainability Data Analyst
+4.0,5.5,5.8,AI Solutions Consultant
+4.9,5.1,5.0,AI Operations Manager
+4.8,5.8,5.8,Site Reliability Engineer
+4.7,5.2,5.9,IoT Engineer
+5.9,5.0,4.9,Technical Program Manager
+4.6,5.9,4.3,Data Governance Analyst
+5.2,4.6,4.6,Healthcare AI Analyst
+4.8,6.0,4.1,Security Automation Engineer
+5.2,4.2,4.3,Supply Chain AI Analyst
+4.9,5.0,4.5,Digital Transformation Analyst
+4.1,8.7,5.6,Backend Developer
+5.9,5.9,4.7,Data Engineer
+5.1,5.8,4.0,AI Cloud Engineer
+10.0,6.9,7.7,Prompt Engineer
+4.3,5.9,5.1,AI Research Analyst
+4.0,4.5,4.9,Smart Manufacturing Analyst
+5.4,5.5,6.0,Supply Chain AI Analyst
+4.6,5.1,5.1,EdTech Product Analyst
+4.8,4.3,6.0,Sustainability Data Analyst
+5.7,5.0,5.2,AI Ethics Researcher
+5.0,9.1,7.4,Platform Engineer
+5.5,10.0,7.2,Platform Engineer
+4.7,5.5,4.3,AI Cloud Engineer
+4.8,4.7,4.9,EdTech Product Analyst
+5.6,5.0,5.6,Digital Transformation Analyst
+5.2,4.7,5.6,Mobile App Developer
+4.5,4.4,5.0,AI UX Designer
+4.5,4.0,5.3,Cybersecurity Analyst
+4.0,8.9,8.4,Frontend Developer
+5.1,5.7,4.3,AR/VR Developer
+5.1,5.7,5.2,SOC Engineer
+5.9,8.2,5.7,Penetration Tester
+4.9,4.8,5.7,ERP Functional Consultant
+4.5,5.9,5.9,Data Engineer
+4.5,4.7,5.8,Supply Chain AI Analyst
+5.9,4.9,4.6,Mobile App Developer
+5.6,8.9,6.0,Penetration Tester
+5.5,4.1,4.1,MLOps Engineer
+4.3,9.2,5.6,Backend Developer
+5.0,4.6,4.4,EdTech Product Analyst
+4.6,5.9,4.8,Data Governance Analyst
+4.9,9.2,7.0,Blockchain Developer
+4.5,5.4,5.4,Robotics Software Engineer
+5.2,4.2,5.4,Mobile App Developer
+4.1,5.2,5.5,Digital Transformation Analyst
+8.4,9.2,6.1,NLP Engineer
+5.2,9.4,5.4,Backend Developer
+4.8,9.9,6.1,Platform Engineer
+4.4,4.7,5.2,AI Research Analyst
+5.1,4.3,4.6,Data Engineer
+4.5,4.4,4.8,AI Governance Specialist
+5.4,4.4,4.7,Supply Chain AI Analyst
+3.8,10.0,8.4,Frontend Developer
+5.6,4.5,4.1,ERP Functional Consultant
+5.1,8.5,7.0,Platform Engineer
+5.6,5.7,5.7,EdTech Product Analyst
+4.7,5.4,4.6,Software Developer
+4.1,5.4,4.0,Mobile App Developer
+4.8,4.7,5.4,AI UX Designer
+5.5,4.6,5.6,Cybersecurity Analyst
+4.6,4.9,5.5,FinTech Software Engineer
+5.4,6.0,4.5,AI Governance Specialist
+9.8,6.2,9.3,Prompt Engineer
+5.8,7.0,9.1,Business Intelligence Analyst
+7.5,5.9,9.2,AI Product Manager
+5.2,5.8,5.1,AI Ethics Researcher
+5.3,5.0,4.1,SOC Engineer
+8.5,8.5,5.6,Computer Vision Engineer
+8.4,9.0,6.1,Machine Learning Engineer
+9.0,5.9,7.8,Prompt Engineer
+5.9,5.7,5.4,Data Governance Analyst
+8.2,9.1,6.6,Computer Vision Engineer
+5.5,4.2,5.3,Software Developer
+5.7,5.2,5.3,Supply Chain AI Analyst
+4.9,5.1,4.1,Robotics Software Engineer
+5.3,4.2,4.9,IoT Engineer
+8.6,8.6,6.3,NLP Engineer
+5.4,5.6,4.3,AI Solutions Consultant
+3.2,8.3,8.3,Frontend Developer
+5.1,4.9,4.2,AI Business Analyst
+5.3,5.7,5.7,Technical Program Manager
+5.3,4.2,4.2,Data Engineer
+7.1,5.5,8.8,AI Product Manager
+4.5,4.8,5.9,Cloud Security Engineer
+6.2,9.7,7.4,Game Developer
+4.2,5.5,4.6,ERP Functional Consultant
+5.3,4.7,6.0,FinTech Software Engineer
+4.5,4.6,5.9,AI Business Analyst
+4.5,9.4,7.5,Platform Engineer
+5.7,5.9,6.0,SOC Engineer
+4.1,5.6,5.3,Data Governance Analyst
+5.3,4.3,5.3,AR/VR Developer
+6.0,5.8,4.9,Data Engineer
+4.1,8.7,6.7,Blockchain Developer
+5.4,4.9,4.1,AI Operations Manager
+4.9,4.9,5.9,AI Research Analyst
+5.3,4.6,5.1,Site Reliability Engineer
+4.1,5.9,4.7,Robotics Software Engineer
+5.0,4.7,5.4,Sustainability Data Analyst
+5.8,9.4,6.5,Platform Engineer
+4.6,4.3,5.3,Sustainability Data Analyst
+8.1,9.2,7.2,Machine Learning Engineer
+5.8,4.9,4.9,AI Ethics Researcher
+3.2,9.3,8.1,Frontend Developer
+4.5,4.8,5.7,Healthcare AI Analyst
+5.8,4.5,5.1,Smart Manufacturing Analyst
+4.4,4.2,5.8,Site Reliability Engineer
+8.6,6.5,8.6,AI Product Manager
+5.7,4.9,4.7,Cybersecurity Analyst
+5.1,4.2,5.5,ERP Functional Consultant
+5.2,4.4,4.4,Sustainability Data Analyst
+4.4,4.1,5.2,Cloud DevOps Engineer
+5.7,4.0,4.1,AI Business Analyst
+5.1,5.6,4.7,Digital Transformation Analyst
+4.7,5.2,4.5,IoT Engineer
+4.1,5.5,5.3,Site Reliability Engineer
+5.2,5.5,5.4,Smart Manufacturing Analyst
+4.4,4.7,4.3,AI Cloud Engineer
+4.8,9.4,7.7,Platform Engineer
+5.9,5.3,4.4,IoT Engineer
+4.2,5.6,5.2,Supply Chain AI Analyst
+5.2,5.6,5.4,AI UX Designer
+5.7,4.1,5.5,AR/VR Developer
+5.7,4.6,5.3,Smart Manufacturing Analyst
+4.6,5.9,4.1,AI Quality Assurance Engineer
+5.2,4.3,5.4,AI Governance Specialist
+4.4,4.5,5.0,AI Cloud Engineer
+5.8,4.4,4.3,AI Governance Specialist
+6.0,9.0,7.8,Platform Engineer
+4.3,5.3,4.5,Robotics Software Engineer
+4.3,5.4,5.2,AI Solutions Consultant
+9.5,8.6,6.4,Machine Learning Engineer
+8.8,9.5,5.6,Computer Vision Engineer
+4.6,4.7,5.1,FinTech Software Engineer
+4.5,9.8,5.5,Blockchain Developer
+9.8,8.2,6.8,Machine Learning Engineer
+5.8,8.8,8.4,Full Stack Developer
+4.9,5.9,5.4,AR/VR Developer
+4.6,4.4,4.6,AI Research Analyst
+4.2,4.3,4.2,IoT Engineer
+4.8,5.6,4.3,FinTech Software Engineer
+4.3,5.3,4.4,Cloud DevOps Engineer
+4.2,4.3,5.8,AI Solutions Consultant
+5.6,4.7,5.3,EdTech Product Analyst
+5.1,5.4,5.4,AR/VR Developer
+5.3,4.5,4.1,AI Solutions Consultant
+6.4,7.3,9.1,Business Intelligence Analyst
+5.7,6.0,4.3,Cloud Security Engineer
+5.4,5.3,6.0,AI Research Analyst
+6.0,9.9,7.0,Full Stack Developer
+5.6,4.2,5.6,AI Research Analyst
+6.3,8.3,6.8,Penetration Tester
+4.9,4.9,4.6,Digital Transformation Analyst
+5.5,9.9,6.9,Blockchain Developer
+4.3,5.7,5.5,AR/VR Developer
+4.5,8.6,7.0,Full Stack Developer
+5.8,5.3,5.4,AI Quality Assurance Engineer
+4.5,5.4,4.1,Digital Marketing Analyst (AI)
+4.8,5.3,4.3,Supply Chain AI Analyst
+5.6,4.5,5.3,SOC Engineer
+4.8,5.2,4.2,ERP Functional Consultant
+4.0,5.8,4.5,SOC Engineer
+10.0,7.0,7.9,Prompt Engineer
+4.5,5.3,5.9,Digital Marketing Analyst (AI)
+9.8,8.5,7.6,NLP Engineer
+5.3,10.0,7.9,Game Developer
+4.3,4.6,4.2,FinTech Software Engineer
+4.0,10.0,5.8,Backend Developer
+4.2,9.2,8.5,Full Stack Developer
+5.3,4.8,4.3,Digital Transformation Analyst
+6.5,9.6,6.6,Platform Engineer
+4.1,4.1,4.2,Data Governance Analyst
+5.2,5.9,5.0,Supply Chain AI Analyst
+5.7,4.9,5.4,Security Automation Engineer
+9.5,7.8,6.7,NLP Engineer
+5.3,4.1,4.7,Cloud DevOps Engineer
+5.1,6.0,4.9,Software Developer
+5.6,9.4,8.1,Full Stack Developer
+5.2,5.8,4.8,Security Automation Engineer
+5.2,5.3,4.8,AI Cloud Engineer
+4.3,4.2,4.0,Digital Transformation Analyst
+5.7,4.5,4.4,Security Automation Engineer
+5.5,9.1,7.5,Full Stack Developer
+4.3,5.9,5.7,AI UX Designer
+5.7,4.8,5.5,AI Governance Specialist
+4.3,4.0,4.0,AI Governance Specialist
+8.7,7.9,7.5,Data Scientist
+4.0,4.8,5.4,Smart Manufacturing Analyst
+4.9,5.5,4.5,AI Solutions Consultant
+5.6,5.2,4.4,Digital Marketing Analyst (AI)
+4.5,5.3,5.7,EdTech Product Analyst
+4.8,4.5,5.7,Robotics Software Engineer
+5.3,4.9,5.0,Technical Program Manager
+4.4,5.3,4.7,Cloud DevOps Engineer
+5.5,9.5,6.0,Backend Developer
+6.6,7.3,9.6,Business Intelligence Analyst
+8.9,9.4,6.7,Machine Learning Engineer
+5.5,7.9,6.4,Penetration Tester
+4.5,5.8,4.7,Healthcare AI Analyst
+5.9,5.1,5.3,AI Research Analyst
+5.1,4.3,4.8,EdTech Product Analyst
+4.2,5.2,4.9,SOC Engineer
+5.6,4.4,4.3,FinTech Software Engineer
+8.8,9.4,7.4,NLP Engineer
+4.8,5.0,4.2,AI Quality Assurance Engineer
+6.0,9.8,7.1,Full Stack Developer
+9.2,7.7,6.9,Computer Vision Engineer
+4.3,5.3,4.5,AI Business Analyst
+5.4,5.6,5.3,Mobile App Developer
+5.2,5.8,4.2,Software Developer
+4.7,4.5,6.0,FinTech Software Engineer
+4.8,5.5,5.4,Data Governance Analyst
+4.4,4.5,4.6,Mobile App Developer
+4.8,4.5,4.0,AI Cloud Engineer
+5.8,5.9,4.7,Data Governance Analyst
+4.7,4.0,5.4,Smart Manufacturing Analyst
+5.7,4.3,4.3,AI Research Analyst
+6.1,8.7,5.6,Penetration Tester
+6.7,6.1,8.7,Business Intelligence Analyst
+6.0,9.6,6.8,Platform Engineer
+5.9,4.8,5.5,AI Cloud Engineer
+5.0,5.8,5.8,IoT Engineer
+4.2,5.9,5.7,Data Engineer
+6.1,8.4,7.6,Platform Engineer
+5.7,4.6,5.9,AI Operations Manager
+8.1,7.8,7.1,NLP Engineer
+5.2,5.3,4.0,Healthcare AI Analyst
+5.9,4.1,4.3,AI UX Designer
+4.0,5.1,5.9,ERP Functional Consultant
+9.3,9.1,6.0,NLP Engineer
+5.1,4.9,5.0,FinTech Software Engineer
+8.1,9.4,6.5,Machine Learning Engineer
+5.5,5.0,4.3,AI Research Analyst
+4.8,8.8,6.7,Backend Developer
+5.2,4.3,5.9,Sustainability Data Analyst
+5.0,4.1,5.3,MLOps Engineer
+3.5,9.6,8.1,Frontend Developer
+6.5,9.0,6.9,Platform Engineer
+9.5,7.8,6.1,Computer Vision Engineer
+5.1,4.2,4.8,ERP Functional Consultant
+5.7,5.7,4.2,AI Quality Assurance Engineer
+4.2,4.5,5.7,Cloud Security Engineer
+5.8,6.9,8.2,Business Intelligence Analyst
+5.2,4.7,5.6,Supply Chain AI Analyst
+4.0,9.8,5.5,Backend Developer
+5.4,5.7,4.3,MLOps Engineer
+5.7,5.2,4.3,AI UX Designer
+4.9,4.3,5.4,Sustainability Data Analyst
+5.5,4.2,5.0,AR/VR Developer
+5.6,5.9,5.0,Site Reliability Engineer
+5.9,5.1,4.8,Digital Marketing Analyst (AI)
+5.7,5.0,4.9,Cybersecurity Analyst
+5.0,5.7,5.7,AI Research Analyst
+6.3,6.2,9.0,Business Intelligence Analyst
+5.6,8.0,7.1,Penetration Tester
+5.0,4.7,4.2,Site Reliability Engineer
+8.5,9.9,6.1,Machine Learning Engineer
+4.3,4.9,4.6,Security Automation Engineer
+4.1,4.6,5.1,Site Reliability Engineer
+5.1,4.7,4.9,AI UX Designer
+5.9,4.8,4.5,Site Reliability Engineer
+8.5,8.9,7.0,Machine Learning Engineer
+4.4,5.4,4.0,Site Reliability Engineer
+4.8,5.6,4.7,AI Solutions Consultant
+6.6,5.9,9.5,Business Intelligence Analyst
+4.1,5.7,4.4,Security Automation Engineer
+5.7,4.7,5.4,AI Business Analyst
+4.6,5.8,4.3,Mobile App Developer
+4.4,5.0,4.2,AI Research Analyst
+8.4,9.4,7.0,Computer Vision Engineer
+6.3,7.3,9.1,Business Intelligence Analyst
+4.5,5.4,5.3,AI UX Designer
+6.0,4.5,5.3,Smart Manufacturing Analyst
+5.1,8.2,6.0,Game Developer
+6.0,5.6,5.6,Technical Program Manager
+5.0,4.6,4.3,Sustainability Data Analyst
+4.6,4.8,5.5,Data Governance Analyst
+5.1,4.2,4.0,Cloud Security Engineer
+4.2,4.8,5.9,AI Cloud Engineer
+5.3,5.6,4.9,Cloud Security Engineer
+3.7,8.2,8.3,Frontend Developer
+5.6,4.3,5.0,Data Governance Analyst
+4.0,9.3,8.4,Frontend Developer
+5.2,5.1,4.1,AI Governance Specialist
+8.6,5.4,7.6,Prompt Engineer
+5.5,5.4,4.3,Digital Transformation Analyst
+5.7,4.3,4.6,Cybersecurity Analyst
+4.5,4.7,4.5,Cloud Security Engineer
+6.0,8.8,8.0,Game Developer
+5.6,5.8,8.1,Business Intelligence Analyst
+5.3,8.1,6.7,Blockchain Developer
+5.0,5.1,5.1,Technical Program Manager
+4.3,4.4,4.6,Data Engineer
+9.7,5.4,7.7,Prompt Engineer
+4.9,8.0,8.1,Frontend Developer
+5.6,4.6,4.3,Digital Marketing Analyst (AI)
+4.3,5.4,5.3,MLOps Engineer
+5.6,5.9,5.4,Digital Marketing Analyst (AI)
+7.8,7.5,8.2,Data Scientist
+4.4,4.1,5.4,SOC Engineer
+4.8,5.8,5.3,Smart Manufacturing Analyst
+3.2,9.9,7.0,Frontend Developer
+4.7,4.8,4.1,SOC Engineer
+5.5,8.2,6.8,Platform Engineer
+4.7,5.5,5.6,Data Engineer
+4.3,4.7,4.7,AI UX Designer
+5.8,7.1,9.4,Business Intelligence Analyst
+4.4,4.7,4.2,SOC Engineer
+5.3,4.2,6.0,Cloud DevOps Engineer
+5.6,4.8,5.2,Smart Manufacturing Analyst
+6.3,8.6,5.8,Penetration Tester
+4.8,5.7,5.3,SOC Engineer
+5.3,5.7,5.8,Mobile App Developer
+5.8,4.2,5.1,AI UX Designer
+5.5,5.5,5.2,AI Business Analyst
+4.3,5.6,5.4,AI Research Analyst
+4.2,4.9,4.3,Smart Manufacturing Analyst
+4.7,4.0,4.8,AI Cloud Engineer
+5.1,5.2,5.3,Cybersecurity Analyst
+4.7,8.4,6.7,Frontend Developer
+5.7,4.3,5.9,Cybersecurity Analyst
+5.7,5.0,6.0,SOC Engineer
+4.2,4.6,5.3,Mobile App Developer
+4.7,5.9,4.1,ERP Functional Consultant
+9.1,8.7,6.3,Computer Vision Engineer
+3.5,8.7,8.2,Frontend Developer
+5.9,7.2,9.1,Business Intelligence Analyst
+5.5,5.4,4.4,Software Developer
+5.1,5.7,4.9,AI Governance Specialist
+5.9,4.9,4.3,FinTech Software Engineer
+4.8,5.9,4.6,Smart Manufacturing Analyst
+5.7,5.8,4.7,Cybersecurity Analyst
+4.2,5.4,4.6,Technical Program Manager
+5.6,4.9,5.0,Cloud DevOps Engineer
+5.6,4.8,4.9,AI Quality Assurance Engineer
+4.8,4.7,5.1,Site Reliability Engineer
+5.6,4.7,5.0,EdTech Product Analyst
+5.3,4.5,4.6,AI Quality Assurance Engineer
+9.4,8.4,7.7,Data Scientist
+9.3,7.6,6.2,Computer Vision Engineer
+5.0,5.1,4.7,Healthcare AI Analyst
+4.2,4.4,5.9,AR/VR Developer
+6.3,6.4,8.1,Business Intelligence Analyst
+8.6,6.4,8.6,Prompt Engineer
+5.0,4.5,5.5,Sustainability Data Analyst
+4.3,4.4,4.9,MLOps Engineer
+4.6,4.5,5.3,Data Engineer
+5.3,5.6,4.8,AI Quality Assurance Engineer
+4.1,4.5,6.0,Software Developer
+5.2,5.4,4.0,Robotics Software Engineer
+8.0,5.1,9.6,AI Product Manager
+6.8,9.9,7.1,Game Developer
+4.9,5.9,5.3,Healthcare AI Analyst
+4.1,4.9,4.5,Sustainability Data Analyst
+4.9,4.9,5.2,IoT Engineer
+4.7,4.3,5.0,AI Ethics Researcher
+5.7,5.3,4.7,Sustainability Data Analyst
+5.9,5.8,4.4,Sustainability Data Analyst
+4.1,10.0,8.2,Full Stack Developer
+5.9,5.8,5.2,MLOps Engineer
+5.1,4.1,4.5,Software Developer
+4.9,5.3,5.1,ERP Functional Consultant
+5.5,4.6,5.1,Security Automation Engineer
+4.7,8.3,7.0,Penetration Tester
+5.4,6.0,4.6,Healthcare AI Analyst
+5.0,4.7,4.9,AI UX Designer
+5.7,5.4,5.8,MLOps Engineer
+4.4,5.7,4.1,Cybersecurity Analyst
+6.3,8.2,6.1,Penetration Tester
+5.0,5.9,4.1,Technical Program Manager
+4.7,5.7,4.8,ERP Functional Consultant
+4.4,9.3,7.3,Full Stack Developer
+5.8,5.5,5.0,AI UX Designer
+9.0,5.9,8.6,AI Product Manager
+4.5,4.9,4.3,AI Quality Assurance Engineer
+5.9,5.5,4.5,Smart Manufacturing Analyst
+5.2,5.4,5.9,Supply Chain AI Analyst
+5.8,5.0,5.5,Site Reliability Engineer
+5.1,5.1,4.2,FinTech Software Engineer
+3.8,9.6,5.5,Backend Developer
+5.5,6.9,8.1,Business Intelligence Analyst
+5.2,9.6,8.4,Full Stack Developer
+5.0,4.1,5.1,Digital Marketing Analyst (AI)
+5.7,6.0,4.9,Digital Marketing Analyst (AI)
+4.6,5.8,4.4,Supply Chain AI Analyst
+5.2,4.8,4.1,Healthcare AI Analyst
+4.7,4.5,5.4,AI Cloud Engineer
+5.9,4.5,5.6,Robotics Software Engineer
+4.1,5.1,4.1,AI Ethics Researcher
+5.9,5.5,5.3,Sustainability Data Analyst
+5.6,5.3,5.9,Data Engineer
+8.9,8.8,7.5,Data Scientist
+4.2,5.1,4.3,AI Business Analyst
+5.2,5.0,5.2,Mobile App Developer
+4.0,4.4,5.0,AI Quality Assurance Engineer
+5.9,4.8,4.8,Mobile App Developer
+5.4,5.2,4.6,AI Governance Specialist
+5.3,7.9,7.4,Penetration Tester
+4.3,4.7,4.1,AI Solutions Consultant
+4.4,5.6,4.4,Software Developer
+4.2,4.9,4.0,EdTech Product Analyst
+4.2,5.6,5.5,AI Operations Manager
+6.8,9.7,7.4,Game Developer
+4.1,5.6,5.7,Data Engineer
+5.6,5.0,4.5,Technical Program Manager
+5.7,5.5,6.0,Mobile App Developer
+4.3,4.5,4.4,AI Research Analyst
+5.6,4.4,4.1,Healthcare AI Analyst
+6.0,4.0,5.7,Healthcare AI Analyst
+9.2,6.7,8.6,Prompt Engineer
+9.8,9.4,5.0,Computer Vision Engineer
+8.2,8.5,6.8,Machine Learning Engineer
+5.8,4.9,5.2,ERP Functional Consultant
+4.9,9.6,7.9,Platform Engineer
+4.5,9.5,6.7,Full Stack Developer
+5.1,5.0,4.3,EdTech Product Analyst
+8.9,8.2,7.0,NLP Engineer
+5.2,4.0,5.5,AI Research Analyst
+5.4,4.7,4.1,Software Developer
+5.5,5.9,4.5,AI Governance Specialist
+4.6,4.4,5.2,IoT Engineer
+3.3,8.7,7.9,Frontend Developer
+5.1,4.8,4.8,AI Cloud Engineer
+9.6,5.0,7.7,Prompt Engineer
+5.8,4.2,5.4,Software Developer
+5.8,4.5,4.7,Technical Program Manager
+9.1,9.3,7.9,NLP Engineer
+5.5,4.2,5.3,Data Governance Analyst
+4.8,4.9,4.1,Smart Manufacturing Analyst
+4.4,5.6,4.9,SOC Engineer
+9.1,5.8,9.2,Prompt Engineer
+5.5,4.5,4.2,Data Engineer
+5.0,9.3,6.7,Penetration Tester
+9.6,6.2,8.2,Prompt Engineer
+5.6,5.0,4.2,Robotics Software Engineer
+4.3,5.1,5.9,Cybersecurity Analyst
+4.6,5.7,5.5,Supply Chain AI Analyst
+5.5,8.1,6.2,Game Developer
+5.5,4.4,4.7,Software Developer
+5.0,5.5,4.2,SOC Engineer
+6.3,6.5,9.1,Business Intelligence Analyst
+5.6,4.3,5.6,AI Business Analyst
+8.4,6.1,9.9,AI Product Manager
+4.8,4.3,5.3,Data Governance Analyst
+5.0,5.3,4.7,Cybersecurity Analyst
+5.8,5.2,4.2,AI Solutions Consultant
+4.9,5.5,5.6,AI Operations Manager
+5.0,5.8,4.5,Software Developer
+4.8,5.8,5.8,Technical Program Manager
+5.4,5.7,4.2,Data Governance Analyst
+5.7,8.6,5.4,Blockchain Developer
+4.5,8.8,5.5,Blockchain Developer
+4.6,4.3,4.6,Sustainability Data Analyst
+5.1,4.9,4.7,Cloud Security Engineer
+5.5,5.8,5.5,Digital Transformation Analyst
+4.7,5.5,4.3,AR/VR Developer
+4.3,4.7,5.6,Robotics Software Engineer
+6.0,5.6,8.3,Business Intelligence Analyst
+8.7,6.3,9.0,AI Product Manager
+5.1,5.1,5.3,AI Business Analyst
+4.5,5.7,4.6,Cloud DevOps Engineer
+5.4,4.0,4.7,FinTech Software Engineer
+4.7,5.1,4.1,Data Governance Analyst
+7.1,5.9,9.4,Business Intelligence Analyst
+5.6,5.1,5.5,Digital Marketing Analyst (AI)
+9.3,8.7,7.1,Machine Learning Engineer
+4.6,5.1,5.5,Software Developer
+4.8,4.6,4.9,AI Operations Manager
+5.6,5.9,5.1,Cloud DevOps Engineer
+5.3,5.8,4.2,AI Research Analyst
+7.5,6.4,10.0,AI Product Manager
+5.7,4.8,4.2,IoT Engineer
+7.9,5.5,9.1,AI Product Manager
+5.5,4.2,5.7,Data Engineer
+6.4,6.7,8.2,Business Intelligence Analyst
+4.7,4.2,5.9,AI Solutions Consultant
+5.6,4.9,4.4,AI Operations Manager
+5.9,4.7,4.3,AR/VR Developer
+4.6,10.0,5.0,Backend Developer
+4.5,5.9,4.3,Software Developer
+3.7,9.6,6.7,Backend Developer
+5.0,6.0,5.4,AI Research Analyst
+4.1,6.0,4.8,Data Governance Analyst
+4.6,5.1,4.6,AI Governance Specialist
+4.2,4.0,4.9,AI Quality Assurance Engineer
+4.7,9.1,8.5,Frontend Developer
+4.6,4.6,4.3,AI Cloud Engineer
+4.3,4.6,5.6,Cloud DevOps Engineer
+5.8,6.0,4.5,AI Governance Specialist
+5.8,4.7,4.2,Smart Manufacturing Analyst
+5.7,5.3,4.3,Sustainability Data Analyst
+4.9,4.6,5.5,Digital Marketing Analyst (AI)
+4.9,6.0,4.1,AI Governance Specialist
+8.7,8.5,6.0,Computer Vision Engineer
+4.6,5.5,5.7,AI Research Analyst
+5.9,5.6,5.7,Supply Chain AI Analyst
+5.1,5.7,4.6,Robotics Software Engineer
+4.8,4.6,4.9,AI Research Analyst
+4.6,5.9,4.6,Technical Program Manager
+4.2,5.1,4.1,Data Engineer
+4.2,4.4,4.9,Software Developer
+4.9,5.6,5.5,AI Cloud Engineer
+4.9,4.7,4.6,AI Governance Specialist
+5.5,4.1,4.0,Digital Transformation Analyst
+5.6,5.0,4.3,Digital Transformation Analyst
+4.5,5.9,5.7,SOC Engineer
+5.4,5.0,5.0,Software Developer
+6.0,5.9,4.4,AI Quality Assurance Engineer
+4.6,8.4,6.9,Frontend Developer
+5.4,4.8,5.9,AR/VR Developer
+4.2,5.0,5.8,Cybersecurity Analyst
+5.8,4.3,4.7,Site Reliability Engineer
+5.2,4.3,5.9,Technical Program Manager
+9.3,7.3,6.7,Data Scientist
+3.2,9.8,6.9,Frontend Developer
+4.8,4.9,5.2,Mobile App Developer
+4.1,4.5,5.9,Software Developer
+9.3,8.6,6.5,Data Scientist
+4.7,5.3,4.6,Mobile App Developer
+5.8,5.3,4.1,AI Business Analyst
+5.8,5.9,4.2,AI Quality Assurance Engineer
+5.1,4.6,4.8,Site Reliability Engineer
+4.4,5.2,5.9,AI Quality Assurance Engineer
+9.0,7.7,6.2,Computer Vision Engineer
+4.7,5.7,4.9,Healthcare AI Analyst
+4.4,4.4,5.5,AI Cloud Engineer
+4.5,5.5,4.4,Supply Chain AI Analyst
+4.6,4.9,5.9,ERP Functional Consultant
+6.4,7.9,6.2,Penetration Tester
+4.3,5.0,4.9,Cybersecurity Analyst
+5.8,5.9,4.8,Site Reliability Engineer
+9.0,9.3,6.6,Computer Vision Engineer
+4.0,4.6,4.8,Data Governance Analyst
+4.5,4.4,4.1,Security Automation Engineer
+5.3,4.5,4.1,Healthcare AI Analyst
+4.5,5.6,5.7,AI Operations Manager
+5.0,4.8,6.0,Security Automation Engineer
+4.4,4.4,4.6,Technical Program Manager
+4.3,4.8,5.8,Supply Chain AI Analyst
+5.2,4.8,5.9,AI Business Analyst
+4.1,4.4,5.1,Security Automation Engineer
+5.2,4.1,4.8,Mobile App Developer
+5.3,5.4,5.3,Robotics Software Engineer
+7.6,5.2,9.4,AI Product Manager
+7.8,8.9,7.5,Data Scientist
+5.6,9.5,7.0,Game Developer
+4.6,5.6,5.7,AR/VR Developer
+5.3,4.1,5.1,AI UX Designer
+5.5,4.3,4.5,ERP Functional Consultant
+5.8,4.0,5.5,AI UX Designer
+4.9,4.9,4.0,Mobile App Developer
+5.6,4.7,5.1,SOC Engineer
+5.4,5.4,5.9,Sustainability Data Analyst
+5.1,4.8,5.9,MLOps Engineer
+5.3,4.6,4.3,AI Operations Manager
+5.7,4.7,5.3,Cybersecurity Analyst
+4.9,4.4,5.2,Security Automation Engineer
+4.1,4.8,5.1,Software Developer
+4.9,5.5,5.7,AI Solutions Consultant
+5.5,8.6,6.9,Full Stack Developer
+5.1,5.9,5.7,EdTech Product Analyst
+9.7,8.1,5.9,Computer Vision Engineer
+4.9,4.3,4.1,FinTech Software Engineer
+5.9,4.5,4.5,AI Operations Manager
+4.2,5.9,5.2,FinTech Software Engineer
+5.3,5.8,4.7,AI Operations Manager
+5.2,4.1,4.4,Cloud DevOps Engineer
+5.7,5.5,4.7,FinTech Software Engineer
+4.8,5.1,4.0,Supply Chain AI Analyst
+4.5,4.4,4.5,Robotics Software Engineer
+9.6,8.6,5.9,Machine Learning Engineer
+5.0,9.7,5.5,Blockchain Developer
+4.2,4.7,5.5,AI Solutions Consultant
+9.1,9.6,7.4,Machine Learning Engineer
+6.1,9.2,7.0,Platform Engineer
+4.6,9.5,6.3,Penetration Tester
+4.3,5.3,4.6,Technical Program Manager
+5.2,5.2,4.9,Cloud Security Engineer
+5.7,4.5,4.9,AI Business Analyst
+5.1,5.3,5.6,Mobile App Developer
+4.8,5.3,4.3,Digital Transformation Analyst
+5.9,4.8,5.5,AI Governance Specialist
+4.0,4.4,5.0,Technical Program Manager
+5.8,5.1,5.9,AI Cloud Engineer
+5.0,5.0,4.2,Data Governance Analyst
+5.6,4.5,5.8,Cloud Security Engineer
+6.3,9.9,7.0,Platform Engineer
+5.4,5.6,4.3,Cloud Security Engineer
+5.2,4.1,5.0,FinTech Software Engineer
+4.3,4.4,4.7,Site Reliability Engineer
+5.4,8.7,5.6,Penetration Tester
+5.0,4.4,5.1,Digital Marketing Analyst (AI)
+6.8,6.6,9.5,Business Intelligence Analyst
+4.7,5.5,4.9,AI Governance Specialist
+5.0,5.3,4.0,AI UX Designer
+5.3,5.2,4.6,Technical Program Manager
+4.2,4.2,5.8,AR/VR Developer
+5.4,4.3,4.7,EdTech Product Analyst
+9.2,9.2,5.1,Computer Vision Engineer
+5.0,9.3,5.5,Penetration Tester
+4.4,5.9,5.2,Sustainability Data Analyst
+9.0,5.1,7.6,Prompt Engineer
+4.5,5.8,4.8,Cloud DevOps Engineer
+5.4,5.8,4.8,AI Ethics Researcher
+4.4,5.0,5.8,AI Business Analyst
+5.6,4.1,5.4,AR/VR Developer
+6.1,9.8,6.2,Game Developer
+8.6,8.8,7.3,Data Scientist
+9.0,8.1,6.1,Machine Learning Engineer
+5.1,9.4,6.1,Penetration Tester
+4.9,5.3,4.3,AI Business Analyst
+5.0,5.5,5.7,FinTech Software Engineer
+5.3,5.3,4.3,MLOps Engineer
+5.9,4.3,5.5,Cloud Security Engineer
+4.5,5.9,5.4,AI Ethics Researcher
+5.5,4.4,4.9,Site Reliability Engineer
+5.2,5.5,4.2,MLOps Engineer
+9.9,9.3,6.5,NLP Engineer
+6.1,8.5,6.4,Penetration Tester
+5.6,9.2,7.5,Game Developer
+5.3,8.8,6.9,Penetration Tester
+5.4,4.1,5.7,Data Engineer
+6.4,6.0,8.5,Business Intelligence Analyst
+5.0,5.8,4.8,MLOps Engineer
+7.0,5.7,9.0,Business Intelligence Analyst
+6.0,5.5,4.4,AI Cloud Engineer
+5.0,4.5,4.8,Digital Marketing Analyst (AI)
+5.6,5.5,4.5,Security Automation Engineer
+5.8,5.2,4.8,SOC Engineer
+5.0,5.2,5.1,Technical Program Manager
+5.0,5.0,4.4,AI UX Designer
+5.1,9.6,5.3,Backend Developer
+5.5,5.9,5.9,Security Automation Engineer
+4.7,4.3,5.0,EdTech Product Analyst
+4.2,5.9,4.4,Supply Chain AI Analyst
+4.5,4.8,4.8,Security Automation Engineer
+5.6,4.9,4.3,AI UX Designer
+4.5,5.0,4.3,Cybersecurity Analyst
+5.2,5.1,5.4,Digital Marketing Analyst (AI)
+6.4,9.8,7.9,Platform Engineer
+3.5,8.3,7.1,Frontend Developer
+6.3,9.4,7.2,Penetration Tester
+4.2,5.9,4.8,Data Governance Analyst
+4.0,4.9,4.1,Site Reliability Engineer
+6.6,6.2,8.9,Business Intelligence Analyst
+5.2,5.7,5.3,Software Developer
+4.9,5.6,5.8,IoT Engineer
+4.2,5.1,4.6,MLOps Engineer
+4.1,5.3,5.7,Data Engineer
+4.3,10.0,8.2,Full Stack Developer
+5.8,4.5,5.8,Sustainability Data Analyst
+5.1,9.1,6.1,Platform Engineer
+8.1,8.9,6.9,NLP Engineer
+9.0,5.4,8.8,Prompt Engineer
+4.5,9.6,6.2,Platform Engineer
+4.4,4.8,5.0,AI Operations Manager
+4.7,4.6,5.9,EdTech Product Analyst
+5.3,4.0,4.9,Sustainability Data Analyst
+5.8,4.6,4.2,Cybersecurity Analyst
+8.5,6.2,9.6,AI Product Manager
+4.1,4.3,5.2,IoT Engineer
+4.4,5.0,5.1,Technical Program Manager
+5.1,9.4,7.2,Penetration Tester
+5.4,4.2,4.2,Sustainability Data Analyst
+5.0,4.3,6.0,Digital Transformation Analyst
+4.3,5.0,4.7,MLOps Engineer
+5.3,8.3,5.9,Blockchain Developer
+4.5,10.0,6.6,Full Stack Developer
+4.8,9.7,7.1,Frontend Developer
+5.6,4.1,5.9,Sustainability Data Analyst
+5.1,4.6,4.7,SOC Engineer
+4.1,10.0,6.6,Full Stack Developer
+5.3,4.9,5.9,Healthcare AI Analyst
+4.5,5.1,5.0,Software Developer
+5.4,4.1,4.4,Healthcare AI Analyst
+4.4,5.5,4.4,IoT Engineer
+5.1,4.4,5.7,Cloud DevOps Engineer
+9.9,8.5,6.7,NLP Engineer
+4.5,4.1,4.5,Data Engineer
+5.3,5.1,5.9,Healthcare AI Analyst
+4.8,5.4,5.0,Mobile App Developer
+4.5,9.0,5.9,Backend Developer
+4.9,5.4,5.9,Cloud Security Engineer
+4.7,4.1,5.0,AI Business Analyst
+5.1,4.3,5.5,ERP Functional Consultant
+6.0,5.9,4.4,EdTech Product Analyst
+5.8,5.4,4.9,SOC Engineer
+5.1,5.7,5.0,AI Quality Assurance Engineer
+4.7,5.0,5.2,Sustainability Data Analyst
+3.9,10.0,6.3,Backend Developer
+5.3,4.2,5.2,ERP Functional Consultant
+4.2,4.2,5.1,Mobile App Developer
+4.8,5.2,4.2,Supply Chain AI Analyst
+4.9,4.3,6.0,EdTech Product Analyst
+8.6,8.4,7.2,Data Scientist
+4.2,6.0,4.6,AI Ethics Researcher
+4.8,5.3,4.0,AI UX Designer
+5.6,5.1,4.6,Smart Manufacturing Analyst
+4.1,4.3,5.8,Mobile App Developer
+5.4,4.5,4.1,AI Ethics Researcher
+5.4,5.1,4.8,AR/VR Developer
+4.7,4.4,5.3,AI Solutions Consultant
+5.9,4.4,5.2,Digital Transformation Analyst
+4.8,4.9,4.5,Software Developer
+5.7,5.0,5.1,Data Governance Analyst
+4.6,4.4,4.2,SOC Engineer
+5.4,4.4,5.4,IoT Engineer
+8.8,8.3,6.9,NLP Engineer
+5.7,8.2,6.6,Game Developer
+5.3,5.3,4.6,AI Governance Specialist
+4.9,4.4,4.4,Healthcare AI Analyst
+4.5,9.8,6.4,Platform Engineer
+4.5,4.6,4.3,SOC Engineer
+5.3,4.2,4.3,Digital Marketing Analyst (AI)
+5.8,8.2,6.9,Penetration Tester
+9.1,8.5,6.8,Machine Learning Engineer
+7.2,6.1,9.4,AI Product Manager
+4.5,5.2,5.7,Sustainability Data Analyst
+6.0,5.2,4.8,Smart Manufacturing Analyst
+4.5,4.5,5.0,Supply Chain AI Analyst
+5.2,9.3,6.2,Penetration Tester
+4.7,4.8,5.7,AI Research Analyst
+5.3,5.2,4.7,AI Ethics Researcher
+5.6,4.1,5.7,AI Governance Specialist
+5.0,4.8,5.0,ERP Functional Consultant
+5.3,8.0,6.7,Blockchain Developer
+4.9,4.7,4.3,AI UX Designer
+4.9,5.0,4.8,Data Governance Analyst
+9.4,8.3,6.9,Computer Vision Engineer
+5.2,5.6,4.2,Site Reliability Engineer
+4.8,4.7,5.1,Cloud Security Engineer
+5.7,4.2,4.1,Cloud DevOps Engineer
+5.7,4.4,5.3,Cybersecurity Analyst
+5.1,5.7,4.3,Site Reliability Engineer
+4.3,5.1,5.9,Technical Program Manager
+8.8,8.2,6.2,Computer Vision Engineer
+5.9,9.7,7.0,Blockchain Developer
+4.0,4.2,5.2,AI Research Analyst
+9.6,8.1,6.5,NLP Engineer
+5.6,4.1,4.7,AI Cloud Engineer
+5.0,5.1,5.5,Digital Marketing Analyst (AI)
+4.7,5.2,5.2,Cloud DevOps Engineer
+5.1,5.3,4.5,Sustainability Data Analyst
+4.2,4.2,4.4,AI UX Designer
+5.0,5.7,5.4,AI Cloud Engineer
+5.6,4.7,4.8,AI Operations Manager
+4.8,4.4,4.1,Site Reliability Engineer
+5.2,6.0,4.3,AI UX Designer
+4.1,5.6,4.5,EdTech Product Analyst
+5.7,5.4,5.9,Software Developer
+4.8,5.3,4.9,Supply Chain AI Analyst
+6.3,8.9,6.4,Game Developer
+5.0,5.1,5.6,AI Quality Assurance Engineer
+5.5,5.3,4.2,FinTech Software Engineer
+8.9,8.0,8.3,Data Scientist
+5.8,4.1,5.6,IoT Engineer
+4.1,4.7,5.1,Cybersecurity Analyst
+7.3,6.5,8.5,AI Product Manager
+4.3,5.2,5.4,AI Business Analyst
+5.8,5.4,5.3,ERP Functional Consultant
+5.3,8.0,6.2,Platform Engineer
+5.1,5.4,4.8,AI Solutions Consultant
+5.5,5.0,4.1,Sustainability Data Analyst
+4.4,5.7,5.4,AI Operations Manager
+9.8,7.7,7.0,Computer Vision Engineer
+4.4,4.0,6.0,AI Cloud Engineer
+3.6,9.3,6.9,Frontend Developer
+5.2,5.8,4.6,Digital Transformation Analyst
+5.3,4.4,5.2,Cloud Security Engineer
+4.7,4.4,4.6,Software Developer
+4.4,5.8,4.8,SOC Engineer
+4.5,4.9,4.6,Digital Marketing Analyst (AI)
+5.5,5.9,4.9,IoT Engineer
+5.7,5.1,4.3,AI Governance Specialist
+5.4,5.0,5.3,Supply Chain AI Analyst
+5.8,4.9,5.8,Sustainability Data Analyst
+6.0,9.0,7.2,Platform Engineer
+4.7,6.0,5.3,AI Cloud Engineer
+4.1,4.7,5.2,Mobile App Developer
+8.1,7.5,6.9,NLP Engineer
+4.7,9.4,7.0,Full Stack Developer
+4.3,5.4,5.0,Smart Manufacturing Analyst
+4.4,4.6,5.2,AI UX Designer
+4.1,4.3,4.1,Mobile App Developer
+5.6,5.5,5.5,AI Operations Manager
+5.4,5.3,5.0,AI Operations Manager
+5.8,8.1,7.2,Platform Engineer
+5.6,5.0,4.7,AI Quality Assurance Engineer
+4.6,5.3,5.4,SOC Engineer
+5.7,4.7,5.5,AI Ethics Researcher
+5.1,5.8,5.1,Site Reliability Engineer
+5.0,5.2,5.5,FinTech Software Engineer
+8.9,5.1,8.6,AI Product Manager
+5.9,5.1,5.2,Digital Marketing Analyst (AI)
+9.0,7.7,6.5,Computer Vision Engineer
+5.5,4.6,4.6,Data Governance Analyst
+5.7,4.1,5.8,Digital Marketing Analyst (AI)
+4.5,5.2,5.9,Supply Chain AI Analyst
+5.4,4.8,5.4,AI Solutions Consultant
+4.7,9.1,8.5,Full Stack Developer
+5.5,5.3,4.7,Cloud Security Engineer
+3.6,8.6,6.1,Backend Developer
+5.5,5.1,5.7,Sustainability Data Analyst
+4.1,9.2,7.0,Full Stack Developer
+4.9,4.1,5.9,AI Governance Specialist
+4.4,5.8,4.9,Cloud DevOps Engineer
+6.0,5.1,5.9,Cybersecurity Analyst
+4.0,5.5,5.8,ERP Functional Consultant
+4.3,4.2,4.8,Digital Marketing Analyst (AI)
+5.9,5.1,5.1,Healthcare AI Analyst
+4.3,4.0,5.6,AI Operations Manager
+4.2,5.3,5.8,AR/VR Developer
+4.4,5.3,4.2,Cloud Security Engineer
+5.2,4.3,5.5,AR/VR Developer
+8.1,7.9,7.7,Data Scientist
+4.3,5.5,4.6,Smart Manufacturing Analyst
+5.3,4.3,5.4,AI Business Analyst
+4.3,4.9,4.5,Digital Marketing Analyst (AI)
+4.5,8.5,8.3,Frontend Developer
+4.8,8.4,7.7,Frontend Developer
+3.7,9.3,6.4,Backend Developer
+5.3,5.2,4.6,AI Cloud Engineer
+4.8,4.2,5.4,MLOps Engineer
+9.5,6.4,8.0,Prompt Engineer
+3.6,8.7,6.6,Frontend Developer
+5.2,9.6,7.8,Platform Engineer
+5.0,4.9,4.1,ERP Functional Consultant
+5.8,4.0,5.9,Digital Marketing Analyst (AI)
+5.0,4.7,5.8,Digital Transformation Analyst
+4.0,9.2,6.1,Blockchain Developer
+5.9,6.4,9.3,Business Intelligence Analyst
+5.5,4.0,5.9,AI Operations Manager
+4.3,4.5,4.5,AI Research Analyst
+3.1,8.2,8.5,Frontend Developer
+4.6,4.2,4.2,Cloud DevOps Engineer
+5.4,5.7,4.5,AI Ethics Researcher
+4.0,4.4,4.1,Healthcare AI Analyst
+4.2,4.9,4.5,Cloud Security Engineer
+5.0,4.5,5.9,Smart Manufacturing Analyst
+5.8,5.1,4.7,AI Quality Assurance Engineer
+4.8,4.8,5.5,Healthcare AI Analyst
+4.9,5.7,5.9,AI Quality Assurance Engineer
+4.7,5.1,4.2,Data Engineer
+4.4,4.8,4.4,AI Cloud Engineer
+5.8,4.3,4.9,AI Research Analyst
+5.2,9.9,7.3,Full Stack Developer
+5.7,5.1,4.9,Cloud Security Engineer
+4.1,4.9,5.6,EdTech Product Analyst
+9.2,9.2,7.0,NLP Engineer
+4.2,4.0,4.6,SOC Engineer
+4.4,9.6,7.1,Frontend Developer
+5.0,4.8,4.8,Data Engineer
+9.0,5.3,7.9,Prompt Engineer
+8.1,7.9,6.0,NLP Engineer
+5.3,4.6,5.9,Sustainability Data Analyst
+4.4,4.7,4.7,Healthcare AI Analyst
+4.0,5.7,4.1,IoT Engineer
+5.9,5.8,5.1,AI Solutions Consultant
+5.1,5.3,4.8,AI Solutions Consultant
+5.3,4.1,4.1,EdTech Product Analyst
+4.9,5.1,5.8,Data Engineer
+5.7,7.1,8.4,Business Intelligence Analyst
+4.8,4.6,4.8,Robotics Software Engineer
+8.8,6.0,9.1,Prompt Engineer
+4.4,9.5,6.7,Backend Developer
+5.4,5.0,4.5,Mobile App Developer
+5.8,5.2,4.4,AI Cloud Engineer
+4.5,5.6,4.1,IoT Engineer
+6.0,4.3,5.6,AI Governance Specialist
+4.8,5.0,5.8,AI Governance Specialist
+4.8,5.1,4.1,Cybersecurity Analyst
+4.0,4.5,5.4,FinTech Software Engineer
+4.2,4.2,4.8,Supply Chain AI Analyst
+5.3,5.4,4.4,MLOps Engineer
+4.2,5.9,4.5,Cloud Security Engineer
+6.2,9.7,7.5,Platform Engineer
+4.3,5.6,5.5,AI Ethics Researcher
+5.2,4.7,4.5,Cloud DevOps Engineer
+4.2,5.0,5.2,AR/VR Developer
+8.7,8.5,6.7,NLP Engineer
+5.3,5.8,4.3,Healthcare AI Analyst
+4.8,4.3,5.2,AI Cloud Engineer
+5.5,5.9,4.6,EdTech Product Analyst
+5.9,4.1,5.2,AI Ethics Researcher
+4.1,5.8,5.1,Cloud DevOps Engineer
+8.8,8.7,6.8,Data Scientist
+4.1,5.8,4.6,AI UX Designer
+4.3,4.9,5.2,AI Cloud Engineer
+4.1,4.5,4.1,Software Developer
+5.8,9.8,8.0,Game Developer
+5.3,4.3,5.8,EdTech Product Analyst
+8.5,7.3,8.3,Data Scientist
+10.0,6.5,8.9,Prompt Engineer
+8.9,5.4,8.9,Prompt Engineer
+4.4,4.9,5.6,Cloud Security Engineer
+5.6,4.9,5.6,Cybersecurity Analyst
+5.7,5.3,4.5,Mobile App Developer
+8.0,7.6,6.7,Data Scientist
+4.5,4.4,4.9,Mobile App Developer
+5.8,4.2,5.4,AI Solutions Consultant
+5.4,4.2,5.8,Digital Marketing Analyst (AI)
+5.1,4.7,5.5,AI Ethics Researcher
+4.5,5.4,4.1,AI Research Analyst
+6.7,8.9,7.3,Game Developer
+4.4,5.4,5.5,Cloud DevOps Engineer
+6.4,6.7,8.9,Business Intelligence Analyst
+5.8,5.0,5.7,IoT Engineer
+5.6,4.8,4.5,Healthcare AI Analyst
+4.8,5.7,4.5,Cloud Security Engineer
+5.0,5.6,4.7,AI Business Analyst
+5.3,4.5,4.2,Mobile App Developer
+5.6,4.2,4.5,Data Engineer
+5.7,4.7,5.9,FinTech Software Engineer
+6.0,4.5,4.1,Data Engineer
+4.9,9.4,5.2,Backend Developer
+5.4,4.1,5.7,IoT Engineer
+4.3,4.3,4.4,MLOps Engineer
+7.4,6.9,9.6,Business Intelligence Analyst
+4.8,4.7,4.5,Data Engineer
+5.0,5.1,5.3,Robotics Software Engineer
+4.5,5.9,4.3,EdTech Product Analyst
+4.9,8.0,7.5,Frontend Developer
+8.7,8.9,6.6,Machine Learning Engineer
+4.4,9.3,6.5,Backend Developer
+9.9,6.7,8.0,Prompt Engineer
+5.2,5.2,4.7,SOC Engineer
+5.0,4.6,4.3,AI Solutions Consultant
+4.4,4.2,5.4,Mobile App Developer
+4.8,10.0,6.5,Backend Developer
+4.1,5.8,5.7,Technical Program Manager
+4.9,5.2,6.0,AI UX Designer
+6.6,7.3,8.2,Business Intelligence Analyst
+7.4,5.9,9.7,AI Product Manager
+5.6,6.0,4.8,Mobile App Developer
+8.1,9.6,6.7,Machine Learning Engineer
+4.4,5.0,5.5,ERP Functional Consultant
+5.5,5.0,4.6,AI Governance Specialist
+9.9,8.8,5.8,Computer Vision Engineer
+4.6,5.5,4.5,Mobile App Developer
+4.3,5.1,4.6,IoT Engineer
+5.3,4.2,5.3,AI Operations Manager
+4.6,4.0,4.3,MLOps Engineer
+5.9,9.7,5.5,Blockchain Developer
+5.6,5.2,5.9,Healthcare AI Analyst
+4.7,5.4,4.1,Healthcare AI Analyst
+4.8,5.9,5.1,AI Solutions Consultant
+4.6,4.2,5.4,EdTech Product Analyst
+9.3,8.7,7.4,Machine Learning Engineer
+4.0,4.6,5.8,AI Quality Assurance Engineer
+4.6,4.5,5.1,IoT Engineer
+10.0,5.2,9.4,Prompt Engineer
+5.6,4.4,5.4,Data Governance Analyst
+4.8,4.8,5.6,AI UX Designer
+5.9,4.3,4.8,SOC Engineer
+5.5,8.3,6.2,Penetration Tester
+4.1,5.4,4.9,Supply Chain AI Analyst
+5.9,7.1,9.6,Business Intelligence Analyst
+5.0,4.6,5.3,AI Quality Assurance Engineer
+4.6,4.5,5.5,Sustainability Data Analyst
+4.1,4.2,4.0,AI Research Analyst
+3.3,8.1,8.5,Frontend Developer
+9.1,5.3,8.0,Prompt Engineer
+5.9,5.0,4.7,AI UX Designer
+9.7,8.8,6.2,Machine Learning Engineer
+4.4,4.8,4.6,Mobile App Developer
+5.4,4.6,5.2,AR/VR Developer
+4.1,4.4,4.8,Sustainability Data Analyst
+9.4,7.8,7.8,Data Scientist
+4.5,4.3,4.1,Healthcare AI Analyst
+6.1,5.8,8.3,Business Intelligence Analyst
+5.5,4.0,5.1,AR/VR Developer
+4.8,5.0,5.1,Sustainability Data Analyst
+3.6,8.6,8.0,Frontend Developer
+5.7,4.4,4.2,Cloud DevOps Engineer
+5.8,4.7,5.1,EdTech Product Analyst
+4.7,4.3,5.2,Robotics Software Engineer
+5.1,4.4,4.9,Technical Program Manager
+5.6,5.2,4.2,Mobile App Developer
+8.1,6.4,10.0,AI Product Manager
+5.3,4.3,5.4,AI Operations Manager
+5.4,4.0,4.8,FinTech Software Engineer
+5.7,9.3,6.4,Game Developer
+4.2,9.8,8.1,Frontend Developer
+9.8,9.5,6.0,NLP Engineer
+5.2,4.8,5.7,Security Automation Engineer
+8.5,10.0,6.7,Machine Learning Engineer
+5.6,4.2,4.4,AI UX Designer
+9.5,7.5,6.6,Computer Vision Engineer
+4.0,5.3,4.7,Cloud DevOps Engineer
+5.2,5.4,4.7,Cloud Security Engineer
+4.2,4.1,5.2,AI Operations Manager
+9.0,9.0,7.0,NLP Engineer
+5.8,8.8,6.1,Game Developer
+3.7,10.0,8.2,Frontend Developer
+4.7,5.2,5.7,AI Solutions Consultant
+4.9,4.0,4.1,AI Cloud Engineer
+5.0,5.9,5.4,Site Reliability Engineer
+4.1,4.4,5.5,Sustainability Data Analyst
+9.7,8.7,7.3,NLP Engineer
+3.6,10.0,6.6,Backend Developer
+4.5,5.4,4.4,AR/VR Developer
+5.6,5.9,8.4,Business Intelligence Analyst
+4.7,4.8,5.0,Supply Chain AI Analyst
+6.0,8.5,6.1,Game Developer
+5.2,4.8,4.6,Healthcare AI Analyst
+5.7,5.5,5.7,AI Business Analyst
+5.0,4.3,5.4,Software Developer
+4.4,4.9,4.1,Robotics Software Engineer
+5.7,4.3,5.8,Cybersecurity Analyst
+5.2,9.4,6.5,Backend Developer
+5.2,5.6,4.9,Data Governance Analyst
+8.6,5.9,10.0,AI Product Manager
+5.5,8.9,7.6,Platform Engineer
+9.6,8.6,5.4,Computer Vision Engineer
+4.9,5.9,5.5,Cybersecurity Analyst
+5.6,4.1,4.9,AI Research Analyst
+8.3,6.7,8.6,AI Product Manager
+5.7,5.1,4.4,AI Cloud Engineer
+4.6,4.6,5.1,Sustainability Data Analyst
+4.1,4.3,5.6,EdTech Product Analyst
+8.3,8.5,6.4,Machine Learning Engineer
+5.0,5.5,4.9,AI Cloud Engineer
+5.6,5.2,4.2,Data Governance Analyst
+4.3,4.9,4.8,AI Quality Assurance Engineer
+5.5,5.2,4.8,AI Quality Assurance Engineer
+4.3,4.5,5.2,AI Cloud Engineer
+4.8,9.0,5.3,Blockchain Developer
+5.3,5.7,4.5,Software Developer
+5.0,6.0,4.7,Digital Transformation Analyst
+5.2,4.2,5.2,Data Governance Analyst
+4.2,5.9,5.4,Cloud DevOps Engineer
+5.6,5.4,5.2,Digital Transformation Analyst
+4.9,5.7,5.9,Cloud DevOps Engineer
+5.0,5.9,5.2,Healthcare AI Analyst
+5.1,4.9,4.4,SOC Engineer
+8.0,8.0,7.0,NLP Engineer
+4.8,4.9,6.0,Smart Manufacturing Analyst
+4.7,4.9,4.3,AI Cloud Engineer
+7.1,6.6,9.6,AI Product Manager
+5.5,4.3,5.1,AI Operations Manager
+4.5,9.0,6.5,Full Stack Developer
+4.3,4.6,4.2,Data Governance Analyst
+6.0,4.6,4.3,AI Operations Manager
+4.4,9.7,6.6,Full Stack Developer
+5.7,5.9,4.5,EdTech Product Analyst
+4.9,4.0,5.3,AI Quality Assurance Engineer
+4.8,9.0,6.9,Full Stack Developer
+5.3,4.8,4.4,SOC Engineer
+5.4,5.1,5.7,AI Governance Specialist
+4.2,5.6,5.3,Digital Transformation Analyst
+3.2,9.4,7.4,Frontend Developer
+5.9,4.3,5.3,AI Governance Specialist
+3.8,9.9,7.2,Frontend Developer
+5.9,5.8,4.5,AI Governance Specialist
+5.6,6.0,4.5,ERP Functional Consultant
+4.9,5.0,4.6,Software Developer
+4.0,4.4,4.6,Mobile App Developer
+4.9,4.3,5.7,Sustainability Data Analyst
+8.4,5.2,9.8,AI Product Manager
+5.3,5.9,4.0,IoT Engineer
+4.5,5.9,5.9,EdTech Product Analyst
+6.9,7.0,8.2,Business Intelligence Analyst
+5.0,4.5,4.4,Digital Transformation Analyst
+5.6,4.3,4.9,Cloud Security Engineer
+5.9,4.4,6.0,Data Governance Analyst
+6.0,5.1,4.3,Sustainability Data Analyst
+4.6,4.8,4.6,Digital Transformation Analyst
+4.6,5.9,4.3,IoT Engineer
+5.5,4.0,5.2,Digital Transformation Analyst
+5.8,4.6,4.4,Cloud DevOps Engineer
+5.3,5.4,5.4,Robotics Software Engineer
+8.1,7.5,8.4,Data Scientist
+5.8,4.9,5.7,Robotics Software Engineer
+4.9,4.8,4.3,AI Ethics Researcher
+4.9,5.1,4.0,AI Ethics Researcher
+8.9,9.1,6.4,Computer Vision Engineer
+5.3,10.0,6.5,Full Stack Developer
+5.1,5.6,5.1,Cybersecurity Analyst
+4.6,4.3,5.8,AI Solutions Consultant
+4.9,5.8,5.2,Robotics Software Engineer
+5.8,9.6,7.3,Platform Engineer
+4.8,5.0,5.6,Cybersecurity Analyst
+4.7,4.8,4.2,SOC Engineer
+9.8,8.2,6.8,Machine Learning Engineer
+4.8,4.8,5.4,Security Automation Engineer
+8.6,6.2,9.0,Prompt Engineer
+5.7,4.3,5.8,Digital Transformation Analyst
+8.8,8.8,7.5,Data Scientist
+9.1,9.8,7.3,Machine Learning Engineer
+4.9,4.5,4.8,AI Solutions Consultant
+4.8,4.6,4.5,AI Quality Assurance Engineer
+5.7,4.1,5.4,Healthcare AI Analyst
+4.3,4.7,4.1,AI Solutions Consultant
+7.5,6.5,10.0,AI Product Manager
+4.4,4.9,4.9,AI Governance Specialist
+5.7,5.5,5.0,Data Governance Analyst
+5.3,5.7,4.0,SOC Engineer
+5.3,9.8,7.5,Platform Engineer
+5.1,5.1,4.7,AI Operations Manager
+5.0,5.3,4.8,AI UX Designer
+5.4,5.7,4.3,Robotics Software Engineer
+4.9,4.8,5.4,Data Engineer
+7.5,6.3,10.0,AI Product Manager
+4.8,9.8,7.0,Blockchain Developer
+4.2,8.5,6.9,Blockchain Developer
+5.9,4.2,4.0,AI Quality Assurance Engineer
+4.3,6.0,4.4,AI Business Analyst
+5.0,9.7,5.0,Blockchain Developer
+5.2,4.6,5.7,Mobile App Developer
+4.6,5.4,5.3,Sustainability Data Analyst
+4.9,7.6,6.3,Penetration Tester
+4.6,5.6,5.6,Site Reliability Engineer
+4.9,5.2,5.2,EdTech Product Analyst
+9.7,8.4,5.6,Computer Vision Engineer
+3.5,9.1,7.4,Frontend Developer
+8.9,8.2,6.9,Machine Learning Engineer
+4.4,4.4,4.8,Sustainability Data Analyst
+5.0,9.2,6.7,Platform Engineer
+4.9,5.1,4.4,Data Governance Analyst
+3.8,10.0,5.9,Backend Developer
+4.8,4.1,5.0,Digital Transformation Analyst
+4.1,9.1,7.9,Frontend Developer
+4.4,4.5,5.6,AI Governance Specialist
+9.9,7.8,6.0,Computer Vision Engineer
+4.4,4.1,4.7,Cloud Security Engineer
+4.3,5.4,5.1,AI UX Designer
+8.3,7.5,7.6,NLP Engineer
+4.4,5.2,4.7,Software Developer
+5.2,4.6,4.2,Site Reliability Engineer
+4.4,4.4,4.9,Mobile App Developer
+5.3,4.5,4.0,IoT Engineer
+5.0,5.2,5.9,Security Automation Engineer
+5.2,4.9,5.1,AI Solutions Consultant
+5.9,5.7,4.6,Smart Manufacturing Analyst
+9.0,5.5,8.5,Prompt Engineer
+5.5,5.0,4.1,Sustainability Data Analyst
+5.4,5.6,4.6,AI Cloud Engineer
+5.3,4.9,5.8,Healthcare AI Analyst
+5.7,5.1,5.4,AI Business Analyst
+5.8,5.0,4.6,AI Operations Manager
+9.5,8.4,6.3,Machine Learning Engineer
+5.7,5.4,4.8,Smart Manufacturing Analyst
+4.4,4.7,4.6,Security Automation Engineer
+3.4,9.5,7.0,Frontend Developer
+3.9,8.8,8.5,Frontend Developer
+4.8,4.2,4.2,Smart Manufacturing Analyst
+5.2,5.2,4.8,FinTech Software Engineer
+7.9,5.1,9.5,AI Product Manager
+9.5,5.3,7.7,Prompt Engineer
+4.7,8.2,7.2,Platform Engineer
+4.4,4.5,4.3,Technical Program Manager
+5.9,5.7,4.5,AI Solutions Consultant
+4.7,8.9,7.5,Full Stack Developer
+4.0,5.3,5.0,EdTech Product Analyst
+5.8,4.3,5.6,Supply Chain AI Analyst
+5.6,4.3,4.8,Sustainability Data Analyst
+4.3,4.5,4.5,Digital Marketing Analyst (AI)
+4.1,8.8,8.4,Frontend Developer
+4.3,5.9,4.5,Data Engineer
+5.5,4.7,4.3,Security Automation Engineer
+5.7,4.6,5.3,Sustainability Data Analyst
+5.1,4.9,5.0,Cloud Security Engineer
+10.0,5.2,8.8,Prompt Engineer
+5.8,4.1,4.3,AI Cloud Engineer
+5.4,4.9,4.8,Digital Marketing Analyst (AI)
+4.8,9.0,6.3,Platform Engineer
+5.0,5.5,4.5,AI Ethics Researcher
+6.0,10.0,7.4,Game Developer
+5.7,4.8,5.5,Cybersecurity Analyst
+4.1,4.2,4.4,AI Business Analyst
+5.8,9.7,6.7,Game Developer
+5.3,5.4,5.2,Software Developer
+4.7,5.2,4.7,Technical Program Manager
+4.2,6.0,4.3,AI Operations Manager
+4.6,9.8,6.6,Platform Engineer
+5.3,4.7,4.8,AI Business Analyst
+8.0,7.7,7.3,Data Scientist
+5.4,5.0,5.9,ERP Functional Consultant
+8.6,6.0,8.7,Prompt Engineer
+5.8,4.1,5.1,Technical Program Manager
+5.7,4.5,5.8,AI Solutions Consultant
+4.0,5.5,5.9,Digital Transformation Analyst
+5.3,4.9,4.1,AI Cloud Engineer
+5.8,4.9,4.1,Technical Program Manager
+5.4,5.0,4.2,Cybersecurity Analyst
+4.4,4.1,5.1,Digital Marketing Analyst (AI)
+9.2,9.0,7.1,Machine Learning Engineer
+9.7,8.7,5.0,Computer Vision Engineer
+5.4,4.8,5.1,Supply Chain AI Analyst
+5.3,4.7,5.8,Data Engineer
+4.3,5.3,4.0,Sustainability Data Analyst
+5.8,4.2,4.2,Data Governance Analyst
+4.7,4.7,4.4,Cybersecurity Analyst
+9.2,8.4,5.1,Computer Vision Engineer
+4.6,5.6,5.4,Digital Transformation Analyst
+5.4,5.4,4.6,AI UX Designer
+4.2,4.5,5.7,Supply Chain AI Analyst
+10.0,8.5,5.0,Computer Vision Engineer
+3.8,9.1,6.2,Backend Developer
+4.2,10.0,7.2,Full Stack Developer
+7.3,7.1,9.5,Business Intelligence Analyst
+5.2,5.3,5.3,Cloud Security Engineer
+5.3,5.1,6.0,AI Operations Manager
+5.5,5.6,5.7,Cloud Security Engineer
+4.4,4.2,5.0,AI Operations Manager
+5.0,5.7,4.9,Smart Manufacturing Analyst
+5.1,5.1,4.1,AI Quality Assurance Engineer
+5.2,5.7,4.3,Healthcare AI Analyst
+5.2,5.2,4.3,Supply Chain AI Analyst
+4.2,6.0,4.8,Data Engineer
+4.5,4.3,5.3,AI Ethics Researcher
+5.2,5.3,4.2,Healthcare AI Analyst
+5.8,4.8,4.6,Security Automation Engineer
+4.9,4.8,5.7,Site Reliability Engineer
+9.4,7.6,8.2,Data Scientist
+9.6,9.4,5.5,Computer Vision Engineer
+6.2,8.5,7.6,Game Developer
+4.0,9.6,7.2,Full Stack Developer
+4.6,5.3,5.7,Sustainability Data Analyst
+9.2,9.2,6.5,NLP Engineer
+5.0,4.9,4.0,Smart Manufacturing Analyst
+5.1,9.8,7.7,Full Stack Developer
+5.5,5.1,4.1,SOC Engineer
+4.2,5.2,4.5,SOC Engineer
+4.2,4.9,5.1,EdTech Product Analyst
+8.7,9.4,6.8,Machine Learning Engineer
+5.2,9.5,7.3,Platform Engineer
+5.3,9.6,6.5,Full Stack Developer
+5.4,4.8,5.9,AI Cloud Engineer
+5.6,9.2,5.5,Blockchain Developer
+4.4,4.7,5.0,Data Governance Analyst
+4.6,5.0,4.3,AI Governance Specialist
+6.0,4.2,5.9,Security Automation Engineer
+5.8,5.1,5.4,Cybersecurity Analyst
+3.9,9.3,7.2,Frontend Developer
+4.6,5.2,5.0,AI Research Analyst
+8.2,5.6,9.2,AI Product Manager
+4.2,4.1,4.5,AI Business Analyst
+7.6,7.2,8.1,Data Scientist
+4.1,5.3,4.5,AI Ethics Researcher
+5.7,5.0,4.6,Healthcare AI Analyst
+5.0,4.8,5.1,EdTech Product Analyst
+4.2,6.0,4.9,AI Research Analyst
+5.7,9.4,6.7,Game Developer
+5.7,4.9,5.4,AI UX Designer
+8.2,9.2,7.5,NLP Engineer
+4.4,4.3,4.6,Cloud DevOps Engineer
+10.0,8.5,6.4,Machine Learning Engineer
+4.1,4.8,5.1,IoT Engineer
+5.9,9.5,8.1,Full Stack Developer
+5.1,4.1,4.6,Robotics Software Engineer
+5.2,5.9,5.7,Digital Transformation Analyst
+4.5,4.4,4.4,IoT Engineer
+9.8,9.2,6.5,Computer Vision Engineer
+4.8,5.0,4.9,MLOps Engineer
+8.5,9.0,5.6,Machine Learning Engineer
+4.3,5.8,5.5,AI Operations Manager
+4.8,5.0,4.7,FinTech Software Engineer
+5.5,5.6,5.5,Sustainability Data Analyst
+5.4,4.4,4.7,Cloud Security Engineer
+4.4,9.2,6.5,Backend Developer
+4.7,8.3,5.8,Blockchain Developer
+6.0,4.5,5.2,Technical Program Manager
+4.9,4.1,5.0,Technical Program Manager
+5.4,5.0,5.7,Smart Manufacturing Analyst
+4.6,8.2,6.9,Blockchain Developer
+4.8,5.2,5.6,EdTech Product Analyst
+4.6,5.4,4.3,AI Research Analyst
+7.6,5.3,10.0,AI Product Manager
+4.9,9.4,7.9,Platform Engineer
+6.6,6.6,8.9,Business Intelligence Analyst
+4.7,5.0,5.2,AI Research Analyst
+6.5,9.9,7.7,Platform Engineer
+5.8,4.9,5.3,SOC Engineer
+5.8,4.8,5.9,Data Engineer
+4.8,5.2,5.4,Cloud Security Engineer
+5.9,4.5,5.5,Digital Marketing Analyst (AI)
+5.0,4.5,5.6,MLOps Engineer
+5.1,5.3,4.6,AI Governance Specialist
+5.5,9.2,6.8,Platform Engineer
+4.4,5.9,5.0,Security Automation Engineer
+5.5,4.8,4.7,AR/VR Developer
+4.8,4.8,5.1,AR/VR Developer
+4.1,9.0,6.8,Frontend Developer
+5.0,4.3,4.3,Software Developer
+5.9,5.2,5.3,AR/VR Developer
+4.8,5.8,5.3,AI Business Analyst
+5.5,4.7,5.9,Digital Transformation Analyst
+10.0,6.7,7.8,Prompt Engineer
+4.5,4.6,4.5,Cloud Security Engineer
+5.7,4.1,4.2,EdTech Product Analyst
+4.5,4.4,4.5,Supply Chain AI Analyst
+5.6,5.1,4.0,Digital Marketing Analyst (AI)
+4.9,4.8,4.2,IoT Engineer
+8.4,6.4,9.9,AI Product Manager
+5.5,4.0,5.9,AI Cloud Engineer
+5.6,10.0,6.5,Full Stack Developer
+5.9,5.6,5.7,IoT Engineer
+4.2,5.5,5.9,MLOps Engineer
+5.4,9.6,8.4,Full Stack Developer
+4.9,5.2,5.0,Smart Manufacturing Analyst
+9.4,7.2,7.5,Data Scientist
+4.4,9.6,7.7,Frontend Developer
+5.8,5.9,4.1,AI Operations Manager
+4.8,4.0,4.7,Robotics Software Engineer
+5.1,5.8,5.7,AI Ethics Researcher
+4.3,4.2,5.2,SOC Engineer
+5.6,8.0,7.3,Penetration Tester
+5.9,4.8,5.8,AI Quality Assurance Engineer
+4.8,5.5,5.0,Robotics Software Engineer
+4.2,5.9,4.9,ERP Functional Consultant
+7.0,6.2,8.0,Business Intelligence Analyst
+3.2,9.0,7.9,Frontend Developer
+4.7,5.4,5.4,Cybersecurity Analyst
+5.4,5.0,5.8,Supply Chain AI Analyst
+5.0,4.9,4.4,MLOps Engineer
+4.6,4.1,5.3,MLOps Engineer
+4.5,4.6,5.5,AR/VR Developer
+6.2,6.0,8.3,Business Intelligence Analyst
+5.5,4.3,4.9,Supply Chain AI Analyst
+5.0,5.4,5.3,Cloud Security Engineer
+7.1,5.6,8.6,Business Intelligence Analyst
+4.6,4.3,4.6,Smart Manufacturing Analyst
+8.1,8.0,7.8,Data Scientist
+4.8,5.4,4.7,Robotics Software Engineer
+4.6,5.1,4.0,Software Developer
+4.2,4.8,5.9,Cloud Security Engineer
+5.4,4.2,5.7,AI Cloud Engineer
+5.5,5.2,5.6,AI Governance Specialist
+8.8,8.4,6.5,Machine Learning Engineer
+5.1,5.1,5.1,Site Reliability Engineer
+5.9,5.8,5.8,Sustainability Data Analyst
+6.6,9.9,6.2,Game Developer
+4.5,5.0,5.7,ERP Functional Consultant
+5.0,5.5,4.3,MLOps Engineer
+5.5,9.5,6.3,Game Developer
+4.7,4.5,4.7,Technical Program Manager
+5.4,4.7,5.1,ERP Functional Consultant
+4.2,5.6,4.7,AR/VR Developer
+5.3,5.5,4.4,Digital Marketing Analyst (AI)
+5.8,5.2,4.9,AI Solutions Consultant
+7.4,6.9,10.0,AI Product Manager
+4.4,4.7,5.6,AI Research Analyst
+5.4,5.5,4.9,AI Quality Assurance Engineer
+5.4,4.8,4.4,AI Quality Assurance Engineer
+5.8,10.0,6.6,Platform Engineer
+5.4,9.3,7.1,Platform Engineer
+5.7,5.5,4.1,AI Solutions Consultant
+10.0,9.0,7.7,NLP Engineer
+5.3,10.0,6.7,Full Stack Developer
+4.7,5.8,4.4,Software Developer
+8.7,6.6,9.2,Prompt Engineer
+4.3,5.7,5.4,SOC Engineer
+5.0,5.7,4.8,Digital Transformation Analyst
+4.4,4.6,5.0,Data Governance Analyst
+9.6,6.6,9.1,Prompt Engineer
+5.2,5.6,4.4,Technical Program Manager
+4.1,5.7,4.2,Cloud Security Engineer
+9.0,6.4,8.3,Prompt Engineer
+5.8,4.6,4.0,Software Developer
+4.6,5.2,4.8,ERP Functional Consultant
+5.1,5.8,5.8,SOC Engineer
+4.5,4.9,5.1,Security Automation Engineer
+5.9,6.0,4.5,AI Quality Assurance Engineer
+6.0,8.3,5.5,Penetration Tester
+8.5,5.9,8.5,Prompt Engineer
+4.0,5.4,4.6,AI Solutions Consultant
+5.1,4.6,4.3,Digital Transformation Analyst
+7.8,5.5,9.6,AI Product Manager
+4.4,5.0,4.3,Cybersecurity Analyst
+5.3,5.5,4.2,MLOps Engineer
+4.9,4.1,5.2,Mobile App Developer
+4.5,5.1,5.0,Technical Program Manager
+5.8,5.1,5.2,Software Developer
+4.8,5.9,5.6,Robotics Software Engineer
+4.6,5.7,4.9,SOC Engineer
+5.7,5.6,4.4,Technical Program Manager
+5.4,4.6,4.6,Cybersecurity Analyst
+4.6,5.5,4.5,Security Automation Engineer
+4.0,5.4,4.3,Supply Chain AI Analyst
+4.2,4.5,4.8,AI Quality Assurance Engineer
+5.0,4.1,5.9,Healthcare AI Analyst
+6.9,6.1,8.6,Business Intelligence Analyst
+4.9,5.3,4.3,Security Automation Engineer
+4.4,5.7,4.5,Data Engineer
+4.8,5.7,5.3,AI Ethics Researcher
+4.7,5.4,4.0,AI Business Analyst
+5.5,5.0,5.6,Digital Transformation Analyst
+9.9,9.9,7.3,Machine Learning Engineer
+5.0,4.7,4.9,MLOps Engineer
+5.4,10.0,6.9,Full Stack Developer
+5.3,10.0,7.0,Backend Developer
+5.3,9.1,5.2,Backend Developer
+4.2,4.6,5.2,AI UX Designer
+5.6,5.8,5.2,AI Operations Manager
+4.0,4.4,4.2,Site Reliability Engineer
+4.7,5.0,4.1,Data Governance Analyst
+4.7,4.4,5.3,Digital Transformation Analyst
+4.9,5.0,4.9,AI Solutions Consultant
+6.9,8.4,7.0,Game Developer
+9.5,8.6,7.9,NLP Engineer
+4.8,8.9,5.2,Blockchain Developer
+4.2,8.6,6.8,Frontend Developer
+4.1,9.1,6.7,Frontend Developer
+5.4,5.2,4.4,SOC Engineer
+4.9,5.4,5.1,AI Operations Manager
+4.8,4.6,5.2,MLOps Engineer
+6.4,9.3,6.1,Platform Engineer
+4.9,5.8,4.2,AI Research Analyst
+6.0,10.0,6.7,Full Stack Developer
+5.9,4.7,5.7,Data Governance Analyst
+4.8,4.9,5.3,Cloud DevOps Engineer
+9.0,7.1,7.7,Data Scientist
+5.4,8.7,6.7,Game Developer
+4.4,9.2,5.2,Backend Developer
+4.3,4.1,4.9,Sustainability Data Analyst
+5.9,4.2,5.9,Sustainability Data Analyst
+5.5,5.3,5.3,Data Governance Analyst
+4.7,8.2,7.5,Frontend Developer
+5.4,5.2,5.7,Software Developer
+4.1,5.4,5.1,FinTech Software Engineer
+4.8,4.7,5.2,Cybersecurity Analyst
+5.8,5.0,5.6,AI Ethics Researcher
+4.8,4.2,4.1,IoT Engineer
+4.1,4.8,4.7,AI Quality Assurance Engineer
+5.4,5.5,4.1,Cloud DevOps Engineer
+4.4,4.5,5.1,AI Solutions Consultant
+8.3,7.8,6.9,Computer Vision Engineer
+5.6,8.4,5.8,Blockchain Developer
+5.2,9.1,6.5,Penetration Tester
+4.3,5.5,4.8,Digital Marketing Analyst (AI)
+4.5,4.8,5.0,Technical Program Manager
+4.7,4.5,4.8,Data Engineer
+4.0,5.5,4.3,AI Operations Manager
+3.1,9.3,8.0,Frontend Developer
+5.6,5.0,4.4,SOC Engineer
+5.5,5.4,4.5,MLOps Engineer
+9.8,7.7,8.0,NLP Engineer
+5.7,5.4,5.9,AR/VR Developer
+5.9,8.4,6.9,Platform Engineer
+4.6,8.8,7.5,Platform Engineer
+4.8,4.7,5.2,FinTech Software Engineer
+5.7,4.1,4.8,Cloud Security Engineer
+4.3,5.4,4.2,Robotics Software Engineer
+5.3,4.6,4.4,ERP Functional Consultant
+5.9,8.5,7.4,Full Stack Developer
+4.0,5.0,5.0,Data Engineer
+4.6,4.3,4.8,AR/VR Developer
+5.3,5.6,5.1,Data Governance Analyst
+5.2,4.4,4.6,Robotics Software Engineer
+4.3,4.5,4.4,Healthcare AI Analyst
+5.0,5.1,5.9,FinTech Software Engineer
+4.4,5.3,5.6,AI Business Analyst
+5.1,4.5,4.5,Robotics Software Engineer
+4.1,4.6,5.5,Digital Transformation Analyst
+4.1,4.4,5.4,AI Quality Assurance Engineer
+5.6,4.9,5.4,AI Cloud Engineer
+4.8,4.3,4.8,Technical Program Manager
+5.2,5.9,4.1,Software Developer
+5.0,4.7,5.0,Cloud Security Engineer
+4.0,4.6,5.6,Cloud DevOps Engineer
+5.1,4.9,4.6,Security Automation Engineer
+4.6,4.8,5.7,AI Business Analyst
+5.9,4.9,4.8,AI UX Designer
+5.7,4.9,5.1,AI Cloud Engineer
+4.5,5.5,5.1,EdTech Product Analyst
+6.6,9.6,6.4,Game Developer
+5.4,5.6,4.7,Robotics Software Engineer
+4.3,4.0,4.9,Data Governance Analyst
+4.7,5.1,4.4,AI Ethics Researcher
+5.7,4.5,4.5,Data Engineer
+6.0,9.0,6.4,Game Developer
+4.5,4.3,5.4,AI Research Analyst
+5.5,4.9,5.4,AI Research Analyst
+5.5,4.3,5.9,Sustainability Data Analyst
+5.6,4.4,4.4,AI Governance Specialist
+8.3,8.3,7.0,Machine Learning Engineer
+4.9,5.6,5.5,FinTech Software Engineer
+6.2,9.4,6.0,Game Developer
+8.6,9.3,5.5,Machine Learning Engineer
+4.1,5.7,5.4,Technical Program Manager
+4.5,5.4,5.6,AI Operations Manager
+4.6,4.1,5.9,ERP Functional Consultant
+4.2,8.7,6.0,Backend Developer
+5.5,4.4,4.5,Data Engineer
+4.5,6.0,4.4,Security Automation Engineer
+5.2,5.9,4.3,Supply Chain AI Analyst
+5.9,9.9,6.8,Blockchain Developer
+4.4,5.3,5.5,Healthcare AI Analyst
+6.0,4.4,5.5,Data Governance Analyst
+4.7,4.4,4.8,AI Ethics Researcher
+5.6,4.9,5.1,AI Cloud Engineer
+6.0,4.8,5.2,Digital Marketing Analyst (AI)
+4.7,4.8,5.4,Cloud DevOps Engineer
+5.9,5.1,5.5,EdTech Product Analyst
+4.2,4.4,5.0,Supply Chain AI Analyst
+5.0,8.5,7.0,Game Developer
+7.5,7.5,7.5,Data Scientist
+5.1,10.0,7.8,Full Stack Developer
+5.3,9.4,7.1,Penetration Tester
+4.4,4.3,5.4,Cloud DevOps Engineer
+5.1,5.6,5.5,Data Engineer
+6.3,10.0,7.1,Game Developer
+4.2,5.7,4.5,AI Governance Specialist
+5.6,5.9,5.4,AI Governance Specialist
+5.2,4.9,4.7,Cloud Security Engineer
+9.2,6.3,9.0,Prompt Engineer
+9.4,7.9,7.0,NLP Engineer
+5.6,5.0,5.1,AI Business Analyst
+5.5,9.8,7.3,Full Stack Developer
+5.8,4.3,6.0,EdTech Product Analyst
+4.7,8.0,7.8,Platform Engineer
+4.5,5.5,5.6,Data Engineer
+5.7,10.0,7.1,Full Stack Developer
+5.4,8.7,7.3,Full Stack Developer
+7.2,6.2,9.2,Business Intelligence Analyst
+5.0,5.3,5.9,Cloud DevOps Engineer
+4.1,5.1,5.7,Digital Marketing Analyst (AI)
+5.0,4.2,5.1,Mobile App Developer
+4.7,4.3,5.7,FinTech Software Engineer
+5.0,5.9,5.6,AI Research Analyst
+5.4,4.0,4.9,AI Research Analyst
+4.4,5.8,4.3,FinTech Software Engineer
+4.6,5.0,4.5,Robotics Software Engineer
+5.9,6.7,8.2,Business Intelligence Analyst
+4.6,8.2,6.9,Penetration Tester
+5.1,4.8,5.1,Data Governance Analyst
+4.7,5.9,4.1,Cybersecurity Analyst
+5.3,5.8,5.6,Cybersecurity Analyst
+4.4,4.6,5.4,Data Engineer
+4.2,5.6,5.4,EdTech Product Analyst
+10.0,5.2,8.9,Prompt Engineer
+9.9,6.7,7.6,Prompt Engineer
+4.0,8.7,5.3,Blockchain Developer
+5.1,5.8,4.8,Supply Chain AI Analyst
+5.7,4.0,4.3,AI Business Analyst
+4.1,4.7,5.8,AR/VR Developer
+4.2,5.2,4.9,EdTech Product Analyst
+5.9,4.2,4.4,AR/VR Developer
+4.1,4.9,4.6,AI Governance Specialist
+5.7,5.2,5.2,Data Governance Analyst
+5.1,4.2,4.9,Robotics Software Engineer
+6.0,5.7,5.8,AI Cloud Engineer
+9.6,8.2,6.0,Machine Learning Engineer
+4.0,4.6,4.2,Healthcare AI Analyst
+4.9,5.4,5.7,FinTech Software Engineer
+9.5,9.4,6.1,NLP Engineer
+4.0,5.3,4.6,Sustainability Data Analyst
+4.5,8.7,5.5,Blockchain Developer
+5.0,4.9,5.0,AI Research Analyst
+5.3,4.8,4.5,Mobile App Developer
+4.3,4.7,5.5,AI Operations Manager
+5.5,5.3,4.5,Cybersecurity Analyst
+5.2,5.1,5.0,Data Engineer
+5.1,5.0,5.1,Data Governance Analyst
+5.9,8.2,7.5,Platform Engineer
+4.3,4.1,6.0,AI Solutions Consultant
+5.9,4.1,4.9,Sustainability Data Analyst
+4.4,5.0,5.7,Digital Marketing Analyst (AI)
+5.9,5.3,4.7,Data Governance Analyst
+4.7,9.1,6.8,Backend Developer
+5.7,5.1,4.6,FinTech Software Engineer
+5.6,8.1,7.6,Game Developer
+4.9,4.7,4.9,Healthcare AI Analyst
+5.6,4.2,5.7,Software Developer
+5.8,9.9,5.8,Blockchain Developer
+8.9,5.7,8.2,Prompt Engineer
+4.4,5.2,5.0,AI Operations Manager
+5.7,4.1,5.3,Security Automation Engineer
+5.5,5.5,5.8,AI Governance Specialist
+10.0,6.9,8.2,Prompt Engineer
+5.0,4.0,4.0,AI Cloud Engineer
+4.5,4.2,4.5,Data Engineer
+7.9,7.1,8.3,Data Scientist
+5.5,7.0,8.3,Business Intelligence Analyst
+5.8,5.8,5.3,Technical Program Manager
+9.3,8.0,7.5,Machine Learning Engineer
+9.8,9.3,6.3,Computer Vision Engineer
+4.7,5.8,4.6,Cloud DevOps Engineer
+5.1,4.2,5.8,Data Engineer
+4.3,4.4,5.1,Data Governance Analyst
+5.5,5.2,4.5,FinTech Software Engineer
+4.0,5.5,6.0,FinTech Software Engineer
+5.6,4.9,5.8,Robotics Software Engineer
+4.8,5.0,5.0,Smart Manufacturing Analyst
+4.9,5.6,5.1,Technical Program Manager
+4.6,4.5,4.1,AI Governance Specialist
+8.7,7.5,6.8,Data Scientist
+5.3,5.4,5.5,Robotics Software Engineer
+5.0,5.8,5.9,AR/VR Developer
+5.6,5.3,4.6,Smart Manufacturing Analyst
+6.0,4.5,4.4,AI Governance Specialist
+4.4,8.6,7.0,Backend Developer
+4.7,9.6,6.3,Backend Developer
+5.0,4.1,5.2,AI Governance Specialist
+5.4,4.8,5.5,Digital Marketing Analyst (AI)
+3.5,8.4,6.8,Frontend Developer
+4.7,5.7,5.7,AI Cloud Engineer
+4.8,5.2,5.4,AI Research Analyst
+4.5,4.3,5.9,AI Business Analyst
+6.7,7.5,8.7,Business Intelligence Analyst
+5.4,4.4,4.5,Security Automation Engineer
+5.0,4.6,4.3,SOC Engineer
+8.5,8.1,6.9,Machine Learning Engineer
+5.0,4.2,4.3,Supply Chain AI Analyst
+4.2,5.2,4.2,AI Cloud Engineer
+6.5,8.0,6.5,Game Developer
+5.8,5.4,4.1,Software Developer
+4.6,9.0,8.2,Frontend Developer
+5.2,5.4,6.0,AI Research Analyst
+4.5,5.2,4.9,AI Quality Assurance Engineer
+8.6,5.0,7.7,Prompt Engineer
+5.3,5.1,5.1,Mobile App Developer
+4.1,4.9,5.8,Cloud Security Engineer
+8.3,8.2,8.1,Data Scientist
+5.6,5.0,5.7,Data Governance Analyst
+7.8,6.8,9.0,AI Product Manager
+7.6,5.1,10.0,AI Product Manager
+4.8,4.5,4.5,AI Solutions Consultant
+5.8,5.7,5.1,Smart Manufacturing Analyst
+5.2,4.9,4.8,Cybersecurity Analyst
+5.8,4.3,4.8,Digital Transformation Analyst
+4.7,5.0,4.9,Security Automation Engineer
+4.5,8.8,6.0,Backend Developer
+4.5,4.4,4.1,Smart Manufacturing Analyst
+5.5,4.9,5.3,Cloud Security Engineer
+5.5,5.4,4.9,AR/VR Developer
+4.8,4.8,5.3,AI Ethics Researcher
+5.0,5.7,5.7,AI Quality Assurance Engineer
+3.3,8.3,7.8,Frontend Developer
+4.6,4.0,5.8,Mobile App Developer
+8.0,8.9,7.9,Data Scientist
+5.5,4.4,4.5,AI Governance Specialist
+5.0,4.3,4.6,Technical Program Manager
+9.1,5.3,7.9,Prompt Engineer
+6.6,8.3,6.1,Game Developer
+5.3,6.0,4.7,Technical Program Manager
+4.2,5.1,5.8,AI Research Analyst
+5.6,5.2,4.6,AI Operations Manager
+5.1,4.2,5.4,Smart Manufacturing Analyst
+5.5,5.9,4.5,AI Operations Manager
+4.0,5.1,5.4,EdTech Product Analyst
+5.6,4.4,4.5,Cloud DevOps Engineer
+5.0,4.7,5.7,Digital Transformation Analyst
+8.9,9.1,7.2,NLP Engineer
+6.0,8.7,7.7,Platform Engineer
+4.5,5.1,4.4,AI Solutions Consultant
+5.0,4.6,4.5,AI UX Designer
+5.9,4.3,5.6,SOC Engineer
+6.0,4.0,5.4,Technical Program Manager
+4.5,4.1,4.8,AI Governance Specialist
+5.9,4.0,5.2,Cybersecurity Analyst
+5.0,5.7,4.2,Cloud Security Engineer
+9.4,9.4,6.8,Machine Learning Engineer
+5.9,5.6,4.1,AI Business Analyst
+5.4,8.3,6.1,Penetration Tester
+5.4,8.3,6.4,Penetration Tester
+6.5,7.7,7.3,Penetration Tester
+5.0,5.2,5.7,Site Reliability Engineer
+4.7,4.9,4.8,Digital Marketing Analyst (AI)
+4.7,5.9,5.7,AR/VR Developer
+4.2,4.2,4.9,FinTech Software Engineer
+4.2,9.7,6.8,Full Stack Developer
+5.0,4.0,4.6,SOC Engineer
+5.4,5.0,6.0,Software Developer
+5.7,4.7,4.1,Digital Marketing Analyst (AI)
+5.7,5.8,5.6,MLOps Engineer
+4.3,6.0,4.5,AI Governance Specialist
+5.4,5.8,4.5,Cloud DevOps Engineer
+5.8,4.6,6.0,IoT Engineer
+4.6,5.9,4.1,SOC Engineer
+5.4,5.1,5.0,AI Cloud Engineer
+4.4,5.4,4.4,AR/VR Developer
+4.1,8.5,8.4,Frontend Developer
+4.1,4.4,4.5,Security Automation Engineer
+8.8,8.0,7.0,NLP Engineer
+5.7,5.4,5.2,Technical Program Manager
+4.2,9.9,6.8,Full Stack Developer
+9.6,8.0,6.8,NLP Engineer
+4.7,5.7,4.3,AR/VR Developer
+5.1,4.3,5.4,Digital Marketing Analyst (AI)
+5.8,4.9,5.0,Digital Marketing Analyst (AI)
+8.9,6.0,9.5,AI Product Manager
+5.2,5.4,4.2,AI Quality Assurance Engineer
+5.6,4.9,4.1,EdTech Product Analyst
+5.6,4.8,4.2,AI UX Designer
+5.3,5.8,5.8,Data Engineer
+5.9,5.7,4.0,AI Governance Specialist
+4.8,5.6,4.7,AI Ethics Researcher
+9.2,8.7,5.7,Computer Vision Engineer
+9.8,9.0,6.4,Machine Learning Engineer
+6.0,5.0,4.4,AI Cloud Engineer
+5.0,5.6,5.6,AI Cloud Engineer
+6.6,9.4,6.5,Game Developer
+5.7,5.8,4.4,Smart Manufacturing Analyst
+3.8,10.0,6.7,Backend Developer
+5.8,5.8,5.1,AI Solutions Consultant
+5.3,5.1,4.1,Cybersecurity Analyst
+9.5,8.5,6.3,Computer Vision Engineer
+9.0,9.0,5.8,Machine Learning Engineer
+4.6,4.3,4.4,Sustainability Data Analyst
+5.9,4.3,4.5,Cloud DevOps Engineer
+5.2,5.2,4.3,Sustainability Data Analyst
+5.6,5.6,4.5,AI Business Analyst
+4.6,5.9,5.7,AI Operations Manager
+5.4,4.2,4.8,Cloud DevOps Engineer
+5.1,4.4,4.9,FinTech Software Engineer
+5.2,4.7,5.6,AI Ethics Researcher
+5.7,4.6,5.7,EdTech Product Analyst
+7.2,6.7,8.8,AI Product Manager
+8.7,6.3,8.4,Prompt Engineer
+6.8,8.7,6.6,Game Developer
+5.0,4.9,4.7,FinTech Software Engineer
+9.4,9.5,7.2,Machine Learning Engineer
+5.9,4.5,5.4,AI Business Analyst
+3.8,9.4,7.5,Frontend Developer
+6.0,5.5,5.9,Sustainability Data Analyst
+9.7,9.3,7.6,NLP Engineer
+4.9,4.5,4.7,AI Quality Assurance Engineer
+8.5,6.0,8.5,Prompt Engineer
+5.1,5.9,5.8,EdTech Product Analyst
+8.8,5.7,8.3,Prompt Engineer
+4.7,5.6,5.0,Healthcare AI Analyst
+5.1,5.7,5.6,Digital Transformation Analyst
+7.3,6.4,9.4,AI Product Manager
+7.6,5.1,9.5,AI Product Manager
+5.7,8.5,7.4,Game Developer
+5.5,4.5,4.1,Robotics Software Engineer
+6.2,7.5,7.4,Penetration Tester
+5.3,4.6,4.5,Sustainability Data Analyst
+4.0,8.5,5.3,Blockchain Developer
+5.2,4.3,5.1,AI Quality Assurance Engineer
+5.2,4.6,4.1,EdTech Product Analyst
+8.1,7.6,6.5,Computer Vision Engineer
+4.6,5.6,4.9,Cybersecurity Analyst
+8.9,8.5,7.4,NLP Engineer
+5.0,7.7,6.6,Penetration Tester
+4.7,4.9,5.3,AI Operations Manager
+5.0,5.2,5.1,FinTech Software Engineer
+5.5,5.4,5.1,AI Cloud Engineer
+5.9,9.2,6.4,Penetration Tester
+4.8,5.5,5.2,MLOps Engineer
+4.1,5.8,4.1,AI Research Analyst
+5.5,5.5,5.9,Cloud DevOps Engineer
+4.1,5.2,4.9,AR/VR Developer
+4.7,4.2,5.1,Digital Transformation Analyst
+5.0,4.2,5.2,Data Governance Analyst
+5.5,5.5,5.8,Software Developer
+3.8,9.9,8.2,Frontend Developer
+4.6,8.8,7.4,Full Stack Developer
+4.3,9.7,6.2,Backend Developer
+5.0,9.5,5.2,Backend Developer
+5.7,4.6,5.9,AI UX Designer
+4.2,5.9,4.2,ERP Functional Consultant
+5.5,8.1,7.4,Game Developer
+5.7,4.9,5.9,AR/VR Developer
+5.2,5.3,5.7,AI Ethics Researcher
+4.6,4.7,5.8,Healthcare AI Analyst
+5.3,10.0,6.8,Backend Developer
+4.3,5.6,4.8,Sustainability Data Analyst
+6.0,8.9,6.1,Blockchain Developer
+9.6,5.6,7.7,Prompt Engineer
+9.8,9.1,6.3,NLP Engineer
+5.6,5.3,4.8,Cybersecurity Analyst
+4.5,5.7,5.4,AI Business Analyst
+5.1,5.2,4.2,AI UX Designer
+4.9,4.4,4.4,AI Cloud Engineer
+4.8,10.0,5.8,Backend Developer
+4.4,5.3,5.7,AI Ethics Researcher
+5.5,5.7,5.1,AR/VR Developer
+5.5,4.3,4.7,EdTech Product Analyst
+4.8,5.0,5.9,Security Automation Engineer
+5.7,4.3,4.3,AI Solutions Consultant
+4.7,4.6,5.2,EdTech Product Analyst
+5.8,5.9,5.3,Security Automation Engineer
+5.7,5.1,4.4,FinTech Software Engineer
+5.0,5.1,5.5,AI Research Analyst
+7.9,7.7,7.2,Data Scientist
+6.4,8.4,7.0,Penetration Tester
+5.5,4.5,5.1,Sustainability Data Analyst
+5.8,5.0,5.9,AI Operations Manager
+4.4,4.1,5.8,Cloud Security Engineer
+5.7,6.0,5.4,Supply Chain AI Analyst
+7.4,7.2,9.7,Business Intelligence Analyst
+5.1,4.8,5.9,Sustainability Data Analyst
+3.9,9.1,7.4,Frontend Developer
+5.6,8.9,6.1,Platform Engineer
+5.8,4.9,5.2,AI Business Analyst
+4.3,4.0,4.5,IoT Engineer
+5.4,4.2,5.8,AI Ethics Researcher
+4.4,4.4,4.4,Smart Manufacturing Analyst
+4.0,5.5,5.8,AI Ethics Researcher
+5.2,4.4,4.6,Cybersecurity Analyst
+9.0,9.9,6.0,Machine Learning Engineer
+5.5,8.9,5.6,Blockchain Developer
+5.9,8.1,7.6,Game Developer
+4.5,5.5,4.1,Supply Chain AI Analyst
+9.4,7.4,8.3,Data Scientist
+5.6,5.9,5.0,AI UX Designer
+5.5,4.7,4.4,AI Governance Specialist
+4.9,4.3,6.0,AI Cloud Engineer
+4.2,5.2,5.3,EdTech Product Analyst
+5.1,5.3,4.2,Smart Manufacturing Analyst
+5.1,4.6,5.9,EdTech Product Analyst
+6.0,9.9,6.1,Platform Engineer
+4.6,4.4,4.0,AI UX Designer
+5.5,9.4,6.5,Game Developer
+5.0,5.8,5.4,AR/VR Developer
+4.8,4.7,4.9,Smart Manufacturing Analyst
+8.4,8.8,6.7,NLP Engineer
+5.7,5.5,5.2,AI Research Analyst
+4.7,4.4,5.6,AI Business Analyst
+5.0,4.4,4.4,IoT Engineer
+4.8,9.6,6.5,Platform Engineer
+5.1,4.9,5.2,IoT Engineer
+5.8,5.7,4.9,Sustainability Data Analyst
+4.0,4.9,5.2,Site Reliability Engineer
+5.1,5.3,4.3,Healthcare AI Analyst
+9.8,5.4,9.0,Prompt Engineer
+4.7,5.4,4.1,AI Research Analyst
+4.8,5.4,4.5,AI Operations Manager
+5.6,5.3,5.2,Data Engineer
+5.2,8.5,6.7,Penetration Tester
+4.4,9.9,5.9,Backend Developer
+4.4,4.4,4.0,ERP Functional Consultant
+4.6,5.5,5.6,Robotics Software Engineer
+5.9,7.4,9.0,Business Intelligence Analyst
+5.8,5.4,5.4,MLOps Engineer
+4.2,4.4,4.0,Mobile App Developer
+4.9,9.2,6.6,Backend Developer
+4.7,5.6,4.3,AI Business Analyst
+4.3,4.7,4.8,Mobile App Developer
+4.7,5.5,4.2,Data Governance Analyst
+6.2,7.2,8.1,Business Intelligence Analyst
+5.9,6.0,4.2,AI Research Analyst
+4.6,4.7,5.6,FinTech Software Engineer
+6.7,6.8,9.5,Business Intelligence Analyst
+4.2,5.7,5.4,Digital Marketing Analyst (AI)
+5.2,9.8,6.4,Blockchain Developer
+4.4,4.9,5.0,Mobile App Developer
+4.1,5.9,4.3,SOC Engineer
+5.4,5.0,4.1,FinTech Software Engineer
+5.8,5.7,5.0,SOC Engineer
+4.5,4.2,4.7,MLOps Engineer
+8.0,8.0,8.4,Data Scientist
+9.6,6.8,8.8,Prompt Engineer
+5.0,5.7,4.9,FinTech Software Engineer
+7.2,6.1,8.3,Business Intelligence Analyst
+5.7,5.2,5.8,Smart Manufacturing Analyst
+6.9,8.1,7.0,Game Developer
+5.2,9.3,7.6,Platform Engineer
+7.6,6.1,9.9,AI Product Manager
+4.3,5.6,5.2,AI Quality Assurance Engineer
+5.9,4.7,4.2,IoT Engineer
+5.0,4.2,5.9,Robotics Software Engineer
+4.1,5.5,5.1,IoT Engineer
+5.2,7.6,6.7,Penetration Tester
+9.2,8.1,6.8,Computer Vision Engineer
+4.6,4.9,5.1,AI Quality Assurance Engineer
+4.2,5.9,4.7,Technical Program Manager
+4.2,4.8,5.2,IoT Engineer
+5.0,5.4,4.1,EdTech Product Analyst
+4.6,5.6,4.2,Digital Marketing Analyst (AI)
+5.7,8.7,8.2,Full Stack Developer
+4.7,5.2,4.3,Cybersecurity Analyst
+7.1,5.4,8.8,AI Product Manager
+8.6,9.0,6.7,Machine Learning Engineer
+5.6,5.3,5.2,IoT Engineer
+8.3,7.9,7.3,Data Scientist
+5.7,4.5,4.0,Robotics Software Engineer
+5.3,4.4,5.8,Technical Program Manager
+5.7,4.2,4.2,Supply Chain AI Analyst
+5.0,5.2,4.5,Data Governance Analyst
+5.4,9.7,7.1,Full Stack Developer
+4.1,5.5,4.4,Digital Transformation Analyst
+5.7,4.8,5.2,Data Governance Analyst
+5.7,5.7,4.7,Cybersecurity Analyst
+8.4,9.6,6.4,Machine Learning Engineer
+4.4,5.8,4.4,SOC Engineer
+4.1,4.0,5.2,AI Quality Assurance Engineer
+5.3,4.6,4.6,Cloud Security Engineer
+8.7,8.9,6.1,NLP Engineer
+6.4,8.4,8.0,Platform Engineer
+4.8,9.5,6.4,Platform Engineer
+4.2,5.7,5.7,AI Cloud Engineer
+4.8,5.4,5.1,Robotics Software Engineer
+5.7,4.6,5.0,Cybersecurity Analyst
+8.5,7.7,8.3,Data Scientist
+4.3,4.3,5.2,ERP Functional Consultant
+5.3,4.4,4.8,ERP Functional Consultant
+5.9,4.5,5.3,AI Business Analyst
+5.5,4.9,5.9,Digital Transformation Analyst
+5.5,4.9,5.1,Robotics Software Engineer
+5.4,5.2,5.8,AI Cloud Engineer
+7.7,5.6,8.9,AI Product Manager
+8.1,8.1,7.2,Machine Learning Engineer
+5.4,5.3,5.2,Cloud DevOps Engineer
+5.7,5.0,5.7,AR/VR Developer
+4.7,5.9,5.4,Software Developer
+5.0,8.6,6.6,Penetration Tester
+4.3,5.2,4.6,EdTech Product Analyst
+4.1,5.9,5.3,FinTech Software Engineer
+6.3,9.4,6.7,Platform Engineer
+5.0,5.4,5.9,AI Cloud Engineer
+4.5,5.7,5.8,AR/VR Developer
+5.3,5.9,4.8,MLOps Engineer
+5.9,5.4,4.1,AI Governance Specialist
+5.8,5.0,4.9,Robotics Software Engineer
+4.6,8.8,5.9,Backend Developer
+5.7,4.0,4.5,Supply Chain AI Analyst
+8.0,8.3,7.5,NLP Engineer
+5.6,5.9,5.2,AI Quality Assurance Engineer
+4.5,9.8,6.6,Blockchain Developer
+5.6,9.4,7.8,Platform Engineer
+5.4,4.7,5.4,Digital Transformation Analyst
+4.1,4.8,4.8,Cybersecurity Analyst
+4.3,4.0,4.3,Digital Transformation Analyst
+5.3,5.6,6.0,Data Engineer
+4.7,5.2,5.9,AI Ethics Researcher
+4.3,5.4,5.5,Smart Manufacturing Analyst
+4.2,5.7,5.6,Digital Transformation Analyst
+3.6,8.7,5.1,Backend Developer
+4.7,5.0,5.1,Technical Program Manager
+4.5,5.8,4.7,Site Reliability Engineer
+7.6,7.6,7.6,Data Scientist
+7.8,5.5,8.8,AI Product Manager
+5.6,6.0,4.7,AI Cloud Engineer
+8.8,9.2,6.9,Machine Learning Engineer
+4.8,10.0,7.6,Full Stack Developer
+3.9,9.3,8.4,Frontend Developer
+5.6,4.1,4.7,AI Quality Assurance Engineer
+4.9,4.6,5.4,Smart Manufacturing Analyst
+10.0,6.5,9.5,Prompt Engineer
+4.5,5.7,5.5,Digital Marketing Analyst (AI)
+4.7,5.5,4.2,Cloud DevOps Engineer
+5.6,9.6,7.1,Full Stack Developer
+5.3,5.3,4.4,Security Automation Engineer
+4.1,4.9,5.1,Sustainability Data Analyst
+7.3,7.4,9.1,Business Intelligence Analyst
+5.5,4.9,5.5,AI Solutions Consultant
+3.4,8.7,7.8,Frontend Developer
+4.0,5.4,5.7,Technical Program Manager
+4.8,4.9,5.7,Cybersecurity Analyst
+5.6,8.6,5.6,Blockchain Developer
+5.4,5.1,4.3,Supply Chain AI Analyst
+4.1,10.0,6.4,Backend Developer
+6.0,5.5,5.9,MLOps Engineer
+4.4,5.5,4.0,Data Governance Analyst
+5.3,4.9,4.7,Digital Transformation Analyst
+10.0,6.7,7.5,Prompt Engineer
+9.2,8.7,6.3,Machine Learning Engineer
+5.7,4.6,5.9,Cybersecurity Analyst
+4.9,8.8,6.8,Penetration Tester
+4.5,8.6,6.7,Blockchain Developer
+5.5,9.2,7.6,Full Stack Developer
+3.1,8.4,7.5,Frontend Developer
+4.2,5.7,5.4,Software Developer
+5.9,5.4,5.9,SOC Engineer
+5.1,5.2,6.0,Software Developer
+5.3,4.1,5.4,Cloud Security Engineer
+5.8,5.6,5.2,AI UX Designer
+5.3,6.0,4.2,Cloud DevOps Engineer
+5.3,4.6,5.3,AI Research Analyst
+6.2,8.3,6.4,Game Developer
+5.2,4.3,4.5,AI Business Analyst
+5.7,4.7,5.0,Cloud Security Engineer
+5.9,4.5,4.8,Healthcare AI Analyst
+6.7,7.0,9.8,Business Intelligence Analyst
+9.8,9.6,6.0,Machine Learning Engineer
+4.0,4.8,4.3,AI Cloud Engineer
+5.4,5.3,4.1,AI Operations Manager
+7.2,6.0,8.9,Business Intelligence Analyst
+5.3,4.9,4.9,FinTech Software Engineer
+4.1,4.8,5.5,AI UX Designer
+9.8,8.8,6.3,Machine Learning Engineer
+5.4,5.9,4.5,IoT Engineer
+4.9,5.6,5.2,Site Reliability Engineer
+4.7,8.8,5.9,Penetration Tester
+5.0,5.1,5.8,AI Business Analyst
+4.9,4.6,4.5,Digital Transformation Analyst
+6.2,7.8,6.4,Penetration Tester
+4.4,5.5,4.9,FinTech Software Engineer
+4.7,4.7,5.7,AI Cloud Engineer
+5.1,5.4,5.8,Cloud DevOps Engineer
+5.8,4.7,5.9,AI UX Designer
+4.0,4.8,5.8,AI Ethics Researcher
+3.5,8.5,7.1,Frontend Developer
+9.2,8.4,7.5,NLP Engineer
+9.3,8.3,6.9,Data Scientist
+8.9,5.5,8.8,AI Product Manager
+3.7,9.6,5.2,Backend Developer
+4.3,4.6,4.6,AI Operations Manager
+9.2,9.1,6.5,Computer Vision Engineer
+4.5,4.5,5.9,Digital Transformation Analyst
+4.0,5.8,4.4,Data Engineer
+9.9,8.2,5.9,Computer Vision Engineer
+5.4,5.2,4.6,AI Quality Assurance Engineer
+5.1,5.5,4.1,AI Cloud Engineer
+4.0,4.9,4.3,Supply Chain AI Analyst
+5.3,4.4,4.9,Digital Transformation Analyst
+7.4,6.1,8.7,AI Product Manager
+4.0,4.1,5.9,Sustainability Data Analyst
+4.3,5.4,4.1,FinTech Software Engineer
+4.2,5.0,4.9,Data Engineer
+5.9,5.9,5.6,Technical Program Manager
+5.2,4.9,4.7,ERP Functional Consultant
+5.9,5.2,5.2,AI Operations Manager
+4.5,4.1,5.9,Healthcare AI Analyst
+4.6,9.4,6.7,Full Stack Developer
+5.7,4.1,5.7,Mobile App Developer
+4.3,5.8,5.5,Supply Chain AI Analyst
+4.3,5.1,4.6,Healthcare AI Analyst
+4.4,5.7,4.8,AI Business Analyst
+8.3,7.3,7.3,Data Scientist
+5.7,4.7,5.9,Cybersecurity Analyst
+5.9,4.3,4.4,Cloud Security Engineer
+9.2,7.8,6.5,Data Scientist
+4.5,5.2,5.6,AI Cloud Engineer
+7.8,7.2,8.3,Data Scientist
+9.5,8.7,7.5,NLP Engineer
+8.9,9.5,6.2,Machine Learning Engineer
+4.5,5.5,4.8,Security Automation Engineer
+6.5,8.7,7.8,Platform Engineer
+5.9,4.5,5.6,MLOps Engineer
+4.9,5.8,4.9,AI Cloud Engineer
+5.0,9.4,5.5,Backend Developer
+4.4,4.9,5.5,AI Ethics Researcher
+5.2,5.4,4.6,AI UX Designer
+5.0,4.1,5.6,Robotics Software Engineer
+6.0,4.8,4.0,Cloud DevOps Engineer
+4.3,9.8,7.7,Full Stack Developer
+5.6,4.5,5.5,Smart Manufacturing Analyst
+5.4,4.6,5.1,AI Business Analyst
+8.3,8.4,6.8,Computer Vision Engineer
+4.8,5.7,5.2,Cloud Security Engineer
+4.4,5.2,5.0,AI Business Analyst
+3.8,8.2,7.3,Frontend Developer
+8.6,5.2,8.3,Prompt Engineer
+6.1,7.4,8.8,Business Intelligence Analyst
+5.5,5.1,5.4,AI Quality Assurance Engineer
+5.0,9.9,7.1,Platform Engineer
+6.2,8.2,5.7,Penetration Tester
+5.3,4.0,5.0,MLOps Engineer
+4.4,5.3,6.0,Data Governance Analyst
+8.9,9.1,7.0,NLP Engineer
+5.0,5.9,5.8,AI UX Designer
+5.6,4.6,5.1,Software Developer
+4.4,4.9,5.0,AI Operations Manager
+5.7,5.8,4.8,Supply Chain AI Analyst
+4.0,5.7,4.3,AR/VR Developer
+5.2,4.0,4.8,AI Solutions Consultant
+7.5,5.7,8.8,Business Intelligence Analyst
+4.6,5.8,5.7,Software Developer
+3.5,8.2,7.8,Frontend Developer
+4.7,5.3,4.1,Site Reliability Engineer
+4.3,9.9,6.9,Full Stack Developer
+5.7,4.1,4.4,Healthcare AI Analyst
+5.0,8.9,7.9,Frontend Developer
+4.4,5.2,5.5,Robotics Software Engineer
+4.6,5.7,5.2,Data Engineer
+8.8,8.6,7.2,NLP Engineer
+4.3,4.8,4.7,AI Ethics Researcher
+4.8,5.5,5.0,Healthcare AI Analyst
+5.9,4.6,4.8,Supply Chain AI Analyst
+5.6,5.1,5.1,Cybersecurity Analyst
+4.6,8.3,6.0,Penetration Tester
+6.0,4.6,5.8,Supply Chain AI Analyst
+4.4,8.7,7.6,Frontend Developer
+5.7,5.8,4.3,AI Operations Manager
+8.2,7.7,6.6,Data Scientist
+5.2,5.7,4.8,FinTech Software Engineer
+5.5,5.3,4.8,AR/VR Developer
+8.3,8.9,7.7,NLP Engineer
+9.4,7.5,5.4,Computer Vision Engineer
+4.1,5.1,5.5,Smart Manufacturing Analyst
+5.7,7.2,9.1,Business Intelligence Analyst
+5.9,9.4,5.7,Penetration Tester
+5.8,4.3,4.8,Digital Transformation Analyst
+5.7,5.8,5.0,AI Quality Assurance Engineer
+8.2,6.4,10.0,AI Product Manager
+4.2,5.6,5.0,SOC Engineer
+4.9,4.8,5.0,SOC Engineer
+5.9,9.6,8.4,Full Stack Developer
+4.4,5.4,5.6,Digital Marketing Analyst (AI)
+5.4,5.2,5.1,AI Business Analyst
+5.7,5.6,4.2,AI Research Analyst
+5.7,4.8,4.5,Robotics Software Engineer
+5.7,4.9,5.6,Sustainability Data Analyst
+4.5,4.0,5.0,AI Solutions Consultant
+4.2,5.5,4.6,Supply Chain AI Analyst
+4.9,4.2,4.6,Healthcare AI Analyst
+5.6,4.3,5.3,AI Research Analyst
+5.8,5.4,5.6,AI Governance Specialist
+4.2,4.5,5.8,Smart Manufacturing Analyst
+5.4,5.3,5.3,ERP Functional Consultant
+4.8,4.1,5.6,AI Solutions Consultant
+5.4,4.9,5.8,Digital Marketing Analyst (AI)
+4.7,4.6,5.7,AI Governance Specialist
+6.6,9.0,6.3,Game Developer
+4.4,5.3,4.8,Cybersecurity Analyst
+9.7,9.9,7.1,Machine Learning Engineer
+8.8,9.1,5.7,Computer Vision Engineer
+8.3,7.6,6.8,NLP Engineer
+5.8,4.5,4.4,IoT Engineer
+6.4,8.1,7.6,Platform Engineer
+4.6,4.1,5.8,MLOps Engineer
+3.3,9.1,7.0,Frontend Developer
+4.6,8.1,6.2,Platform Engineer
+4.1,5.5,5.0,AI Ethics Researcher
+4.7,4.8,5.9,Healthcare AI Analyst
+5.8,9.4,6.8,Blockchain Developer
+8.6,8.3,7.2,NLP Engineer
+4.7,9.5,5.8,Backend Developer
+6.0,5.6,4.9,Site Reliability Engineer
+5.5,4.5,4.2,MLOps Engineer
+4.7,4.8,4.0,AI Research Analyst
+5.6,4.7,5.2,Sustainability Data Analyst
+8.1,8.3,7.3,Machine Learning Engineer
+6.7,7.4,10.0,Business Intelligence Analyst
+4.7,4.6,5.7,Technical Program Manager
+6.5,9.3,7.6,Platform Engineer
+5.6,4.7,5.1,EdTech Product Analyst
+8.7,6.4,8.5,AI Product Manager
+4.7,4.3,4.5,AI Business Analyst
+9.8,8.1,5.9,Machine Learning Engineer
+4.6,9.2,6.1,Blockchain Developer
+4.4,4.3,4.5,Robotics Software Engineer
+5.0,4.5,5.9,Mobile App Developer
+8.9,7.6,7.5,NLP Engineer
+4.7,5.3,4.6,Mobile App Developer
+9.6,6.5,9.4,Prompt Engineer
+4.5,4.7,4.9,MLOps Engineer
+5.9,5.8,4.2,Data Engineer
+4.3,5.0,4.2,AI Governance Specialist
+4.7,4.3,5.3,Site Reliability Engineer
+7.4,7.5,8.8,Business Intelligence Analyst
+5.2,5.7,4.2,Security Automation Engineer
+5.4,4.8,4.4,IoT Engineer
+4.3,8.7,6.4,Backend Developer
+4.5,4.6,4.2,MLOps Engineer
+5.7,5.0,5.1,AI Quality Assurance Engineer
+5.1,4.8,4.4,AI Ethics Researcher
+5.5,4.3,4.2,Mobile App Developer
+9.4,7.9,5.6,Computer Vision Engineer
+5.0,4.9,5.4,MLOps Engineer
+5.2,5.3,5.4,Data Engineer
+8.6,8.6,6.4,Machine Learning Engineer
+6.1,7.5,9.6,Business Intelligence Analyst
+4.3,4.0,4.1,IoT Engineer
+5.5,8.2,7.1,Game Developer
+5.7,5.5,4.4,AI Operations Manager
+4.8,5.0,5.6,Smart Manufacturing Analyst
+4.7,9.8,7.5,Frontend Developer
+5.4,4.2,5.1,Technical Program Manager
+8.0,7.9,7.8,Data Scientist
+4.5,4.1,4.0,Cloud DevOps Engineer
+4.0,4.0,4.2,EdTech Product Analyst
+4.5,4.4,6.0,Sustainability Data Analyst
+4.1,8.8,6.1,Backend Developer
+5.2,9.9,5.6,Backend Developer
+8.6,8.4,8.0,Data Scientist
+5.3,5.7,5.7,Technical Program Manager
+5.2,4.9,5.3,AR/VR Developer
+8.6,5.0,10.0,AI Product Manager
+4.4,4.9,5.7,AR/VR Developer
+7.5,6.0,8.8,AI Product Manager
+4.8,4.4,4.7,AI Quality Assurance Engineer
+4.7,6.0,6.0,AI Governance Specialist
+4.2,5.5,4.1,Technical Program Manager
+3.6,8.7,6.9,Backend Developer
+5.9,4.4,4.3,AI UX Designer
+4.5,5.0,5.1,IoT Engineer
+4.4,5.5,4.6,Sustainability Data Analyst
+5.8,5.3,4.9,Mobile App Developer
+5.6,10.0,7.1,Full Stack Developer
+4.7,9.9,5.3,Blockchain Developer
+4.1,4.9,5.6,MLOps Engineer
+5.5,5.8,5.1,FinTech Software Engineer
+8.2,9.2,7.1,Machine Learning Engineer
+3.7,8.8,5.0,Backend Developer
+5.7,9.8,7.3,Platform Engineer
+6.5,7.6,7.3,Penetration Tester
+5.6,4.6,5.9,AI Solutions Consultant
+3.6,9.8,8.3,Frontend Developer
+5.5,9.1,5.2,Blockchain Developer
+5.1,4.7,5.6,Digital Marketing Analyst (AI)
+5.5,5.8,4.0,Data Governance Analyst
+5.6,10.0,8.1,Full Stack Developer
+5.8,5.7,8.0,Business Intelligence Analyst
+5.3,5.3,6.0,Security Automation Engineer
+4.8,4.7,5.2,Robotics Software Engineer
+5.7,5.9,5.6,Software Developer
+4.9,5.3,5.7,Software Developer
+5.0,4.4,4.3,AI UX Designer
+8.5,6.4,7.7,Prompt Engineer
+4.5,4.6,5.1,FinTech Software Engineer
+4.8,5.3,4.1,IoT Engineer
+4.2,5.0,4.7,AI Business Analyst
+8.6,8.1,7.3,Machine Learning Engineer
+5.4,4.2,4.1,Cloud DevOps Engineer
+5.9,5.4,4.8,Mobile App Developer
+5.4,5.5,5.6,Digital Marketing Analyst (AI)
+5.0,4.9,4.0,Smart Manufacturing Analyst
+5.9,5.2,4.4,Software Developer
+5.8,5.8,6.0,Digital Transformation Analyst
+5.7,6.0,4.5,Healthcare AI Analyst
+5.7,5.6,4.5,Technical Program Manager
+4.2,6.0,4.6,EdTech Product Analyst
+5.7,4.0,4.0,Software Developer
+4.9,4.5,5.4,Digital Transformation Analyst
+5.1,4.2,4.3,Software Developer
+4.8,8.9,8.1,Full Stack Developer
+4.8,4.2,5.0,AI Governance Specialist
+3.7,8.8,5.5,Backend Developer
+6.2,9.8,7.7,Platform Engineer
+8.2,7.5,7.6,Data Scientist
+5.4,10.0,5.3,Blockchain Developer
+3.1,9.4,8.2,Frontend Developer
+5.7,9.9,8.4,Full Stack Developer
+5.0,5.8,5.9,ERP Functional Consultant
+5.7,4.6,4.4,AI Operations Manager
+5.1,4.9,5.8,Cloud DevOps Engineer
+4.2,9.0,8.0,Full Stack Developer
+4.2,4.6,4.8,AI Cloud Engineer
+9.2,7.8,7.7,NLP Engineer
+4.9,5.8,4.9,MLOps Engineer
+4.6,8.3,5.0,Blockchain Developer
+5.1,4.2,4.8,AI Research Analyst
+5.2,4.6,4.4,Software Developer
+5.5,5.9,4.2,AI Governance Specialist
+4.3,5.9,4.1,FinTech Software Engineer
+6.0,4.0,5.7,AI Research Analyst
+4.6,5.9,4.6,AI Operations Manager
+5.3,4.2,4.5,AI Cloud Engineer
+5.5,5.1,5.9,Mobile App Developer
+4.9,5.7,4.9,AI Quality Assurance Engineer
+6.0,5.9,4.7,Cybersecurity Analyst
+6.8,9.7,6.4,Game Developer
+5.2,4.1,5.7,AI UX Designer
+4.3,8.6,7.3,Full Stack Developer
+6.2,9.7,7.9,Game Developer
+4.9,4.1,5.5,Software Developer
+5.1,4.9,4.6,AI Business Analyst
+9.5,5.7,9.0,Prompt Engineer
+5.1,5.8,5.1,SOC Engineer
+8.5,9.2,6.1,Computer Vision Engineer
+4.9,9.2,6.7,Platform Engineer
+5.7,4.9,5.5,Healthcare AI Analyst
+4.2,4.8,6.0,Supply Chain AI Analyst
+7.1,5.8,8.6,Business Intelligence Analyst
+4.7,5.3,5.5,Sustainability Data Analyst
+8.5,6.0,10.0,AI Product Manager
+6.4,5.7,9.1,Business Intelligence Analyst
+6.4,9.6,7.2,Platform Engineer
+5.3,5.9,4.9,AI Ethics Researcher
+3.7,10.0,8.2,Frontend Developer
+4.6,4.9,4.8,Smart Manufacturing Analyst
+4.3,5.9,4.8,Robotics Software Engineer
+5.8,4.4,5.1,Digital Marketing Analyst (AI)
+4.0,9.5,6.2,Blockchain Developer
+5.3,4.1,4.4,Smart Manufacturing Analyst
+4.1,4.6,5.3,EdTech Product Analyst
+5.1,5.2,5.1,AI Solutions Consultant
+3.5,8.5,6.8,Frontend Developer
+5.7,5.2,4.4,Supply Chain AI Analyst
+4.4,5.7,5.5,FinTech Software Engineer
+5.3,4.8,4.5,AI Cloud Engineer
+6.0,5.6,4.6,AI Research Analyst
+9.2,8.5,7.1,Data Scientist
+4.9,4.4,4.2,AI UX Designer
+9.9,5.5,9.1,Prompt Engineer
+6.0,4.2,4.9,Data Governance Analyst
+8.6,6.6,10.0,AI Product Manager
+8.7,8.4,7.2,NLP Engineer
+5.9,4.7,5.8,AI Governance Specialist
+4.5,6.0,5.3,AI UX Designer
+4.9,5.2,4.5,Sustainability Data Analyst
+4.5,4.2,4.2,Sustainability Data Analyst
+4.7,5.5,5.2,Security Automation Engineer
+4.2,5.7,5.2,Cloud DevOps Engineer
+5.9,5.3,4.4,AI Solutions Consultant
+4.9,5.3,4.1,MLOps Engineer
+4.0,4.3,4.5,AI Governance Specialist
+4.9,5.0,4.3,AI Solutions Consultant
+6.8,6.7,8.6,Business Intelligence Analyst
+4.0,4.2,4.8,Smart Manufacturing Analyst
+4.3,4.8,5.3,Security Automation Engineer
+6.6,6.0,8.7,Business Intelligence Analyst
+5.2,5.7,5.5,AR/VR Developer
+5.1,4.7,4.7,Cloud Security Engineer
+5.8,4.1,6.0,AR/VR Developer
+5.3,5.4,4.1,Data Governance Analyst
+6.7,6.5,8.2,Business Intelligence Analyst
+4.6,5.8,5.1,Digital Transformation Analyst
+4.8,4.1,5.4,AI Governance Specialist
+9.4,8.7,6.0,Computer Vision Engineer
+4.9,5.2,4.5,Sustainability Data Analyst
+5.9,5.2,4.6,Technical Program Manager
+4.9,5.6,4.3,Robotics Software Engineer
+4.6,5.4,4.6,Technical Program Manager
+7.1,5.8,9.5,Business Intelligence Analyst
+4.1,4.0,5.8,Security Automation Engineer
+9.7,5.7,8.0,Prompt Engineer
+5.2,5.0,6.0,IoT Engineer
+10.0,8.8,6.9,NLP Engineer
+5.0,5.4,4.2,IoT Engineer
+3.7,8.2,6.6,Frontend Developer
+4.4,5.0,5.6,Software Developer
+5.0,4.7,4.2,ERP Functional Consultant
+5.1,4.5,5.2,AI Solutions Consultant
+9.0,5.2,8.9,AI Product Manager
+4.9,5.9,5.5,Security Automation Engineer
+5.8,4.7,6.0,AI Business Analyst
+5.7,5.6,9.7,Business Intelligence Analyst
+5.9,4.2,4.2,Cybersecurity Analyst
+4.1,4.2,4.4,Technical Program Manager
+5.9,5.3,5.6,Digital Transformation Analyst
+5.6,5.1,5.6,AI Quality Assurance Engineer
+5.2,4.6,5.1,AI Governance Specialist
+5.1,5.6,6.0,AI Business Analyst
+6.3,7.0,8.2,Business Intelligence Analyst
+5.6,4.7,4.1,EdTech Product Analyst
+4.7,5.2,4.2,Healthcare AI Analyst
+5.8,4.2,5.9,Robotics Software Engineer
+5.4,8.7,5.8,Blockchain Developer
+5.5,5.2,5.3,Smart Manufacturing Analyst
+4.8,5.0,6.0,AI Cloud Engineer
+4.4,4.8,4.6,AI Governance Specialist
+5.5,5.5,4.6,Digital Transformation Analyst
+3.2,8.0,7.4,Frontend Developer
+8.8,9.5,6.9,NLP Engineer
+4.5,5.8,5.0,AR/VR Developer
+9.2,8.2,6.3,Machine Learning Engineer
+5.9,5.2,4.7,Cloud Security Engineer
+8.3,6.8,9.0,AI Product Manager
+9.5,6.9,7.8,Prompt Engineer
+5.4,5.2,5.4,Digital Transformation Analyst
+4.7,4.6,5.4,IoT Engineer
+4.4,4.8,4.4,Site Reliability Engineer
+4.0,5.9,4.9,AI Business Analyst
+5.9,4.3,5.2,AI Operations Manager
+4.4,5.6,5.6,Sustainability Data Analyst
+4.2,5.8,4.4,FinTech Software Engineer
+5.2,6.0,5.8,AI Quality Assurance Engineer
+5.9,4.7,4.2,Cloud Security Engineer
+8.9,6.0,9.1,Prompt Engineer
+5.8,6.8,8.6,Business Intelligence Analyst
+4.7,5.3,4.9,AI Business Analyst
+5.1,8.8,6.6,Backend Developer
+4.1,4.4,5.3,AI UX Designer
+5.7,4.5,4.7,FinTech Software Engineer
+5.1,4.4,5.6,EdTech Product Analyst
+9.5,8.3,6.4,Machine Learning Engineer
+5.5,4.7,5.3,Technical Program Manager
+4.1,5.2,4.3,Data Governance Analyst
+5.7,4.7,4.6,Site Reliability Engineer
+5.7,4.1,4.8,Smart Manufacturing Analyst
+4.7,4.6,5.8,Data Engineer
+8.5,5.1,9.9,AI Product Manager
+5.6,9.8,6.6,Platform Engineer
+6.1,9.0,7.0,Game Developer
+4.9,8.9,8.0,Full Stack Developer
+7.9,6.9,9.0,AI Product Manager
+5.4,5.9,5.3,MLOps Engineer
+5.7,5.7,4.7,AI Solutions Consultant
+5.7,8.3,7.1,Platform Engineer
+4.5,5.5,5.1,Supply Chain AI Analyst
+4.8,4.5,6.0,AI Cloud Engineer
+4.1,4.1,4.4,AR/VR Developer
+9.9,9.5,7.3,NLP Engineer
+5.8,4.4,5.9,SOC Engineer
+4.3,4.2,4.2,AI Research Analyst
+6.1,9.6,6.7,Game Developer
+10.0,5.9,7.8,Prompt Engineer
+8.9,9.4,7.2,Machine Learning Engineer
+4.9,5.2,4.5,AI UX Designer
+5.3,6.0,4.1,Supply Chain AI Analyst
+5.8,5.1,4.5,Sustainability Data Analyst
+5.9,5.0,4.7,AR/VR Developer
+4.4,4.5,5.7,AI Governance Specialist
+5.2,5.8,4.5,AR/VR Developer
+4.2,4.0,5.0,AI Operations Manager
+6.0,9.9,7.1,Full Stack Developer
+6.8,9.6,6.0,Game Developer
+5.6,4.6,4.3,IoT Engineer
+4.5,4.9,4.8,Data Engineer
+4.6,4.3,5.5,Technical Program Manager
+6.0,9.6,5.6,Blockchain Developer
+4.5,4.4,4.3,EdTech Product Analyst
+5.1,5.2,5.4,Data Governance Analyst
+5.4,4.6,4.7,AI Quality Assurance Engineer
+9.9,5.7,7.9,Prompt Engineer
+6.2,6.0,8.2,Business Intelligence Analyst
+6.2,9.2,5.9,Penetration Tester
+4.1,5.5,4.4,MLOps Engineer
+8.8,7.6,5.5,Computer Vision Engineer
+9.1,8.6,6.9,Data Scientist
+4.7,4.3,4.1,Healthcare AI Analyst
+6.0,5.3,5.1,AI Research Analyst
+8.5,6.7,10.0,AI Product Manager
+4.0,4.4,5.3,Site Reliability Engineer
+4.8,6.0,5.3,Data Engineer
+5.4,8.9,6.7,Backend Developer
+4.6,6.0,4.3,AI Operations Manager
+5.0,5.6,4.9,AI Solutions Consultant
+4.9,6.0,4.9,AI Ethics Researcher
+6.7,5.6,9.7,Business Intelligence Analyst
+9.3,8.8,5.5,Machine Learning Engineer
+5.2,4.0,4.0,AI Business Analyst
+5.2,4.4,4.4,Robotics Software Engineer
+5.3,4.1,4.6,Data Engineer
+4.3,5.2,5.3,Data Engineer
+9.9,5.5,7.7,Prompt Engineer
+4.2,8.9,6.9,Blockchain Developer
+4.4,4.5,4.2,Data Engineer
+5.2,5.4,5.3,AI UX Designer
+5.7,5.0,4.3,AI Governance Specialist
+4.6,5.3,5.2,AI Business Analyst
+5.1,5.4,5.3,Data Engineer
+5.8,5.2,5.6,Robotics Software Engineer
+7.5,6.4,10.0,AI Product Manager
+4.8,5.6,5.4,AI Cloud Engineer
+4.1,5.2,4.3,AI Business Analyst
+9.9,9.6,5.7,Machine Learning Engineer
+4.2,5.2,4.7,AI Ethics Researcher
+4.1,5.1,4.8,Sustainability Data Analyst
+4.2,5.6,5.8,MLOps Engineer
+5.5,5.6,4.4,SOC Engineer
+8.0,7.4,8.0,Data Scientist
+5.9,5.4,5.8,AI Research Analyst
+5.3,4.8,4.9,Smart Manufacturing Analyst
+4.2,4.1,5.4,FinTech Software Engineer
+4.9,5.1,5.1,AI Solutions Consultant
+4.6,5.0,4.9,AI Solutions Consultant
+3.8,9.6,7.4,Frontend Developer
+4.2,9.8,8.2,Frontend Developer
+5.8,4.5,4.1,AR/VR Developer
+4.5,4.6,5.8,AR/VR Developer
+5.3,4.2,4.3,Supply Chain AI Analyst
+4.3,5.3,5.5,Security Automation Engineer
+5.7,5.9,4.4,Cloud DevOps Engineer
+4.6,4.5,4.7,Cloud Security Engineer
+5.8,9.2,6.5,Blockchain Developer
+9.0,7.6,6.1,NLP Engineer
+5.1,5.4,4.4,AI Business Analyst
+5.4,5.6,4.8,Cloud DevOps Engineer
+5.5,4.8,5.4,AI Research Analyst
+9.0,9.0,7.2,Data Scientist
+4.8,4.3,4.4,Data Engineer
+5.4,5.8,4.8,Data Governance Analyst
+8.4,8.6,6.4,Machine Learning Engineer
+8.6,8.5,7.0,Machine Learning Engineer
+5.0,9.1,7.6,Game Developer
+4.5,5.2,5.3,Cloud DevOps Engineer
+5.3,4.9,4.7,AI Governance Specialist
+5.7,5.5,4.6,Healthcare AI Analyst
+5.7,5.6,8.2,Business Intelligence Analyst
+4.2,8.1,7.2,Frontend Developer
+5.5,4.6,5.5,AI Cloud Engineer
+5.5,4.5,5.5,IoT Engineer
+9.5,8.3,5.4,Computer Vision Engineer
+9.0,9.8,6.8,Machine Learning Engineer
+8.8,6.4,8.4,Prompt Engineer
+5.2,5.5,5.0,Cloud DevOps Engineer
+5.6,5.4,5.2,Mobile App Developer
+4.3,5.7,5.9,Sustainability Data Analyst
+4.3,5.0,4.5,Cloud DevOps Engineer
+5.5,5.4,4.3,Cloud DevOps Engineer
+5.8,4.4,5.6,Smart Manufacturing Analyst
+4.9,8.7,5.3,Blockchain Developer
+4.3,5.3,5.1,Cloud DevOps Engineer
+4.2,4.2,4.1,Sustainability Data Analyst
+5.5,9.4,5.1,Blockchain Developer
+5.1,8.7,8.3,Full Stack Developer
+5.8,5.4,5.9,Cloud DevOps Engineer
+6.1,9.7,7.1,Platform Engineer
+4.6,4.4,4.7,Technical Program Manager
+5.3,4.3,4.5,Technical Program Manager
+4.9,4.5,5.2,Data Governance Analyst
+6.3,9.5,7.3,Platform Engineer
+5.2,5.0,4.4,Site Reliability Engineer
+5.8,4.5,4.2,Mobile App Developer
+5.5,4.4,4.7,Supply Chain AI Analyst
+4.1,4.3,4.3,Digital Marketing Analyst (AI)
+7.6,8.3,8.2,Data Scientist
+3.7,9.7,6.9,Frontend Developer
+4.7,4.3,5.2,Digital Marketing Analyst (AI)
+4.8,5.2,5.5,SOC Engineer
+5.1,5.3,5.9,Digital Transformation Analyst
+4.6,4.7,5.4,Healthcare AI Analyst
+5.2,4.4,4.8,AI Research Analyst
+6.4,6.3,8.4,Business Intelligence Analyst
+5.8,5.5,5.0,Data Governance Analyst
+5.4,5.8,4.3,Healthcare AI Analyst
+4.5,5.1,5.6,Mobile App Developer
+4.1,6.0,4.9,SOC Engineer
+4.7,4.6,4.3,Supply Chain AI Analyst
+9.1,8.9,7.3,Data Scientist
+6.9,9.6,7.0,Game Developer
+5.3,4.9,5.1,Cloud Security Engineer
+4.1,5.4,4.1,Data Governance Analyst
+5.6,5.6,4.5,AI Solutions Consultant
+4.6,5.0,5.2,Sustainability Data Analyst
+4.6,5.2,4.6,Data Governance Analyst
+4.6,8.0,6.2,Platform Engineer
+4.6,9.9,7.4,Frontend Developer
+5.0,4.3,5.1,Digital Marketing Analyst (AI)
+4.3,5.2,5.9,Data Governance Analyst
+4.4,9.5,5.0,Blockchain Developer
+4.8,4.2,4.7,Healthcare AI Analyst
+4.3,4.7,4.8,ERP Functional Consultant
+4.6,5.3,5.8,Supply Chain AI Analyst
+9.3,5.4,8.0,Prompt Engineer
+5.2,9.6,5.9,Backend Developer
+4.3,4.9,4.6,Mobile App Developer
+5.9,10.0,6.7,Full Stack Developer
+5.0,4.5,4.8,Robotics Software Engineer
+5.8,5.1,4.7,AI Cloud Engineer
+7.4,6.6,9.7,AI Product Manager
+4.9,4.4,4.7,FinTech Software Engineer
+9.9,8.5,6.8,NLP Engineer
+5.0,9.6,5.7,Blockchain Developer
+4.9,8.7,6.8,Penetration Tester
+5.4,5.8,4.7,Digital Marketing Analyst (AI)
+7.2,6.9,9.4,AI Product Manager
+5.2,5.3,5.1,AI Solutions Consultant
+4.4,5.5,5.6,Sustainability Data Analyst
+5.1,5.0,4.2,Cybersecurity Analyst
+7.2,5.7,9.1,AI Product Manager
+5.9,5.6,5.3,Cybersecurity Analyst
+5.0,4.3,6.0,Cloud DevOps Engineer
+4.8,4.2,5.0,Technical Program Manager
+5.7,5.8,4.0,AI Quality Assurance Engineer
+5.8,4.5,4.1,AI Research Analyst
+8.7,6.7,9.7,AI Product Manager
+5.1,5.6,5.6,AR/VR Developer
+5.8,5.1,5.9,Data Governance Analyst
+7.5,5.7,9.7,Business Intelligence Analyst
+5.0,4.8,5.2,Mobile App Developer
+4.1,5.0,5.7,AI UX Designer
+4.4,4.9,5.9,Data Engineer
+5.4,8.7,6.9,Platform Engineer
+5.0,5.3,5.6,FinTech Software Engineer
+4.9,5.6,5.1,Smart Manufacturing Analyst
+7.7,6.3,9.9,AI Product Manager
+5.1,4.1,4.3,SOC Engineer
+4.6,4.6,5.3,ERP Functional Consultant
+4.0,5.5,4.5,Site Reliability Engineer
+4.6,5.1,4.4,Cloud Security Engineer
+5.8,8.7,7.4,Full Stack Developer
+5.7,5.2,4.6,AI Cloud Engineer
+4.8,9.9,8.4,Full Stack Developer
+5.3,9.2,7.0,Backend Developer
+8.0,7.6,7.6,NLP Engineer
+4.4,4.1,4.5,Cybersecurity Analyst
+4.9,5.5,5.2,Site Reliability Engineer
+4.5,5.0,5.9,Data Governance Analyst
+5.6,4.6,6.0,Digital Marketing Analyst (AI)
+5.4,4.1,4.1,IoT Engineer
+4.3,5.5,4.4,Software Developer
+5.0,4.2,5.8,FinTech Software Engineer
+4.7,5.8,5.9,Digital Marketing Analyst (AI)
+4.0,4.9,4.0,AR/VR Developer
+5.8,5.0,4.1,Sustainability Data Analyst
+4.2,4.8,5.9,AI Cloud Engineer
+5.4,5.7,4.7,Site Reliability Engineer
+4.1,5.9,4.0,MLOps Engineer
+5.9,4.7,4.0,SOC Engineer
+5.4,6.0,5.9,AI UX Designer
+4.3,4.4,5.1,Digital Marketing Analyst (AI)
+5.3,5.5,4.4,AI UX Designer
+5.9,5.3,5.7,FinTech Software Engineer
+5.1,4.8,6.0,FinTech Software Engineer
+5.2,5.7,5.9,MLOps Engineer
+5.9,8.6,5.5,Penetration Tester
+8.6,5.4,7.9,Prompt Engineer
+4.5,4.6,4.7,MLOps Engineer
+5.8,8.2,6.1,Game Developer
+5.3,5.1,4.9,Technical Program Manager
+5.3,5.7,4.9,Technical Program Manager
+5.3,5.9,5.7,Mobile App Developer
+4.9,5.3,4.4,Data Engineer
+5.1,6.0,5.0,AI Research Analyst
+5.9,4.8,6.0,AI Operations Manager
+8.2,5.1,9.7,AI Product Manager
+4.0,8.6,6.6,Backend Developer
+4.6,5.6,4.6,AI Quality Assurance Engineer
+4.4,5.9,4.7,Sustainability Data Analyst
+5.2,9.7,7.6,Full Stack Developer
+5.8,5.3,4.8,Digital Transformation Analyst
+5.7,4.4,5.1,Smart Manufacturing Analyst
+10.0,6.3,9.1,Prompt Engineer
+5.3,5.7,5.9,AI Cloud Engineer
+4.5,4.3,5.0,Software Developer
+5.4,4.5,4.0,Mobile App Developer
+4.7,5.9,5.4,AI Governance Specialist
+4.8,4.4,4.7,Cybersecurity Analyst
+4.3,4.2,5.8,Mobile App Developer
+9.0,5.3,8.6,AI Product Manager
+4.7,4.9,4.4,AI Business Analyst
+4.6,4.4,5.5,MLOps Engineer
+5.4,5.3,4.8,AI Operations Manager
+5.8,5.9,4.3,AI Governance Specialist
+4.4,9.1,5.2,Blockchain Developer
+5.9,9.2,7.0,Game Developer
+4.7,5.1,5.9,Digital Marketing Analyst (AI)
+4.4,5.3,4.1,AI UX Designer
+4.1,5.1,4.2,AI Quality Assurance Engineer
+4.0,4.3,5.1,Site Reliability Engineer
+9.4,7.9,7.3,NLP Engineer
+4.4,5.2,4.8,AI UX Designer
+5.3,6.0,5.9,Security Automation Engineer
+4.0,5.8,4.1,Technical Program Manager
+5.9,4.6,4.8,Sustainability Data Analyst
+4.2,4.2,5.5,Smart Manufacturing Analyst
+5.9,5.2,5.4,Cloud DevOps Engineer
+5.5,4.5,4.1,AI UX Designer
+4.0,4.7,4.5,AI Quality Assurance Engineer
+4.1,4.4,4.2,Mobile App Developer
+5.8,4.3,5.1,AI Governance Specialist
+5.2,5.1,4.2,IoT Engineer
+7.6,5.1,9.3,AI Product Manager
+4.4,5.1,5.4,AR/VR Developer
+5.1,4.9,4.8,Data Engineer
+5.7,4.4,5.5,AI Governance Specialist
+5.5,4.8,4.6,Mobile App Developer
+4.9,4.2,4.1,Site Reliability Engineer
+4.7,8.4,7.0,Platform Engineer
+5.7,4.5,5.9,Security Automation Engineer
+5.9,5.9,5.7,Cloud Security Engineer
+4.7,4.1,5.1,Cloud Security Engineer
+5.1,5.7,6.0,Mobile App Developer
+6.5,6.2,8.4,Business Intelligence Analyst
+4.0,5.0,5.1,AI Research Analyst
+5.6,5.0,5.8,Sustainability Data Analyst
+5.3,5.7,4.3,AI Governance Specialist
+5.7,5.4,4.3,Smart Manufacturing Analyst
+4.4,5.9,4.1,Site Reliability Engineer
+4.9,4.6,5.3,Supply Chain AI Analyst
+5.7,4.7,4.9,Site Reliability Engineer
+6.0,5.6,5.8,Mobile App Developer
+4.9,4.5,4.8,SOC Engineer
+5.4,4.2,4.5,ERP Functional Consultant
+7.1,5.9,10.0,AI Product Manager
+4.0,5.4,5.9,Data Engineer
+9.0,6.4,9.5,Prompt Engineer
+5.9,4.5,4.2,Data Governance Analyst
+4.8,8.9,7.0,Penetration Tester
+5.3,4.7,4.3,Cloud DevOps Engineer
+5.2,9.5,8.0,Full Stack Developer
+4.9,4.7,4.6,Cloud Security Engineer
+4.4,4.5,4.2,Smart Manufacturing Analyst
+3.7,8.1,6.9,Frontend Developer
+10.0,5.7,8.8,Prompt Engineer
+5.4,5.2,5.9,MLOps Engineer
+4.0,5.5,5.9,AI Ethics Researcher
+7.2,5.8,8.7,Business Intelligence Analyst
+4.3,5.2,5.4,AI Business Analyst
+4.6,5.1,5.4,Robotics Software Engineer
+4.8,5.7,5.5,Digital Transformation Analyst
+5.1,9.2,6.5,Game Developer
+5.1,5.9,5.8,AI UX Designer
+4.8,4.6,4.5,Supply Chain AI Analyst
+5.1,4.2,5.1,Data Engineer
+4.0,4.6,4.4,Data Engineer
+5.4,10.0,5.7,Backend Developer
+4.2,5.0,4.4,Supply Chain AI Analyst
+5.1,5.7,5.2,Site Reliability Engineer
+5.3,5.1,5.9,Robotics Software Engineer
+5.9,5.0,4.6,AI Governance Specialist
+4.9,4.4,5.3,Security Automation Engineer
+5.0,4.2,4.4,Cloud Security Engineer
+5.0,5.8,5.1,Data Governance Analyst
+5.4,4.7,5.1,ERP Functional Consultant
+4.9,5.3,4.1,Site Reliability Engineer
+5.0,4.6,4.7,Sustainability Data Analyst
+5.9,4.4,4.6,Robotics Software Engineer
+5.5,9.7,6.8,Platform Engineer
+5.5,5.7,4.6,MLOps Engineer
+4.8,4.7,5.7,SOC Engineer
+4.1,4.6,5.4,Digital Transformation Analyst
+5.1,4.9,5.1,Sustainability Data Analyst
+4.4,4.9,5.0,FinTech Software Engineer
+5.8,4.5,5.7,FinTech Software Engineer
+5.3,4.0,5.4,IoT Engineer
+5.1,10.0,7.7,Game Developer
+4.6,4.5,4.8,Cloud Security Engineer
+4.7,4.7,4.6,Supply Chain AI Analyst
+5.2,4.3,5.7,Digital Marketing Analyst (AI)
+5.6,5.0,5.7,FinTech Software Engineer
+4.5,4.0,5.2,ERP Functional Consultant
+4.9,5.1,5.8,AI Ethics Researcher
+5.9,5.3,5.5,AI UX Designer
+4.2,4.3,5.5,Digital Marketing Analyst (AI)
+4.9,4.9,4.6,AI Operations Manager
+5.2,4.4,5.3,Data Engineer
+4.3,4.1,4.7,Security Automation Engineer
+4.5,9.8,5.1,Blockchain Developer
+4.4,5.1,5.0,AI Quality Assurance Engineer
+4.1,4.0,6.0,Data Governance Analyst
+4.8,9.2,5.9,Backend Developer
+4.5,8.7,6.3,Blockchain Developer
+5.8,4.4,5.7,FinTech Software Engineer
+4.2,4.4,4.1,AR/VR Developer
+4.3,5.8,4.9,Cloud DevOps Engineer
+4.2,5.9,5.8,Supply Chain AI Analyst
+5.5,5.9,4.4,AI Research Analyst
+4.7,9.4,8.2,Frontend Developer
+5.6,4.7,5.5,AR/VR Developer
+4.5,9.2,6.7,Full Stack Developer
+9.4,7.6,7.5,Data Scientist
+4.8,5.9,4.7,Technical Program Manager
+5.6,5.7,4.9,Data Engineer
+7.8,6.5,10.0,AI Product Manager
+9.5,8.0,6.8,Computer Vision Engineer
+4.8,5.2,5.7,Robotics Software Engineer
+8.4,9.1,7.2,NLP Engineer
+5.8,4.3,4.8,Data Governance Analyst
+5.7,4.0,4.2,AI Governance Specialist
+7.0,8.6,8.0,Game Developer
+4.4,4.7,5.5,Healthcare AI Analyst
+5.3,5.2,5.1,AI UX Designer
+5.7,4.5,4.9,Robotics Software Engineer
+7.8,8.2,7.0,Data Scientist
+4.7,4.9,4.1,AI Business Analyst
+5.2,9.4,6.9,Game Developer
+5.7,5.4,4.0,EdTech Product Analyst
+4.7,8.7,6.6,Backend Developer
+5.0,9.1,7.9,Frontend Developer
+4.5,4.9,5.7,Healthcare AI Analyst
+4.3,4.5,4.9,AR/VR Developer
+5.4,4.8,5.9,Technical Program Manager
+8.2,8.2,6.4,Computer Vision Engineer
+4.5,5.3,4.3,ERP Functional Consultant
+4.1,4.2,5.9,Data Engineer
+5.1,5.6,4.7,Smart Manufacturing Analyst
+6.7,6.5,9.9,Business Intelligence Analyst
+7.0,7.0,8.1,Business Intelligence Analyst
+5.1,4.9,5.9,SOC Engineer
+4.5,4.5,4.8,AI Research Analyst
+4.5,4.3,5.7,Security Automation Engineer
+5.1,5.7,5.7,SOC Engineer
+4.6,5.1,4.2,Technical Program Manager
+10.0,5.8,8.3,Prompt Engineer
+4.6,4.9,4.5,AI Business Analyst
+4.7,5.6,5.7,MLOps Engineer
+4.6,4.9,5.7,Mobile App Developer
+4.1,5.8,4.4,IoT Engineer
+5.4,5.2,5.1,AI Business Analyst
+9.7,7.7,6.7,NLP Engineer
+5.1,5.6,4.4,ERP Functional Consultant
+5.6,4.8,4.4,Robotics Software Engineer
+5.5,4.2,5.0,Supply Chain AI Analyst
+4.1,4.7,5.2,Security Automation Engineer
+5.1,4.8,4.9,IoT Engineer
+4.5,8.9,6.9,Blockchain Developer
+5.7,4.3,4.1,IoT Engineer
+8.9,6.1,9.6,AI Product Manager
+5.6,4.6,5.0,MLOps Engineer
+5.9,5.3,4.3,FinTech Software Engineer
+4.3,8.4,6.5,Blockchain Developer
+4.6,4.0,5.9,Healthcare AI Analyst
+8.8,5.0,8.0,Prompt Engineer
+4.5,4.8,5.8,AI Governance Specialist
+5.8,4.9,4.8,Sustainability Data Analyst
+6.6,6.0,8.1,Business Intelligence Analyst
+5.9,4.4,4.4,IoT Engineer
+4.9,5.0,4.0,Data Governance Analyst
+4.3,4.8,5.4,AI Research Analyst
+4.5,4.8,5.1,Security Automation Engineer
+5.8,4.7,4.3,AI Cloud Engineer
+9.0,9.0,6.2,NLP Engineer
+4.8,8.5,6.6,Full Stack Developer
+4.5,9.1,6.7,Backend Developer
+5.2,9.4,7.3,Full Stack Developer
+5.0,4.1,5.8,Site Reliability Engineer
+6.0,4.4,4.2,Security Automation Engineer
+4.3,5.3,5.3,AI Solutions Consultant
+10.0,6.5,8.4,Prompt Engineer
+5.2,5.4,5.0,Technical Program Manager
+5.0,5.3,5.1,Technical Program Manager
+5.3,5.2,5.4,AI Cloud Engineer
+8.8,8.0,7.9,Data Scientist
+4.9,4.5,4.0,Data Engineer
+5.1,5.2,5.9,AI Ethics Researcher
+4.7,9.3,6.9,Full Stack Developer
+8.1,9.5,6.0,Machine Learning Engineer
+9.2,8.9,5.9,Computer Vision Engineer
+5.8,4.9,4.6,Cybersecurity Analyst
+6.3,9.7,6.3,Platform Engineer
+4.1,4.2,4.6,AR/VR Developer
+6.4,9.1,6.7,Platform Engineer
+5.8,4.9,4.6,AI Quality Assurance Engineer
+5.9,5.7,5.7,AI Business Analyst
+5.0,5.6,4.4,Mobile App Developer
+5.1,6.0,4.6,Cloud Security Engineer
+6.1,8.5,5.6,Penetration Tester
+5.5,4.3,5.3,Digital Transformation Analyst
+7.7,8.9,7.1,Data Scientist
+8.0,7.3,8.4,Data Scientist
+8.4,6.5,9.5,AI Product Manager
+8.9,7.7,6.1,Computer Vision Engineer
+4.5,6.0,5.6,AI Cloud Engineer
+4.8,4.3,5.6,AI Operations Manager
+4.2,4.4,4.4,Digital Transformation Analyst
+5.1,5.6,4.6,Technical Program Manager
+4.2,4.9,5.5,Technical Program Manager
+4.4,4.4,5.9,Robotics Software Engineer
+6.4,10.0,7.6,Platform Engineer
+4.4,4.4,4.7,Smart Manufacturing Analyst
+4.6,5.9,5.6,AI UX Designer
+5.4,4.4,5.8,Site Reliability Engineer
+5.7,4.3,5.7,AI Research Analyst
+4.5,4.2,5.3,FinTech Software Engineer
+5.3,4.2,4.6,Technical Program Manager
+6.0,5.4,5.5,AI Research Analyst
+4.4,4.2,4.6,Healthcare AI Analyst
+4.5,4.5,4.4,Smart Manufacturing Analyst
+5.1,4.7,5.6,Cloud Security Engineer
+3.4,8.9,6.5,Frontend Developer
+5.0,4.1,6.0,Digital Marketing Analyst (AI)
+9.6,8.5,5.2,Computer Vision Engineer
+8.7,8.5,6.9,Data Scientist
+5.1,5.6,5.5,Data Engineer
+5.6,5.8,5.9,AI Cloud Engineer
+4.8,5.1,5.6,Cloud Security Engineer
+5.4,6.0,4.0,Digital Marketing Analyst (AI)
+4.7,4.6,4.5,Robotics Software Engineer
+4.4,5.4,4.2,Data Engineer
+5.5,5.4,4.5,Data Governance Analyst
+4.5,5.3,5.5,AI Governance Specialist
+5.8,5.7,5.9,FinTech Software Engineer
+5.2,5.8,5.6,ERP Functional Consultant
+7.3,5.5,9.9,Business Intelligence Analyst
+4.9,5.6,4.3,AR/VR Developer
+8.8,8.5,6.1,Machine Learning Engineer
+3.7,10.0,5.0,Backend Developer
+4.6,4.3,5.2,Sustainability Data Analyst
+4.5,4.5,5.0,Smart Manufacturing Analyst
+5.3,4.2,4.4,Site Reliability Engineer
+8.5,9.4,6.8,NLP Engineer
+5.2,4.5,5.0,Software Developer
+4.1,4.1,4.9,AI Solutions Consultant
+4.8,4.3,5.4,Site Reliability Engineer
+6.0,4.8,5.2,Site Reliability Engineer
+5.9,5.7,4.9,AI Governance Specialist
+5.5,4.3,5.0,Software Developer
+4.6,4.3,4.9,Digital Transformation Analyst
+4.3,5.4,4.9,MLOps Engineer
+5.1,4.3,4.3,AR/VR Developer
+5.2,6.0,4.2,MLOps Engineer
+4.6,5.7,4.1,Software Developer
+5.8,5.0,4.8,AR/VR Developer
+4.6,9.1,7.1,Full Stack Developer
+5.8,5.4,5.3,Data Engineer
+5.6,4.5,5.2,Digital Transformation Analyst
+4.9,5.6,4.6,AI Governance Specialist
+5.3,5.8,4.8,ERP Functional Consultant
+4.1,5.0,4.7,Site Reliability Engineer
+5.3,5.9,5.0,Data Governance Analyst
+4.9,5.3,4.2,AI Ethics Researcher
+4.5,5.8,5.3,AI Research Analyst
+4.0,4.4,5.4,Digital Marketing Analyst (AI)
+5.5,5.7,4.6,Software Developer
+5.9,5.1,5.4,Robotics Software Engineer
+8.2,5.2,10.0,AI Product Manager
+4.2,9.0,8.1,Full Stack Developer
+5.2,5.7,5.0,AR/VR Developer
+4.8,5.8,4.1,SOC Engineer
+5.7,4.5,5.7,Cloud DevOps Engineer
+4.3,5.2,5.8,Technical Program Manager
+4.9,5.5,5.6,Data Governance Analyst
+5.5,5.9,4.9,AI Cloud Engineer
+4.3,4.1,4.5,AI Research Analyst
+4.3,5.1,4.4,AI Business Analyst
+4.1,4.1,5.7,Digital Transformation Analyst
+5.2,4.7,5.8,Cybersecurity Analyst
+8.6,7.0,8.7,Prompt Engineer
+4.4,5.4,5.5,Cloud Security Engineer
+4.9,5.7,4.3,AI UX Designer
+4.6,4.2,4.4,Cybersecurity Analyst
+4.5,5.8,4.2,Healthcare AI Analyst
+4.9,9.1,6.8,Blockchain Developer
+10.0,6.5,9.4,Prompt Engineer
+5.6,5.9,5.4,Technical Program Manager
+4.2,4.8,5.3,ERP Functional Consultant
+8.7,8.5,6.7,Machine Learning Engineer
+5.9,4.1,5.5,ERP Functional Consultant
+5.4,5.9,5.9,Sustainability Data Analyst
+5.5,5.0,4.4,Sustainability Data Analyst
+6.6,7.0,9.8,Business Intelligence Analyst
+5.6,4.4,5.2,AI Business Analyst
+4.7,4.0,4.4,AI Cloud Engineer
+4.2,5.7,4.5,AI Research Analyst
+5.1,9.9,6.8,Platform Engineer
+4.0,4.6,4.2,AI Quality Assurance Engineer
+5.7,5.7,9.2,Business Intelligence Analyst
+8.4,8.2,6.7,Computer Vision Engineer
+4.8,5.8,5.0,AI Research Analyst
+4.8,5.5,4.1,AI UX Designer
+4.2,5.3,5.0,Robotics Software Engineer
+5.6,5.8,4.8,Smart Manufacturing Analyst
+5.2,5.0,6.0,Digital Marketing Analyst (AI)
+5.2,10.0,5.5,Backend Developer
+5.5,4.5,4.4,AI Business Analyst
+7.4,5.5,9.9,Business Intelligence Analyst
+4.3,5.6,4.6,ERP Functional Consultant
+4.7,4.4,5.2,Sustainability Data Analyst
+4.7,5.3,4.0,Supply Chain AI Analyst
+4.1,4.2,4.8,AI Business Analyst
+5.6,5.8,4.5,Cloud DevOps Engineer
+5.1,10.0,7.1,Full Stack Developer
+4.8,5.0,4.3,EdTech Product Analyst
+4.1,4.3,5.3,AI Quality Assurance Engineer
+7.1,5.4,9.2,AI Product Manager
+4.2,4.4,5.8,Supply Chain AI Analyst
+4.0,5.3,4.8,Cloud Security Engineer
+5.3,5.2,4.4,Data Engineer
+5.7,5.0,5.6,AI Solutions Consultant
+4.8,6.0,5.5,Cloud Security Engineer
+5.9,5.0,4.9,ERP Functional Consultant
+5.5,5.8,5.9,ERP Functional Consultant
+4.6,5.6,4.4,Healthcare AI Analyst
+5.1,4.4,4.7,AI Governance Specialist
+5.9,4.3,5.3,AI Research Analyst
+5.2,4.2,4.7,AI Governance Specialist
+5.1,8.4,6.6,Blockchain Developer
+5.9,4.4,4.4,Software Developer
+4.9,5.5,4.6,Smart Manufacturing Analyst
+4.0,5.1,5.9,ERP Functional Consultant
+4.8,4.8,5.9,Security Automation Engineer
+5.4,5.4,5.1,Technical Program Manager
+7.4,6.9,9.8,Business Intelligence Analyst
+5.4,5.5,4.6,Mobile App Developer
+4.6,5.6,4.6,AI Operations Manager
+4.1,8.5,8.1,Frontend Developer
+8.2,9.2,6.2,Computer Vision Engineer
+8.9,6.1,8.1,Prompt Engineer
+4.6,4.7,4.1,IoT Engineer
+6.0,4.1,5.3,Digital Transformation Analyst
+4.7,5.3,4.7,Digital Transformation Analyst
+5.3,5.5,5.4,IoT Engineer
+4.2,5.3,4.6,MLOps Engineer
+8.6,5.8,8.4,Prompt Engineer
+4.9,5.4,4.6,Digital Marketing Analyst (AI)
+4.6,4.1,5.4,Security Automation Engineer
+5.1,4.7,5.4,ERP Functional Consultant
+5.1,4.9,5.0,Robotics Software Engineer
+5.3,9.3,5.6,Blockchain Developer
+4.3,4.3,5.3,AI Research Analyst
+5.7,8.8,5.3,Blockchain Developer
+5.5,5.7,5.8,MLOps Engineer
+4.2,9.7,6.5,Frontend Developer
+4.2,4.2,5.4,Cybersecurity Analyst
+5.1,9.0,6.9,Game Developer
+4.6,5.7,4.3,Digital Transformation Analyst
+4.7,5.5,4.1,Robotics Software Engineer
+9.3,9.1,6.9,Computer Vision Engineer
+5.8,4.6,5.2,Cloud DevOps Engineer
+4.2,4.5,4.2,Cybersecurity Analyst
+4.6,5.8,4.7,EdTech Product Analyst
+5.1,4.9,4.9,Technical Program Manager
+9.9,8.6,6.8,Machine Learning Engineer
+4.8,4.1,5.0,AR/VR Developer
+9.6,7.7,6.1,NLP Engineer
+4.3,5.5,5.4,Robotics Software Engineer
+5.6,8.9,7.8,Platform Engineer
+5.5,5.6,5.6,ERP Functional Consultant
+5.3,4.9,5.7,AI Operations Manager
+5.9,4.0,4.1,Cybersecurity Analyst
+5.9,4.6,5.7,Technical Program Manager
+4.8,4.2,4.2,Software Developer
+4.3,4.5,5.0,AI Business Analyst
+5.4,6.0,4.9,Mobile App Developer
+5.0,5.0,5.1,Smart Manufacturing Analyst
+5.0,4.0,4.0,Data Governance Analyst
+4.2,4.2,5.4,AI Business Analyst
+4.4,5.8,5.9,Digital Marketing Analyst (AI)
+10.0,9.4,6.5,NLP Engineer
+6.0,8.4,7.6,Game Developer
+9.8,9.7,6.4,Machine Learning Engineer
+5.5,4.2,4.1,AI Solutions Consultant
+5.5,4.9,6.0,EdTech Product Analyst
+4.2,5.7,5.0,AI Business Analyst
+5.7,5.6,5.8,MLOps Engineer
+4.6,9.9,5.3,Blockchain Developer
+4.2,4.9,5.7,AI Research Analyst
+4.9,5.7,5.5,Smart Manufacturing Analyst
+5.4,9.9,6.1,Game Developer
+5.8,4.6,5.0,AR/VR Developer
+4.8,4.3,4.7,IoT Engineer
+4.4,4.4,4.4,AI Operations Manager
+5.0,5.6,5.1,AI Operations Manager
+9.3,8.3,7.9,Data Scientist
+5.3,4.9,5.4,Cloud Security Engineer
+4.1,10.0,8.1,Full Stack Developer
+4.5,5.5,4.0,Healthcare AI Analyst
+8.4,7.6,6.6,Computer Vision Engineer
+5.5,10.0,6.5,Full Stack Developer
+5.0,5.4,4.3,Software Developer
+5.3,4.2,4.4,IoT Engineer
+5.0,5.3,4.3,AI Solutions Consultant
+4.4,8.4,5.5,Blockchain Developer
+4.5,4.8,5.3,IoT Engineer
+4.9,5.6,5.4,Smart Manufacturing Analyst
+4.3,4.1,5.8,AI Ethics Researcher
+7.2,5.3,8.5,AI Product Manager
+5.3,5.2,6.0,AR/VR Developer
+5.8,4.8,4.7,AI UX Designer
+5.1,7.8,5.8,Penetration Tester
+4.3,4.2,4.5,Cloud Security Engineer
+4.6,5.9,5.2,AI Operations Manager
+6.0,4.7,4.9,AI Governance Specialist
+4.6,4.4,4.3,Data Engineer
+5.9,6.0,4.1,Cloud Security Engineer
+5.8,6.3,8.4,Business Intelligence Analyst
+4.7,4.3,4.9,Healthcare AI Analyst
+9.0,5.7,7.7,Prompt Engineer
+4.9,6.0,4.7,EdTech Product Analyst
+5.8,5.7,5.9,EdTech Product Analyst
+5.6,5.3,5.7,AI Research Analyst
+4.2,4.9,6.0,Security Automation Engineer
+9.5,9.4,6.6,Computer Vision Engineer
+9.7,9.4,7.0,Machine Learning Engineer
+5.0,5.8,5.7,Sustainability Data Analyst
+7.2,6.8,8.6,Business Intelligence Analyst
+4.1,5.9,5.2,AR/VR Developer
+4.6,4.3,5.7,AI Governance Specialist
+5.7,5.6,5.3,Mobile App Developer
+4.7,4.6,4.0,SOC Engineer
+5.7,4.2,5.3,FinTech Software Engineer
+5.0,5.1,5.9,Smart Manufacturing Analyst
+4.1,5.5,4.1,AI Business Analyst
+4.1,4.9,4.1,AI Operations Manager
+5.6,5.1,4.1,Mobile App Developer
+4.1,5.2,5.6,Security Automation Engineer
+4.9,5.1,5.6,Cybersecurity Analyst
+5.2,4.4,5.2,AI UX Designer
+9.3,9.0,7.2,NLP Engineer
+5.9,4.4,5.9,Data Engineer
+5.1,5.3,4.2,AI Solutions Consultant
+4.8,5.5,5.4,Smart Manufacturing Analyst
+4.6,9.1,6.2,Platform Engineer
+6.0,5.8,4.0,AI Research Analyst
+5.7,5.8,4.7,EdTech Product Analyst
+5.4,4.9,5.3,FinTech Software Engineer
+4.7,4.6,4.8,SOC Engineer
+4.3,5.7,4.7,Software Developer
+4.8,5.8,5.0,Sustainability Data Analyst
+5.1,5.9,5.8,AI Ethics Researcher
+4.3,4.9,5.9,Robotics Software Engineer
+4.7,4.7,4.4,AI Research Analyst
+4.2,5.5,5.5,Mobile App Developer
+5.9,5.5,4.5,AI Ethics Researcher
+4.1,6.0,4.7,Supply Chain AI Analyst
+4.6,5.8,5.2,Data Engineer
+4.4,5.8,6.0,Smart Manufacturing Analyst
+4.2,5.7,4.8,Smart Manufacturing Analyst
+5.0,5.8,5.9,AI Cloud Engineer
+4.5,4.4,4.2,Supply Chain AI Analyst
+5.1,4.0,4.8,Mobile App Developer
+4.1,4.8,4.1,ERP Functional Consultant
+5.7,4.4,4.7,SOC Engineer
+5.7,5.5,4.4,AI Cloud Engineer
+4.1,5.4,4.8,EdTech Product Analyst
+10.0,5.9,8.2,Prompt Engineer
+8.9,9.5,7.3,Machine Learning Engineer
+5.1,9.0,6.1,Game Developer
+5.4,9.3,6.2,Penetration Tester
+5.9,5.3,5.9,Smart Manufacturing Analyst
+5.5,4.2,4.5,AI Cloud Engineer
+4.8,4.3,5.0,AI Quality Assurance Engineer
+4.9,5.9,4.9,Site Reliability Engineer
+5.6,5.9,5.8,AI UX Designer
+8.4,8.5,5.7,Computer Vision Engineer
+4.8,4.7,5.7,Security Automation Engineer
+7.9,6.0,10.0,AI Product Manager
+4.1,5.0,5.5,Healthcare AI Analyst
+5.8,6.7,8.5,Business Intelligence Analyst
+5.7,4.7,4.7,Software Developer
+5.2,4.4,4.6,Sustainability Data Analyst
+4.8,4.7,5.0,FinTech Software Engineer
+5.2,5.1,5.3,Digital Marketing Analyst (AI)
+8.1,7.3,8.0,Data Scientist
+4.7,8.5,7.3,Frontend Developer
+5.0,5.1,5.3,Supply Chain AI Analyst
+4.1,5.4,4.1,Technical Program Manager
+4.9,5.7,4.9,Cybersecurity Analyst
+4.3,6.0,5.8,Mobile App Developer
+5.5,4.8,4.4,Site Reliability Engineer
+5.9,5.1,5.7,FinTech Software Engineer
+4.7,4.7,6.0,AI UX Designer
+5.0,4.3,4.4,AI Operations Manager
+5.0,4.1,4.9,Healthcare AI Analyst
+4.8,5.6,4.7,AI Business Analyst
+6.0,4.4,5.2,AR/VR Developer
+5.2,9.5,8.0,Game Developer
+5.6,5.1,5.0,AI Governance Specialist
+5.7,5.9,6.0,AI Solutions Consultant
+4.8,6.0,4.3,Site Reliability Engineer
+4.5,4.2,4.5,AI Operations Manager
+5.5,5.7,5.6,Supply Chain AI Analyst
+9.3,8.5,6.4,Computer Vision Engineer
+4.8,5.7,5.4,Mobile App Developer
+5.4,5.1,5.8,AI Cloud Engineer
+7.5,5.8,10.0,AI Product Manager
+5.5,9.8,6.7,Platform Engineer
+4.7,5.8,4.9,SOC Engineer
+5.0,4.7,4.6,Smart Manufacturing Analyst
+5.3,4.2,5.8,AI Ethics Researcher
+5.6,4.4,5.4,Data Governance Analyst
+9.2,7.9,5.5,Computer Vision Engineer
+6.3,6.9,9.3,Business Intelligence Analyst
+5.1,5.5,5.5,AI Ethics Researcher
+9.2,9.1,6.7,NLP Engineer
+5.8,5.2,5.6,Cybersecurity Analyst
+5.1,4.4,5.1,Cloud DevOps Engineer
+4.7,5.4,5.0,Digital Marketing Analyst (AI)
+4.7,9.4,7.9,Frontend Developer
+7.9,9.0,8.2,Data Scientist
+9.1,7.7,7.6,Data Scientist
+4.3,5.1,4.3,Mobile App Developer
+5.1,5.3,4.8,SOC Engineer
+5.0,5.8,4.2,FinTech Software Engineer
+8.6,5.3,8.6,AI Product Manager
+4.4,5.5,4.8,Security Automation Engineer
+5.2,9.5,5.0,Backend Developer
+5.4,4.2,5.6,AI Cloud Engineer
+5.3,8.7,7.5,Game Developer
+5.9,4.7,5.7,AI Ethics Researcher
+4.4,5.6,5.3,Supply Chain AI Analyst
+4.4,4.6,4.3,Supply Chain AI Analyst
+4.8,8.9,7.8,Full Stack Developer
+6.0,4.0,5.1,Data Governance Analyst
+5.1,5.8,5.0,SOC Engineer
+5.1,4.9,4.5,SOC Engineer
+4.1,8.8,5.1,Blockchain Developer
+5.1,4.6,5.1,Data Engineer
+4.3,5.9,5.8,AI Ethics Researcher
+4.4,4.7,5.2,SOC Engineer
+4.2,4.7,4.5,FinTech Software Engineer
+5.8,5.7,5.2,Site Reliability Engineer
+5.0,5.9,5.9,Digital Marketing Analyst (AI)
+5.9,4.3,4.3,Digital Marketing Analyst (AI)
+5.4,9.1,5.0,Blockchain Developer
+3.1,9.8,8.2,Frontend Developer
+4.7,5.8,5.2,Technical Program Manager
+5.6,8.9,5.2,Blockchain Developer
+4.9,4.9,5.1,Cloud DevOps Engineer
+4.2,6.0,4.5,MLOps Engineer
+4.4,5.1,5.1,Sustainability Data Analyst
+4.9,5.5,5.0,Sustainability Data Analyst
+5.2,5.4,4.1,Security Automation Engineer
+5.1,5.8,4.0,Sustainability Data Analyst
+8.8,9.9,6.2,Machine Learning Engineer
+4.9,6.0,4.4,Data Governance Analyst
+4.1,5.7,5.7,IoT Engineer
+4.9,5.0,5.7,AI UX Designer
+9.5,8.5,5.5,Machine Learning Engineer
+5.0,5.7,5.8,Software Developer
+8.9,6.8,9.7,AI Product Manager
+4.9,5.5,5.5,Cybersecurity Analyst
+5.1,4.2,5.9,Supply Chain AI Analyst
+4.9,4.7,5.3,AI Governance Specialist
+5.8,7.9,7.2,Penetration Tester
+4.6,4.4,4.8,AI Governance Specialist
+5.5,5.9,5.6,Digital Transformation Analyst
+4.9,8.3,6.6,Frontend Developer
+5.1,4.6,5.7,Mobile App Developer
+5.3,5.9,4.5,AI Solutions Consultant
+9.0,8.5,5.5,Computer Vision Engineer
+5.2,4.9,4.9,Digital Marketing Analyst (AI)
+4.7,4.0,5.0,Cloud DevOps Engineer
+6.2,5.5,8.6,Business Intelligence Analyst
+4.6,4.8,4.3,SOC Engineer
+5.0,5.4,5.3,Sustainability Data Analyst
+5.6,4.9,5.0,AI Governance Specialist
+5.6,4.9,5.4,AI Solutions Consultant
+4.4,9.3,6.5,Backend Developer
+4.3,4.7,4.4,AI Ethics Researcher
+4.7,4.5,5.2,AR/VR Developer
+5.6,5.6,4.7,Cybersecurity Analyst
+5.0,9.2,7.3,Frontend Developer
+5.7,5.5,5.5,EdTech Product Analyst
+5.4,8.9,7.7,Game Developer
+5.0,5.4,5.2,AI Operations Manager
+5.7,4.6,5.2,Software Developer
+4.2,5.4,5.5,AI Operations Manager
+4.1,5.4,4.8,AI Cloud Engineer
+4.2,4.8,4.4,AI UX Designer
+4.8,4.8,5.5,MLOps Engineer
+9.5,8.7,5.0,Computer Vision Engineer
+5.9,5.4,4.1,Digital Marketing Analyst (AI)
+5.6,4.4,5.2,AI Business Analyst
+8.9,8.3,7.8,NLP Engineer
+4.9,4.2,5.9,Site Reliability Engineer
+8.8,6.4,9.4,AI Product Manager
+4.2,5.6,4.2,Data Governance Analyst
+4.1,5.1,4.3,AI Solutions Consultant
+4.5,8.8,6.3,Platform Engineer
+4.3,4.2,4.4,Cloud Security Engineer
+9.9,6.6,8.4,Prompt Engineer
+6.5,5.6,8.1,Business Intelligence Analyst
+4.5,5.1,5.5,ERP Functional Consultant
+5.2,4.8,4.2,Healthcare AI Analyst
+5.6,4.7,5.5,AI Solutions Consultant
+5.0,5.5,5.8,Sustainability Data Analyst
+5.8,5.1,5.0,Sustainability Data Analyst
+4.5,5.9,4.9,MLOps Engineer
+4.3,4.9,4.3,AI Operations Manager
+5.0,5.1,4.7,Cloud Security Engineer
+4.1,5.9,5.5,AR/VR Developer
+5.7,4.7,5.5,IoT Engineer
+5.0,4.4,4.2,Supply Chain AI Analyst
+4.7,4.3,6.0,Robotics Software Engineer
+5.1,8.9,6.9,Game Developer
+4.6,5.1,4.3,IoT Engineer
+5.1,9.2,6.2,Backend Developer
+5.4,5.8,5.7,Sustainability Data Analyst
+5.2,4.8,5.0,Supply Chain AI Analyst
+9.5,9.3,6.2,NLP Engineer
+4.8,5.6,4.9,AI Solutions Consultant
+4.7,4.8,5.2,Technical Program Manager
+6.0,5.0,4.4,AI Ethics Researcher
+3.3,8.1,7.6,Frontend Developer
+5.1,4.4,5.4,ERP Functional Consultant
+10.0,5.5,8.2,Prompt Engineer
+6.0,4.7,5.5,Healthcare AI Analyst
+5.4,9.6,7.5,Platform Engineer
+5.3,5.7,5.9,AI Governance Specialist
+5.2,4.5,4.8,AI Ethics Researcher
+5.5,5.3,4.4,Data Engineer
+8.6,6.4,8.0,Prompt Engineer

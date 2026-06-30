@@ -1,0 +1,358 @@
+--- PAGE 76 ---
+CHAPTER 10
+RESULTS
+--- PAGE 77 ---
+10.1 Screen Shots
+This section includes snapshots of the implemented system.
+1. Login Page of the SafeNest System
+2. Sign Up Page of the SafeNest System
+3. Home Dashboard of the SafeNest System
+DYPCOEI, Department of Computer Engineering 2025 - 26 67
+--- PAGE 78 ---
+1. Login Page of the PostAI Workforce System : The login page allows
+registered users to securely access the PostAI Workforce platform using their
+email and password. It ensures authenticated access to personalized career
+guidance services, skill analysis features, and job prediction modules.
+Theloginsystemvalidatesusercredentialsandmaintainsdatasecuritythrough
+proper authentication mechanisms. Once logged in, users can access their pro-
+files, input skills and interests, and receive AI-based career recommendations
+and insights into future job trends.
+Figure 10.1: Login Page of the SafeNest System
+2. SignUp Page of the PostAI Workforce System : This page allows new
+users to create an account by entering essential details such as name, email
+address, mobile number, password, and career-related information like skills,
+interests,oreducationalbackground. Itservesastheuserregistrationinterface
+for the platform.
+The signup system ensures secure data collection and stores user information
+for personalized analysis. Once registered, users can log in to access AI-based
+career recommendations, job prediction features, and skill development guid-
+ance provided by the system.
+Figure 10.2: SignUp Page of the PostAI Workforce System
+3. Dashboard of the PostAI Workforce System : The dashboard displays
+personalized information such as user skills, interests, recommended career
+paths, and job predictions generated using AI models. It also provides access
+to features like skill analysis, career guidance, course recommendations, and
+job market trends.
+DYPCOEI, Department of Computer Engineering 2025 - 26 68
+--- PAGE 79 ---
+Figure 10.3: Dashboard of the PostAI Workforce System
+10.2 Outputs
+4.
+The major outputs produced by the AI Workforce Design and Analysis system
+are as follows:
+10.2.1 Home Page
+The home page acts as the central interface of the system, providing access
+to all major features such as profile creation, skill analysis, career prediction,
+and recommendations. It serves as the main navigation point for users.
+10.2.2 Login Page
+The login page allows registered users to securely access the system using their
+credentials. It ensures that only authenticated users can use the platform
+features.
+10.2.3 Sign Up Page
+The sign-up page enables new users to create an account by entering basic
+details such as name, email, and password. This ensures secure registration
+and user identification.
+10.2.4 User Dashboard
+The dashboard presents a summary of user data including profile details, ana-
+lyzed skills, career suggestions, and recommended learning paths. It provides
+a complete overview of user activities.
+10.2.5 Skill Analysis Output
+This module analyzes the user’s existing skills and identifies gaps based on
+industry requirements. It generates a detailed report highlighting strengths
+and areas for improvement.
+10.2.6 Career Prediction Output
+The system suggests suitable career paths based on user profile data and job
+market trends. The output includes ranked career options aligned with user
+interests and skills.
+10.2.7 Recommendation System Output
+This module provides personalized suggestions such as courses, certifications,
+and training programs required to bridge identified skill gaps and achieve ca-
+reer goals.
+DYPCOEI, Department of Computer Engineering 2025 - 26 69
+--- PAGE 80 ---
+10.2.8 Profile Management Module
+Users can update and manage their personal information, skills, and prefer-
+ences. The system reflects these updates in analysis and recommendations
+dynamically.
+10.2.9 Job Market Insights
+The system provides updated information about trending skills, in-demand
+job roles, and industry requirements to help users stay competitive.
+10.2.10 Learning Path Guidance
+This feature generates a structured roadmap for users, guiding them step-
+by-step on how to acquire necessary skills and progress toward their desired
+career.
+10.2.11 Chatbot Interface
+The chatbot assists users by answering queries related to career guidance, skill
+development,andsystemusagethroughaninteractiveconversationalinterface.
+10.2.12 Admin Dashboard
+The admin panel enables monitoring of system activities, user management,
+data analysis, and performance tracking. It supports efficient maintenance
+and system control.
+DYPCOEI, Department of Computer Engineering 2025 - 26 70
+--- PAGE 81 ---
+CHAPTER 11
+DEPLOYMENT AND
+MAINTENANCE
+--- PAGE 82 ---
+11.1 Installation and Un-installation
+11.1.1 Installation
+The following steps are followed to install and run the AI Workforce Design
+and Analysis system:
+(a) Install the required development environment such as Python (or rele-
+vant IDE like VS Code / PyCharm).
+(b) Install necessary libraries and frameworks (e.g., NumPy, Pandas, Scikit-
+learn, Flask/Django if used).
+(c) Download or clone the project source code into the system.
+(d) Open the project in the selected development environment.
+(e) Configure the database (e.g., MySQL / Firebase) and connect it with
+the application.
+(f) Set up required APIs or datasets used for career prediction and job
+market analysis.
+(g) Install all required dependencies using package managers (pip, etc.).
+(h) Run the application server or main program file.
+(i) Open the application interface (web or local system).
+(j) Verify that modules such as user registration, skill analysis, career pre-
+diction, and recommendation system are working correctly.
+11.1.2 Un-installation
+The following steps are used to remove the system:
+1. Close the running application.
+2. Stop the server or terminate the running process.
+3. Remove the application files or project folder from the system.
+4. Delete any stored datasets or database entries if not required.
+5. Uninstall installed dependencies and libraries if no longer needed.
+6. Remove development tools or IDE if they are not required in the future.
+DYPCOEI, Department of Computer Engineering 2025 - 26 72
+--- PAGE 83 ---
+11.2 User Help
+To assist users in effectively using the AI Workforce Design and Analysis system,
+the following guidelines are provided:
+• Users should complete registration and login before accessing system fea-
+tures.
+• Users should provide accurate profile details such as skills, education, and
+interests for better analysis.
+• The system should be used with an active internet connection for real-time
+data processing and updates.
+• Users can perform skill gap analysis to understand missing competencies.
+• Career prediction results should be reviewed carefully to choose suitable
+career paths.
+• Users should follow recommended learning paths and courses to improve
+their skills.
+• Profile information should be updated regularly for more accurate results.
+• Users can interact with the chatbot for guidance and system assistance.
+• The platform should be updated regularly to access improved features and
+performance.
+• In case of issues, users should restart the application, verify inputs, and
+check connectivity before seeking technical support.
+.
+DYPCOEI, Department of Computer Engineering 2025 - 26 73
+--- PAGE 84 ---
+CHAPTER 12
+CONCLUSION AND FUTURE SCOPE
+--- PAGE 85 ---
+12.1 Conclusion
+The AI Workforce Design and Analysis system is developed to provide an intelligent,
+efficient, anduser-friendlyplatformforcareerguidanceandworkforceplanning. The
+system helps users analyze their skills, identify gaps, and explore suitable career
+opportunities based on current industry demands. By using modern technologies
+such as machine learning, data analytics, and cloud-based systems, the platform
+delivers accurate insights and personalized recommendations.
+The project successfully integrates key features such as user profile manage-
+ment, skill gap analysis, career prediction, job market insights, recommendation
+generation, and chatbot assistance. These components work together to support
+users in making informed career decisions and improving their professional growth.
+The implementation and testing results show that the system performs effec-
+tively, processes user data accurately, and provides reliable recommendations. This
+platform addresses the increasing need for smart career guidance solutions and offers
+a practical approach to workforce development. In the future, the system can be
+enhanced with more advanced technologies to make it more intelligent, adaptive,
+and widely accessible.
+.
+12.2 Future Scope
+The AI Workforce Design and Analysis system has strong potential for future im-
+provements as technology and job market trends continue to evolve. With further
+enhancements, the platform can grow into a complete career guidance ecosystem.
+Some possible future developments include:
+• Advanced AI-Based Career Prediction: Future versions can use deep learning
+techniques to deliver more accurate and dynamic career suggestions based on
+real-time data and user behavior.
+• Real-Time Job Market Integration: The system can be connected with live
+job portals to provide updated job opportunities, salary insights, and industry
+trends.
+• Personalized Learning Platforms Integration: Integration with online learning
+platforms can allow users to directly access recommended courses and certifi-
+cations.
+• Voice-Based Interaction: Users can interact with the system using voice com-
+mands, making it more accessible and user-friendly.
+• Mobile Application Development: A dedicated mobile application can be de-
+veloped to provide easy access anytime and anywhere.
+• AIChatbotEnhancement: Thechatbotcanbeimprovedtooffermoredetailed
+guidance, career advice, and real-time support.
+• Multi-Language Support: The system can be expanded to support multiple
+languages, making it accessible to a wider audience.
+DYPCOEI, Department of Computer Engineering 2025 - 26 75
+--- PAGE 86 ---
+• DataVisualizationandAnalyticsDashboard: Advanceddashboardscanpresent
+insights through graphs and visual reports for better understanding.
+• Industry Collaboration: Partnerships with companies can help provide direct
+internship and job opportunities through the platform.
+• Automated Resume and Portfolio Builder: The system can assist users in
+creating professional resumes and portfolios based on their skills and career
+goals.
+DYPCOEI, Department of Computer Engineering 2025 - 26 76
+--- PAGE 87 ---
+CHAPTER 13
+REFERENCES
+--- PAGE 88 ---
+[1] C. B. Frey and M. A. Osborne, “The Future of Employment: How Susceptible
+Are Jobs to Computerisation,” University of Oxford, Oxford, UK, 2013.
+[2] A. Kumar, S. Singh, V. Raj, and G. Nigam, “Tech Trajectory: AI-Enhanced
+Career Guidance System,” International Journal of Research in Engineering,
+Science and Management (IJRESM),vol.8,no.5,pp.109–115,Lucknow,India,
+May 2025
+[3] A. Shaji George, “Artificial Intelligence and the Future of Work: Job Shift-
+ing Not Job Loss,” International Journal of Scientific Research & Engineering
+Trends, 2024.
+[4] S. Westman, “Artificial Intelligence for Career Guidance,” Journal of Career
+Development Studies, 2021.
+[5] S. K. Patel et al., “Navigating the Era of Generative AI,” International Journal
+of Advanced Computer Science and Applications, 2024.
+[6] S. K. Singh, A. Singh, and P. Nigam, “CareerTrajectory: AI-Enhanced Career
+Guidance System,” International Journal of Computer Techniques (IJCT), vol.
+13, no. 2, 2026.
+[7] J. E. Bessen, “AI and Jobs: The Role of Demand,” National Bureau of Eco-
+nomic Research (NBER Working Paper), Cambridge, MA, USA, 2018.
+[8] Centre for Management Studies, Jain University, “The Impact of Artificial In-
+telligenceintheWorkplaceandItsEffectonDigitalWellbeing,”JainUniversity,
+Bangalore, India, 2024.
+[9] C. Peppiatt, “AI and the Future of Work,” World Economic Forum Report,
+2024.
+[10] S. S. Sengar et al., “Generative Artificial Intelligence: A Systematic Review
+and Applications,” International Journal of Intelligent Systems, 2024.
+[11] T. Chakraborty et al., “The Shifting Paradigm in AI: Why Generative AI is
+the New Economic Variable,” Journal of AI and Economics, 2024.
+DYPCOEI, Department of Computer Engineering 2025 - 26 78
+--- PAGE 89 ---
+ANNEXURE A
+LABORATORY ASSIGNMENTS ON
+PROJECT ANALYSIS OF
+ALGORITHMIC DESIGN
+--- PAGE 90 ---
+The PostAI Workforce system is an AI-based career guidance and work-
+force prediction platform that analyzes user skills, interests, and market
+trends to recommend suitable career paths and future job opportunities.
+To justify the feasibility of the proposed system, Knowledge Canvas con-
+cepts and the IDEA Matrix framework are applied. The IDEA Matrix
+(Increase, Drive, Educate, Accelerate) helps in systematically analyzing
+thesystembyidentifyingimprovements,enhancingdecision-making,and
+aligning the platform with its core objective of intelligent career guid-
+ance, skill mapping, and job market prediction. IDEA Matrix Appli-
+cation in PostAI Workforce:
+– Increase: ImproveaccuracyofcareerrecommendationsusingAImodels
+and larger datasets.
+– Drive: Encourage users to upskill based on real-time job market trends
+and demand analysis.
+– Educate: Provideawarenessaboutemergingtechnologies,requiredskills,
+and career paths.
+– Accelerate: Enable faster decision-making through predictive analytics
+and automated career suggestions.
+Feasibility Considerations:
+1. Data Acquisition and Complexity
+The PostAI Workforce system depends on collecting and processing diverse
+data such as user skills, educational background, interests, and job market
+trends. It integrates data from multiple sources like job portals, industry
+reports, and skill databases.
+Handling large-scale and dynamic data increases system complexity. The plat-
+form must ensure accurate data preprocessing, integration, and real-time up-
+dates. Maintaining data quality, consistency, and security is essential for gen-
+erating reliable career recommendations.
+2. Algorithmic Complexity and Optimization
+The system uses machine learning algorithms for skill analysis, recommen-
+dation systems, and predictive modeling of future job trends. These include
+classification, clustering, and recommendation algorithms.
+Optimization is required to improve prediction accuracy and reduce computa-
+tion time. Efficient data processing techniques and model tuning are necessary
+to handle large datasets and provide quick, personalized career suggestions.
+The system must balance accuracy with performance to ensure smooth user
+experience.
+3. Scalability and Business Perspective
+Scalability is important as the number of users and data sources grows. The
+systemshouldsupportcloud-baseddeploymentandreal-timeanalyticstohan-
+dle large-scale operations.
+DYPCOEI, Department of Computer Engineering 2025 - 26 80
+--- PAGE 91 ---
+From a business perspective, PostAI Workforce can be used by students, job
+seekers, educational institutions, and corporate organizations for workforce
+planning and career development.
+A scalable system enables continuous updates, supports future enhancements
+like real-time job matching, and ensures consistent performance under increas-
+ing demand.
+Thus, the proposed PostAI Workforce system is feasible in terms of data han-
+dling, algorithmic efficiency, scalability, and practical applicability in modern
+AI-driven career guidance.
+DYPCOEI, Department of Computer Engineering 2025 - 26 81
+--- PAGE 92 ---
+CHAPTER 2
+LABORATORY ASSIGNMENTS ON
+PROJECT QUALITY AND
+RELIABILITY TESTING OF PROJECT
+DESIGN
+--- PAGE 93 ---
+This annexure presents the laboratory testing activities performed to evaluate the
+quality and reliability of the PostAI Workforce system. Various test cases were con-
+ducted to ensure that the platform operates accurately, efficiently, and consistently
+under different conditions.
+Quality testing focused on validating key features such as:
+• User authentication and profile management
+• Skill input and data processing
+• AI-based career recommendation system
+• Job trend analysis and prediction
+• User interface responsiveness and usability
+Reliability testing was carried out to ensure stable system performance during re-
+peated usage and continuous interaction with the platform. The system was tested
+with multiple user inputs and datasets to verify consistent recommendation results
+and system stability.
+Performance and security testing were also conducted to evaluate:
+• System response time during recommendation generation
+• Accuracy and efficiency of machine learning models
+• Data protection and secure handling of user information
+• System performance under increasing user load
+The results demonstrate that the PostAI Workforce system meets the required stan-
+dards of quality, reliability, security, and overall performance. The system is capable
+of delivering accurate career guidance and handling real-time data efficiently.
+DYPCOEI, Department of Computer Engineering 2025 - 26 83
+--- PAGE 94 ---
+CHAPTER 3
+PROJECT PLANNER
+--- PAGE 95 ---
+Project Planner of PostAI Workforce System
+The project planner illustrates the timeline and phased development of the
+PostAI Workforce system over a period of six months (approximately 24–26 weeks).
+It provides a structured view of how the project is divided into different stages,
+ensuring systematic development and timely completion.
+Phase 1: Requirement Analysis and Planning
+This initial phase focuses on gathering and analyzing user requirements re-
+lated to career guidance, skill assessment, and job prediction. The project scope,
+objectives, and system requirements are clearly defined.
+Phase 2: System Design and Development
+In this phase, the system architecture, database design, and user interface are
+developed. Core functionalities such as user authentication, profile management,
+skill input module, and data preprocessing are implemented.
+Phase 3: AI Model Development and Integration
+This phase involves developing and integrating machine learning models for
+career recommendation and job trend prediction. It includes training models using
+datasets, implementing recommendation algorithms, and integrating AI modules
+into the system.
+Phase 4: Testing and Optimization
+This phase includes functional testing, performance testing, and validation
+of AI models. Optimization is carried out to improve prediction accuracy, reduce
+response time, and enhance system efficiency. Bugs and errors are identified and
+resolved.
+Phase 5: Deployment and Maintenance
+The final phase involves deploying the system on a suitable platform and mon-
+itoring its performance. Regular updates, model improvements, and maintenance
+activities are performed to ensure continuous system enhancement and reliability.
+Thus, the project planner provides a clear roadmap for the development of
+the PostAI Workforce system, ensuring efficient resource utilization, scalability, and
+timely project completion.
+.
+DYPCOEI, Department of Computer Engineering 2025 - 26 85

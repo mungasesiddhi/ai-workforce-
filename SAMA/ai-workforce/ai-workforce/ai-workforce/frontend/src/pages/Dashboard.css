@@ -1,0 +1,219 @@
+/* ===================================
+   Dashboard page (Dark Mode)
+   =================================== */
+
+.dashboard-page {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Base header styles inherit from Profile.css / global */
+
+.dashboard-layout {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+}
+
+/* ---------- Quiz Container (Left) ---------- */
+.quiz-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem; /* slightly increased gap for dark mode */
+}
+
+.quiz-card {
+  padding: 1.75rem;
+  transition: all var(--transition);
+}
+
+.quiz-card.answered {
+  border-color: rgba(139, 92, 246, 0.3);
+  background: rgba(139, 92, 246, 0.05);
+}
+
+.quiz-question {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  margin-bottom: 1.25rem;
+}
+
+.q-num {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--primary);
+  background: rgba(139, 92, 246, 0.15);
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  margin-top: 2px;
+}
+
+.quiz-question p {
+  flex: 1;
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #fff;
+}
+
+.q-check {
+  flex-shrink: 0;
+}
+
+/* Options */
+.quiz-options {
+  display: flex;
+  gap: 12px;
+  padding-left: 48px;
+}
+
+.quiz-options button {
+  flex: 1;
+  padding: 12px 0;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: var(--radius-md);
+  font-size: 0.9rem;
+  font-family: inherit;
+  font-weight: 500;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.quiz-options button:hover {
+  background: rgba(255, 255, 255, 0.05);
+  color: #fff;
+}
+
+.quiz-options button.selected {
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  color: #fff;
+  border-color: transparent;
+  box-shadow: 0 4px 15px var(--primary-glow);
+  font-weight: 600;
+}
+
+.quiz-footer {
+  margin-top: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding-bottom: 2rem;
+}
+
+.quiz-hint {
+  font-size: 0.85rem;
+  color: #fca5a5;
+  font-weight: 500;
+}
+
+/* ---------- Result Container (Right) ---------- */
+.result-container {
+  width: 380px;
+  flex-shrink: 0;
+}
+
+.result-sticky-card {
+  position: sticky;
+  top: 90px;
+  padding: 3rem 2.5rem;
+  text-align: center;
+  min-height: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.result-empty {
+  color: var(--text-muted);
+}
+
+.empty-state-icon {
+  width: 72px;
+  height: 72px;
+  border-radius: var(--radius-full);
+  background: rgba(255, 255, 255, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1.5rem;
+  color: rgba(255, 255, 255, 0.2);
+}
+
+.result-empty h3 {
+  font-size: 1.25rem;
+  color: #fff;
+  margin-bottom: 0.75rem;
+}
+
+.result-empty p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.result-success-icon {
+  width: 64px;
+  height: 64px;
+  border-radius: var(--radius-full);
+  background: rgba(139, 92, 246, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1.25rem;
+  box-shadow: inset 0 0 10px rgba(139, 92, 246, 0.4);
+}
+
+.result-content h3 {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.75rem;
+}
+
+.result-content h2 {
+  font-size: 1.75rem;
+  line-height: 1.3;
+  margin-bottom: 2rem;
+}
+
+.result-scores {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 1.25rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  text-align: left;
+}
+
+.r-score {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.95rem;
+}
+
+.r-score span {
+  color: var(--text-muted);
+}
+
+@media (max-width: 900px) {
+  .dashboard-layout {
+    flex-direction: column;
+  }
+  .result-container {
+    width: 100%;
+    order: -1;
+  }
+  .result-sticky-card {
+    position: static;
+    min-height: auto;
+    padding: 2.5rem;
+  }
+  .quiz-options {
+    padding-left: 0;
+  }
+}

@@ -1,0 +1,66 @@
+/* Register — extends the shared Login.css auth styles */
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+@media (max-width: 480px) {
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* OTP Specific Styling */
+.otp-input-wrapper {
+  background: rgba(255, 255, 255, 0.03) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+.otp-field {
+  letter-spacing: 0.5rem;
+  font-size: 1.5rem !important;
+  text-align: center;
+  font-weight: 700;
+  color: var(--primary) !important;
+}
+
+.otp-field::placeholder {
+  letter-spacing: normal;
+  font-size: 1rem;
+  font-weight: 400;
+  opacity: 0.5;
+}
+
+/* Success Animation Scaling */
+.success-icon-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.success-pulse-icon {
+  color: #10b981;
+  filter: drop-shadow(0 0 15px rgba(16, 185, 129, 0.4));
+  animation: pulseSucces 2s infinite;
+}
+
+@keyframes pulseSucces {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.1); opacity: 0.8; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.otp-container h3, 
+.otp-container p {
+  text-align: center;
+}
+
+.otp-container .auth-form-header {
+  margin-bottom: 2rem;
+}
+
+/* Transitions */
+.auth-form-wrapper {
+  transition: all 0.4s ease-in-out;
+}

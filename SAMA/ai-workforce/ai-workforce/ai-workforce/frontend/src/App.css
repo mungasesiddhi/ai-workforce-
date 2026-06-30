@@ -1,0 +1,24 @@
+/* ===================================
+   App-level layout
+   =================================== */
+
+/* Authenticated layout with navbar */
+.app-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.app-layout .app-content {
+  flex: 1;
+  padding: 2rem 2.5rem;
+  max-width: 1280px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .app-layout .app-content {
+    padding: 1.25rem 1rem;
+  }
+}
